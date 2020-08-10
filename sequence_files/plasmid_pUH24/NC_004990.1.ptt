@@ -1,0 +1,11 @@
+NC_004990.1 - 1..7835
+8 proteins
+Location	Strand	Length	PID	Gene	Synonym	Code	COG	Product
+574..1137	-	188	-	ST32046_p9_1	ST32046_p9_1	-	-	hypothetical protein
+1485..1928	+	148	-	ST32046_p4	ST32046_p4	-	-	hypothetical protein
+1938..2483	+	182	-	ST32046_p5	ST32046_p5	-	-	hypothetical protein
+2644..3159	-	172	-	ST32046_p9_2	ST32046_p9_2	-	-	hypothetical protein
+3567..4040	-	158	-	ST32046_p7	ST32046_p7	-	-	hypothetical protein
+3995..6625	-	877	-	ST32046_p8	ST32046_p8	-	-	hypothetical protein
+6800..7402	-	201	-	ST32046_p9_3	ST32046_p9_3	-	-	hypothetical protein
+7504..7835	-	111	-	ST32046_p9_4	ST32046_p9_4	-	-	hypothetical protein

@@ -1,0 +1,8 @@
+NC_004990.1	RefSeq	CDS	574	1137	.	-	0	gene_id "ST32046_p9_1"; transcript_id "ST32046_p9_1"
+NC_004990.1	RefSeq	CDS	1485	1928	.	+	0	gene_id "ST32046_p4"; transcript_id "ST32046_p4"
+NC_004990.1	RefSeq	CDS	1938	2483	.	+	0	gene_id "ST32046_p5"; transcript_id "ST32046_p5"
+NC_004990.1	RefSeq	CDS	2644	3159	.	-	0	gene_id "ST32046_p9_2"; transcript_id "ST32046_p9_2"
+NC_004990.1	RefSeq	CDS	3567	4040	.	-	0	gene_id "ST32046_p7"; transcript_id "ST32046_p7"
+NC_004990.1	RefSeq	CDS	3995	6625	.	-	0	gene_id "ST32046_p8"; transcript_id "ST32046_p8"
+NC_004990.1	RefSeq	CDS	6800	7402	.	-	0	gene_id "ST32046_p9_3"; transcript_id "ST32046_p9_3"
+NC_004990.1	RefSeq	CDS	7504	7835	.	-	0	gene_id "ST32046_p9_4"; transcript_id "ST32046_p9_4"

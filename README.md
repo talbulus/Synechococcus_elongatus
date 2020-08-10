@@ -1,1 +1,1 @@
-# Synechococcus_elongatus
+../README.md
