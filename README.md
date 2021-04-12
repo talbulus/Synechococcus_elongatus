@@ -1,1 +1,2 @@
-This file contains all the files needed for S elongatus to run ICA Ananlysis. Tahani 
+# modulome_selon
+iModulon structure of Synechococcus elongatus PCC 7942

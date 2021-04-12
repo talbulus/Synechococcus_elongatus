@@ -1,0 +1,135 @@
+,gene_id,gene_ontology,gene_product
+0,SYNPCC7942_RS11230,ATP binding,D-ribulose kinase
+1,SYNPCC7942_RS11230,D-ribulokinase activity,D-ribulose kinase
+2,SYNPCC7942_RS07295,carboxysome,Ribulose bisphosphate carboxylase large chain
+3,SYNPCC7942_RS02640,carboxysome,Uncharacterized protein
+4,SYNPCC7942_RS02641,structural constituent of carboxysome,Uncharacterized protein
+5,SYNPCC7942_RS00645,protein binding,Global nitrogen regulator
+6,SYNPCC7942_RS07645,protein binding,Acetylglutamate kinase
+7,SYNPCC7942_RS07645,protein binding,Acetylglutamate kinase
+8,SYNPCC7942_RS07645,protein binding,Acetylglutamate kinase
+9,SYNPCC7942_RS07645,protein binding,Acetylglutamate kinase
+10,SYNPCC7942_RS07645,protein binding,Acetylglutamate kinase
+11,SYNPCC7942_RS07645,identical protein binding,Acetylglutamate kinase
+12,SYNPCC7942_RS07645,identical protein binding,Acetylglutamate kinase
+13,SYNPCC7942_RS07300,carboxysome,RuBisCO_small domain-containing protein
+14,SYNPCC7942_RS07300,carboxysome,Uncharacterized protein Synpcc7942_1424
+15,SYNPCC7942_RS07300,structural constituent of carboxysome,Uncharacterized protein Synpcc7942_1424
+16,SYNPCC7942_RS07290,carboxysome,Uncharacterized protein CcmO
+17,SYNPCC7942_RS07290,structural constituent of carboxysome,Uncharacterized protein CcmO
+18,SYNPCC7942_RS07125,alkaline phosphatase activity,Alkaline phosphatase PhoV
+19,SYNPCC7942_RS07125,glucose-6-phosphatase activity,Alkaline phosphatase PhoV
+20,SYNPCC7942_RS07125,fructose 6-phosphate metabolic process,Alkaline phosphatase PhoV
+21,SYNPCC7942_RS07125,phosphocreatine metabolic process,Alkaline phosphatase PhoV
+22,SYNPCC7942_RS07125,zinc ion binding,Alkaline phosphatase PhoV
+23,SYNPCC7942_RS07125,Gram-negative-bacterium-type cell wall,Alkaline phosphatase PhoV
+24,SYNPCC7942_RS07125,dephosphorylation,Alkaline phosphatase PhoV
+25,SYNPCC7942_RS07125,phosphorylated carbohydrate dephosphorylation,Alkaline phosphatase PhoV
+26,SYNPCC7942_RS07125,metal ion binding,Alkaline phosphatase PhoV
+27,SYNPCC7942_RS07125,phosphoglycerate phosphatase activity,Alkaline phosphatase PhoV
+28,SYNPCC7942_RS07125,sugar-phosphatase activity,Alkaline phosphatase PhoV
+29,SYNPCC7942_RS07125,"nucleotide phosphatase activity, acting on free nucleotides",Alkaline phosphatase PhoV
+30,SYNPCC7942_RS07125,side of membrane,Alkaline phosphatase PhoV
+31,SYNPCC7942_RS07280,carboxysome,Carbon dioxide concentrating mechanism protein CcmM
+32,SYNPCC7942_RS07280,structural constituent of carboxysome,Carbon dioxide concentrating mechanism protein CcmM
+33,SYNPCC7942_RS07280,structural constituent of carboxysome,Carbon dioxide concentrating mechanism protein CcmM
+34,SYNPCC7942_RS07280,carbonate dehydratase activity,Carbon dioxide concentrating mechanism protein CcmM
+35,SYNPCC7942_RS07275,carboxysome,Carbon dioxide concentrating mechanism protein CcmL
+36,SYNPCC7942_RS07275,structural constituent of carboxysome,Carbon dioxide concentrating mechanism protein CcmL
+37,SYNPCC7942_RS07270,carboxysome,Carbon dioxide-concentrating mechanism protein CcmK
+38,SYNPCC7942_RS07270,structural constituent of carboxysome,Carbon dioxide-concentrating mechanism protein CcmK
+39,SYNPCC7942_RS07405,carbonate dehydratase activity,Carbonic anhydrase
+40,SYNPCC7942_RS07405,carboxysome,Carbonic anhydrase
+41,SYNPCC7942_RS06240,protein binding,Circadian clock protein KaiA
+42,SYNPCC7942_RS06240,protein binding,Circadian clock protein KaiA
+43,SYNPCC7942_RS06240,protein binding,Circadian clock protein KaiA
+44,SYNPCC7942_RS06240,protein binding,Circadian clock protein KaiA
+45,SYNPCC7942_RS06240,protein binding,Circadian clock protein KaiA
+46,SYNPCC7942_RS06240,protein binding,Circadian clock protein KaiA
+47,SYNPCC7942_RS06240,protein binding,Circadian clock protein KaiA
+48,SYNPCC7942_RS06240,protein binding,Circadian clock protein KaiA
+49,SYNPCC7942_RS06240,protein binding,Circadian clock protein KaiA
+50,SYNPCC7942_RS06240,protein binding,Circadian clock protein KaiA
+51,SYNPCC7942_RS06240,protein binding,Circadian clock protein KaiA
+52,SYNPCC7942_RS06240,protein binding,Circadian clock protein KaiA
+53,SYNPCC7942_RS06240,protein binding,Circadian clock protein KaiA
+54,SYNPCC7942_RS06240,protein binding,Circadian clock protein KaiA
+55,SYNPCC7942_RS06240,entrainment of circadian clock,Circadian clock protein KaiA
+56,SYNPCC7942_RS06240,negative regulation of protein dephosphorylation,Circadian clock protein KaiA
+57,SYNPCC7942_RS06240,positive regulation of circadian rhythm,Circadian clock protein KaiA
+58,SYNPCC7942_RS06240,identical protein binding,Circadian clock protein KaiA
+59,SYNPCC7942_RS06240,identical protein binding,Circadian clock protein KaiA
+60,SYNPCC7942_RS06240,identical protein binding,Circadian clock protein KaiA
+61,SYNPCC7942_RS06235,protein binding,Circadian clock protein KaiB
+62,SYNPCC7942_RS06235,protein binding,Circadian clock protein KaiB
+63,SYNPCC7942_RS06235,protein binding,Circadian clock protein KaiB
+64,SYNPCC7942_RS06235,protein binding,Circadian clock protein KaiB
+65,SYNPCC7942_RS06235,protein binding,Circadian clock protein KaiB
+66,SYNPCC7942_RS06235,protein binding,Circadian clock protein KaiB
+67,SYNPCC7942_RS06235,protein binding,Circadian clock protein KaiB
+68,SYNPCC7942_RS06235,protein binding,Circadian clock protein KaiB
+69,SYNPCC7942_RS06235,protein binding,Circadian clock protein KaiB
+70,SYNPCC7942_RS06235,protein binding,Circadian clock protein KaiB
+71,SYNPCC7942_RS06235,entrainment of circadian clock,Circadian clock protein KaiB
+72,SYNPCC7942_RS06235,negative regulation of phosphorylation,Circadian clock protein KaiB
+73,SYNPCC7942_RS06235,regulation of circadian rhythm,Circadian clock protein KaiB
+74,SYNPCC7942_RS06235,identical protein binding,Circadian clock protein KaiB
+75,SYNPCC7942_RS06235,identical protein binding,Circadian clock protein KaiB
+76,SYNPCC7942_RS06230,protein binding,Circadian clock protein kinase KaiC
+77,SYNPCC7942_RS06230,protein binding,Circadian clock protein kinase KaiC
+78,SYNPCC7942_RS06230,protein binding,Circadian clock protein kinase KaiC
+79,SYNPCC7942_RS06230,protein binding,Circadian clock protein kinase KaiC
+80,SYNPCC7942_RS06230,protein binding,Circadian clock protein kinase KaiC
+81,SYNPCC7942_RS06230,protein binding,Circadian clock protein kinase KaiC
+82,SYNPCC7942_RS06230,protein binding,Circadian clock protein kinase KaiC
+83,SYNPCC7942_RS06230,protein binding,Circadian clock protein kinase KaiC
+84,SYNPCC7942_RS06230,protein binding,Circadian clock protein kinase KaiC
+85,SYNPCC7942_RS06230,protein binding,Circadian clock protein kinase KaiC
+86,SYNPCC7942_RS06230,protein binding,Circadian clock protein kinase KaiC
+87,SYNPCC7942_RS06230,protein binding,Circadian clock protein kinase KaiC
+88,SYNPCC7942_RS06230,protein binding,Circadian clock protein kinase KaiC
+89,SYNPCC7942_RS06230,protein binding,Circadian clock protein kinase KaiC
+90,SYNPCC7942_RS06230,protein binding,Circadian clock protein kinase KaiC
+91,SYNPCC7942_RS06230,entrainment of circadian clock,Circadian clock protein kinase KaiC
+92,SYNPCC7942_RS06230,negative regulation of circadian rhythm,Circadian clock protein kinase KaiC
+93,SYNPCC7942_RS06230,negative regulation of circadian rhythm,Circadian clock protein kinase KaiC
+94,SYNPCC7942_RS06230,identical protein binding,Circadian clock protein kinase KaiC
+95,SYNPCC7942_RS06230,identical protein binding,Circadian clock protein kinase KaiC
+96,SYNPCC7942_RS06230,identical protein binding,Circadian clock protein kinase KaiC
+97,SYNPCC7942_RS06230,identical protein binding,Circadian clock protein kinase KaiC
+98,SYNPCC7942_RS06230,regulation of phosphorelay signal transduction system,Circadian clock protein kinase KaiC
+99,SYNPCC7942_RS01445,carboxysome,BMC domain-containing protein
+100,SYNPCC7942_RS01445,structural constituent of carboxysome,BMC domain-containing protein
+101,SYNPCC7942_RS01450,carboxysome,BMC domain-containing protein
+102,SYNPCC7942_RS01450,structural constituent of carboxysome,BMC domain-containing protein
+103,SYNPCC7942_RS01450,structural constituent of carboxysome,BMC domain-containing protein
+104,SYNPCC7942_RS10715,phosphorelay sensor kinase activity,Adaptive-response sensory-kinase SasA
+105,SYNPCC7942_RS10715,protein binding,Adaptive-response sensory-kinase SasA
+106,SYNPCC7942_RS10715,protein binding,Adaptive-response sensory-kinase SasA
+107,SYNPCC7942_RS10715,protein binding,Nitrate reductase
+108,SYNPCC7942_RS07605,bicarbonate transmembrane transporter activity,Bicarbonate-binding protein CmpA
+109,SYNPCC7942_RS08135,aldehyde decarbonylase activity,Aldehyde decarbonylase
+110,SYNPCC7942_RS01635,protein binding,Nitrogen regulatory protein P-II
+111,SYNPCC7942_RS01635,protein binding,Nitrogen regulatory protein P-II
+112,SYNPCC7942_RS01635,protein binding,Nitrogen regulatory protein P-II
+113,SYNPCC7942_RS01635,protein binding,Nitrogen regulatory protein P-II
+114,SYNPCC7942_RS01635,protein binding,Nitrogen regulatory protein P-II
+115,SYNPCC7942_RS01635,protein binding,Nitrogen regulatory protein P-II
+116,SYNPCC7942_RS01635,protein binding,Nitrogen regulatory protein P-II
+117,SYNPCC7942_RS01635,protein binding,Nitrogen regulatory protein P-II
+118,SYNPCC7942_RS01635,identical protein binding,Nitrogen regulatory protein P-II
+119,SYNPCC7942_RS01635,identical protein binding,Nitrogen regulatory protein P-II
+120,SYNPCC7942_RS01635,identical protein binding,Nitrogen regulatory protein P-II
+121,SYNPCC7942_RS01635,identical protein binding,Nitrogen regulatory protein P-II
+122,SYNPCC7942_RS10060,carotenoid biosynthetic process,15-cis-phytoene synthase
+123,SYNPCC7942_RS10060,geranylgeranyl-diphosphate geranylgeranyltransferase activity,15-cis-phytoene synthase
+124,SYNPCC7942_RS03200,protein binding,Light dependent period
+125,SYNPCC7942_RS13410,peroxidase activity,Catalase-related peroxidase
+126,SYNPCC7942_RS13410,iron ion binding,Catalase-related peroxidase
+127,SYNPCC7942_RS13410,heme binding,Catalase-related peroxidase
+128,SYNPCC7942_RS13410,periplasmic space,Catalase-related peroxidase
+129,SYNPCC7942_RS13410,hydrogen peroxide metabolic process,Catalase-related peroxidase
+130,SYNPCC7942_RS13410,oxidation-reduction process,Catalase-related peroxidase
+131,SYNPCC7942_RS13410,protein binding,PipXcatalase 
+132,SYNPCC7942_RS13410,protein binding,PipXcatalase 
+133,SYNPCC7942_RS13410,protein binding,PipXcatalase 

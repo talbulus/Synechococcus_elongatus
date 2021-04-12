@@ -13,9 +13,9 @@ NC_004990.1	RefSeq	CDS	3567	4040	.	-	0	ID=cds-NP_862724.1;Parent=gene-ST32046_p7
 NC_004990.1	RefSeq	gene	3995	6625	.	-	.	ID=gene-ST32046_p8;Dbxref=GeneID:1450040;Name=repA;gbkey=Gene;gene=repA;gene_biotype=protein_coding;locus_tag=ST32046_p8;old_locus_tag=pUH24_08
 NC_004990.1	RefSeq	CDS	3995	6625	.	-	0	ID=cds-NP_862725.1;Parent=gene-ST32046_p8;Dbxref=Genbank:NP_862725.1,GeneID:1450040;Name=NP_862725.1;gbkey=CDS;gene=repA;locus_tag=ST32046_p8;product=hypothetical protein;protein_id=NP_862725.1;transl_table=11
 NC_004990.1	RefSeq	gene	6800	7402	.	-	.	ID=gene-ST32046_p9;Dbxref=GeneID:1450041;Name=ST32046_p9;description=orf G;gbkey=Gene;gene_biotype=protein_coding;locus_tag=ST32046_p9;old_locus_tag=pUH24_09
-NC_004990.1	RefSeq	CDS	7504	7835	.	-	0	ID=cds-NP_862719.1;Parent=gene-ST32046_p9;Dbxref=Genbank:NP_862719.1,GeneID:1450041;Name=NP_862719.1;Note=#1 amino acid V to M;gbkey=CDS;locus_tag=ST32046_p9;product=hypothetical protein;protein_id=NP_862719.1;transl_table=11
+NC_004990.1	RefSeq	CDS	7504	7998	.	-	0	ID=cds-NP_862719.1;Parent=gene-ST32046_p9;Dbxref=Genbank:NP_862719.1,GeneID:1450041;Name=NP_862719.1;Note=#1 amino acid V to M;gbkey=CDS;locus_tag=ST32046_p9;product=hypothetical protein;protein_id=NP_862719.1;transl_table=11
 NC_004990.1	RefSeq	CDS	574	1137	.	-	0	ID=cds-NP_862720.1;Parent=gene-ST32046_p9;Dbxref=Genbank:NP_862720.1,GeneID:1450041;Name=NP_862720.1;gbkey=CDS;locus_tag=ST32046_p9;product=hypothetical protein;protein_id=NP_862720.1;transl_table=11
 NC_004990.1	RefSeq	CDS	2644	3159	.	-	0	ID=cds-NP_862723.1;Parent=gene-ST32046_p9;Dbxref=Genbank:NP_862723.1,GeneID:1450041;Name=NP_862723.1;gbkey=CDS;locus_tag=ST32046_p9;product=hypothetical protein;protein_id=NP_862723.1;transl_table=11
 NC_004990.1	RefSeq	CDS	6800	7402	.	-	0	ID=cds-NP_862726.1;Parent=gene-ST32046_p9;Dbxref=Genbank:NP_862726.1,GeneID:1450041;Name=NP_862726.1;Note=mismatch(1[M->V]);gbkey=CDS;locus_tag=ST32046_p9;product=hypothetical protein;protein_id=NP_862726.1;transl_table=11
-NC_004990.1	RefSeq	gene	7504	7835	.	-	.	ID=gene-ST32046_p1;Dbxref=GeneID:3783887;Name=H;gbkey=Gene;gene=H;gene_biotype=other;locus_tag=ST32046_p1;old_locus_tag=pUH24_01
+NC_004990.1	RefSeq	gene	7504	7998	.	-	.	ID=gene-ST32046_p1;Dbxref=GeneID:3783887;Name=H;gbkey=Gene;gene=H;gene_biotype=other;locus_tag=ST32046_p1;old_locus_tag=pUH24_01
 

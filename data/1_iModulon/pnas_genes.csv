@@ -1,0 +1,719 @@
+7942_ID,jgi_ID,RefSeq_ID,start,end,strand,chromosome,name,description,gene_essentiality,uninterupted_upstream_length,regulatory_region_essentiality
+Synpcc7942_0004,637798409,SYNPCC7942_RS00020,4596,6077,+,chromosome,purF,amidophosphoribosyltransferase,essential,0,non-essential
+Synpcc7942_0009,637798414,SYNPCC7942_RS00045,8964,10166,+,chromosome,argG,argininosuccinate synthase,essential,58,essential
+Synpcc7942_0012,637798417,SYNPCC7942_RS00060,11641,11964,-,chromosome,rpsF,30S ribosomal protein S6,essential,109,essential
+Synpcc7942_0018,637798423,SYNPCC7942_RS00095,16206,18392,-,chromosome,glyS,glycyl-tRNA synthetase subunit beta,essential,39,non-essential
+Synpcc7942_0019,637798424,SYNPCC7942_RS00100,18615,20489,+,chromosome,sir,"Sulfite reductase, ferredoxin dependent",essential,26,non-essential
+Synpcc7942_0021,637798426,SYNPCC7942_RS00110,21134,21874,-,chromosome,cobK,cobalt-precorrin-6x reductase,essential,5,non-essential
+Synpcc7942_0027,637798432,SYNPCC7942_RS00140,28184,29350,+,chromosome,bioF,8-amino-7-oxononanoate synthase,essential,2,non-essential
+Synpcc7942_0028,637798433,SYNPCC7942_RS00145,29347,30015,+,chromosome,,hypothetical protein,essential,0,non-essential
+Synpcc7942_0029,637798434,SYNPCC7942_RS00150,30012,30833,+,chromosome,,hypothetical protein,essential,0,non-essential
+Synpcc7942_0030,637798435,SYNPCC7942_RS00155,30839,31471,+,chromosome,bioD,dethiobiotin synthase,essential,3,non-essential
+Synpcc7942_0031,637798436,SYNPCC7942_RS00160,31464,32738,+,chromosome,bioA,aminotransferase,essential,0,non-essential
+Synpcc7942_0040,637798445,SYNPCC7942_RS00200,38630,39007,+,chromosome,folB,dihydroneopterin aldolase Dihydroneopterin aldolase,essential,8,non-essential
+Synpcc7942_0065,637798471,SYNPCC7942_RS00320,64987,65541,-,chromosome,infC,translation initiation factor IF-3,essential,116,essential
+Synpcc7942_0071,637798477,SYNPCC7942_RS00350,69940,71139,-,chromosome,degT,pleiotropic regulatory protein-like,essential,6,non-essential
+Synpcc7942_0073,637798479,SYNPCC7942_RS00360,72000,73196,-,chromosome,lytB,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,essential,27,non-essential
+Synpcc7942_0079,637798485,SYNPCC7942_RS00390,77138,77584,-,chromosome,ycf41,conserved hypothetical protein YCF41,essential,32,non-essential
+Synpcc7942_0082,637798488,SYNPCC7942_RS00405,79265,81013,+,chromosome,mdlB,ATPase,essential,9,non-essential
+Synpcc7942_0090,637798496,SYNPCC7942_RS00455,88735,89718,+,chromosome,,"transcriptional regulator, GntR family",essential,10,non-essential
+Synpcc7942_0091,637798497,SYNPCC7942_RS00460,89715,90326,-,chromosome,ycf21,conserved hypothetical protein YCF21,essential,38,non-essential
+Synpcc7942_0093,637798499,SYNPCC7942_RS00470,91029,91676,+,chromosome,tmk,Thymidylate kinase,essential,0,non-essential
+Synpcc7942_0094,637798500,SYNPCC7942_RS00475,91676,92611,+,chromosome,dnaX,DNA polymerase III subunit delta',essential,0,non-essential
+Synpcc7942_0097,637798503,SYNPCC7942_RS00495,94375,98166,-,chromosome,cobN,cobaltochelatase,essential,11,non-essential
+Synpcc7942_0098,637798504,SYNPCC7942_RS00500,98302,100086,-,chromosome,pyk2,pyruvate kinase,essential,48,essential
+Synpcc7942_0101,637798507,SYNPCC7942_RS00515,101259,102593,+,chromosome,ndbA,type 2 NADH dehydrogenase,essential,25,non-essential
+Synpcc7942_0105,637798511,SYNPCC7942_RS00535,104653,106377,-,chromosome,nadE,NAD synthetase,essential,4,non-essential
+Synpcc7942_0107,637798513,SYNPCC7942_RS00545,106965,108383,-,chromosome,,Small GTP-binding protein domain,essential,19,non-essential
+Synpcc7942_0118,637798524,SYNPCC7942_RS00590,116943,118427,+,chromosome,gatB,aspartyl/glutamyl-tRNA amidotransferase subunit B,essential,32,non-essential
+Synpcc7942_0121,637798527,SYNPCC7942_RS00610,120013,121239,-,chromosome,,hypothetical protein,essential,14,non-essential
+Synpcc7942_0125,637798531,SYNPCC7942_RS00635,124738,125367,-,chromosome,hisB,imidazoleglycerol-phosphate dehydratase,essential,4,non-essential
+Synpcc7942_0126,637798532,SYNPCC7942_RS00640,125382,126158,-,chromosome,envM,enoyl-(acyl carrier protein) reductase,essential,37,non-essential
+Synpcc7942_0127,637798533,SYNPCC7942_RS00645,126390,127058,+,chromosome,ntcA,"transcriptional regulator, Crp/Fnr family",essential,10,non-essential
+Synpcc7942_0134,637798540,SYNPCC7942_RS00680,134745,136052,+,chromosome,,hypothetical protein,essential,0,non-essential
+Synpcc7942_0137,637798543,SYNPCC7942_RS00695,138115,139278,+,chromosome,hemH,ferrochelatase,essential,31,non-essential
+Synpcc7942_0139,637798545,SYNPCC7942_RS00705,140268,142106,+,chromosome,ilvB,acetolactate synthase 3 catalytic subunit,essential,33,non-essential
+Synpcc7942_0141,637798547,SYNPCC7942_RS00715,142618,143562,-,chromosome,secF,preprotein translocase subunit SecF,essential,8,non-essential
+Synpcc7942_0142,637798548,SYNPCC7942_RS00720,143572,144966,-,chromosome,secD,preprotein translocase subunit SecD,essential,4,non-essential
+Synpcc7942_0143,637798549,SYNPCC7942_RS00725,145003,145983,-,chromosome,pdhB,pyruvate/2-oxoglutarate dehydrogenase complex dehydrogenase (E1) component,essential,76,essential
+Synpcc7942_0152,637798558,SYNPCC7942_RS00770,154914,156011,-,chromosome,mraY,phospho-N-acetylmuramoyl-pentapeptide- transferase,essential,2,non-essential
+Synpcc7942_0153,637798559,SYNPCC7942_RS00775,156026,156307,-,chromosome,,hypothetical protein,essential,24,non-essential
+Synpcc7942_0158,637798564,SYNPCC7942_RS00800,159996,161171,-,chromosome,moeB,hypothetical protein,essential,0,non-essential
+Synpcc7942_0160,637798566,SYNPCC7942_RS00810,161726,162661,+,chromosome,era,GTP-binding protein Era,essential,3,non-essential
+Synpcc7942_0161,637798567,SYNPCC7942_RS00815,162764,163306,+,chromosome,,hypothetical protein,essential,2,non-essential
+Synpcc7942_0175,637798581,SYNPCC7942_RS00890,173986,174198,+,chromosome,,hypothetical protein,essential,0,non-essential
+Synpcc7942_0181,637798587,SYNPCC7942_RS00920,178419,179792,-,chromosome,,ATPase,essential,112,essential
+Synpcc7942_0189,637798595,SYNPCC7942_RS00960,187531,189258,-,chromosome,guaA,bifunctional GMP synthase/glutamine amidotransferase protein,essential,11,non-essential
+Synpcc7942_0190,637798596,SYNPCC7942_RS00965,189273,190397,-,chromosome,cbiD,cobalt-precorrin-6A synthase,essential,7,non-essential
+Synpcc7942_0191,637798597,SYNPCC7942_RS00970,190472,191620,+,chromosome,,Serine--glyoxylate transaminase,essential,2,non-essential
+Synpcc7942_0203,637798609,SYNPCC7942_RS01030,204483,205589,-,chromosome,ribD,5-amino-6-(5-phosphoribosylamino)uracil reductase / diaminohydroxyphosphoribosylaminopyrimidine deaminase,essential,8,non-essential
+Synpcc7942_0211,637798617,SYNPCC7942_RS01070,212909,214384,+,chromosome,cobQ,cobyric acid synthase,essential,0,non-essential
+Synpcc7942_0212,637798618,SYNPCC7942_RS01075,214471,215559,+,chromosome,aroC,chorismate synthase,essential,0,non-essential
+Synpcc7942_0222,637798628,SYNPCC7942_RS01130,222532,223398,+,chromosome,,hypothetical protein,essential,0,non-essential
+Synpcc7942_0225,637798631,SYNPCC7942_RS01145,224060,224263,+,chromosome,psbH,photosystem II reaction center protein PsbH,essential,72,essential
+Synpcc7942_0226,637798632,SYNPCC7942_RS01150,224357,224632,+,chromosome,,Sec-independent protein translocase TatA,essential,9,non-essential
+Synpcc7942_0227,637798633,SYNPCC7942_RS01155,224629,225255,+,chromosome,pth,peptidyl-tRNA hydrolase,essential,0,non-essential
+Synpcc7942_0232,637798638,SYNPCC7942_RS01180,227939,229285,-,chromosome,aroA,3-phosphoshikimate 1-carboxyvinyltransferase,essential,11,non-essential
+Synpcc7942_0254,637798660,SYNPCC7942_RS01295,248859,251429,+,chromosome,gyrA,DNA gyrase subunit A,essential,0,non-essential
+Synpcc7942_0257,637798663,SYNPCC7942_RS01310,254096,254845,-,chromosome,,"Protein of unknown function DUF92, transmembrane",essential,0,non-essential
+Synpcc7942_0260,637798666,SYNPCC7942_RS01325,255961,258435,-,chromosome,clpC,ATPase,essential,30,non-essential
+Synpcc7942_0262,637798668,SYNPCC7942_RS01335,259226,260620,+,chromosome,lysA,diaminopimelate decarboxylase,essential,47,essential
+Synpcc7942_0264,637798670,SYNPCC7942_RS01345,261617,262372,+,chromosome,uppS,Undecaprenyl pyrophosphate synthetase,essential,0,non-essential
+Synpcc7942_0271,637798677,SYNPCC7942_RS01380,267165,267896,+,chromosome,cobA,uroporphyrinogen-III C-methyltransferase,essential,0,non-essential
+Synpcc7942_0272,637798678,SYNPCC7942_RS01385,267889,268683,+,chromosome,hemD,Uroporphyrinogen-III synthase,essential,0,non-essential
+Synpcc7942_0273,637798679,SYNPCC7942_RS01390,268662,269291,+,chromosome,coaE,Dephospho-CoA kinase,essential,0,non-essential
+Synpcc7942_0274,637798680,SYNPCC7942_RS01395,269329,269667,+,chromosome,,hypothetical protein,essential,37,non-essential
+Synpcc7942_0277,637798683,SYNPCC7942_RS01410,271493,273532,-,chromosome,ligA,NAD-dependent DNA ligase LigA,essential,0,non-essential
+Synpcc7942_0281,637798687,SYNPCC7942_RS01430,277043,278116,-,chromosome,,probable glycosyltransferase,essential,18,non-essential
+Synpcc7942_0282,637798688,SYNPCC7942_RS01435,278139,279422,-,chromosome,glyA,serine hydroxymethyltransferase,essential,18,non-essential
+Synpcc7942_0284,637798690,SYNPCC7942_RS01445,280701,281009,+,chromosome,ccmK3,carbon dioxide concentrating mechanism protein CcmK,essential,34,non-essential
+Synpcc7942_0285,637798691,SYNPCC7942_RS01450,281054,281395,+,chromosome,ccmK4,carbon dioxide concentrating mechanism protein CcmK,essential,6,non-essential
+Synpcc7942_0288,637798694,SYNPCC7942_RS01465,282604,283962,-,chromosome,glmU,glucosamine-1-phosphate N-acetyltransferase / UDP-N-acetylglucosamine pyrophosphorylase,essential,19,non-essential
+Synpcc7942_0289,637798695,SYNPCC7942_RS01470,284148,286994,+,chromosome,secA,preprotein translocase subunit SecA,essential,81,essential
+Synpcc7942_0290,637798696,SYNPCC7942_RS01475,287003,288139,+,chromosome,pyrD,dihydroorotate dehydrogenase 2,essential,5,non-essential
+Synpcc7942_0292,637798698,SYNPCC7942_RS01490,288534,289760,+,chromosome,dfp,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase,essential,0,non-essential
+Synpcc7942_0297,637798703,SYNPCC7942_RS01515,294872,296713,+,chromosome,ftsH,"FtsH peptidase homologue, chloroplast. Metallo peptidase. MEROPS family M41",essential,2,non-essential
+Synpcc7942_0298,637798704,SYNPCC7942_RS01520,296980,297627,-,chromosome,,hypothetical protein,essential,4,non-essential
+Synpcc7942_0299,637798705,SYNPCC7942_RS01525,297624,298373,-,chromosome,mreC,rod shape-determining protein MreC,essential,0,non-essential
+Synpcc7942_0300,637798706,SYNPCC7942_RS01530,298398,299435,-,chromosome,mreB,rod shape-determining protein MreB,essential,118,essential
+Synpcc7942_0310,637798716,SYNPCC7942_RS01580,309473,310417,-,chromosome,ispE,4-diphosphocytidyl-2-C-methyl-D-erythritol kinase,essential,4,non-essential
+Synpcc7942_0315,637798721,SYNPCC7942_RS01605,313079,314374,-,chromosome,purB,adenylosuccinate lyase,essential,44,essential
+Synpcc7942_0320,637798726,SYNPCC7942_RS01630,317010,318008,+,chromosome,galE,UDP-galactose 4-epimerase,essential,15,non-essential
+Synpcc7942_0321,637798727,SYNPCC7942_RS01635,318147,318485,-,chromosome,glnB,nitrogen regulatory protein P-II,essential,7,non-essential
+Synpcc7942_0322,637798728,SYNPCC7942_RS01640,318679,320049,-,chromosome,ycf44,c-type cytochrome biogenesis protein,essential,4,non-essential
+Synpcc7942_0323,637798729,SYNPCC7942_RS01645,320046,320804,-,chromosome,ccdA,Cytochrome c biogenesis protein-like,essential,16,non-essential
+Synpcc7942_0324,637798730,SYNPCC7942_RS01650,320824,322008,-,chromosome,ftsW,cell division protein FtsW,essential,3,non-essential
+Synpcc7942_0326,637798732,SYNPCC7942_RS01660,322388,322873,-,chromosome,apcB,"allophycocyanin, beta subunit",essential,56,essential
+Synpcc7942_0327,637798733,SYNPCC7942_RS01665,322930,323415,-,chromosome,apcA,allophycocyanin alpha chain,essential,200,essential
+Synpcc7942_0328,637798734,SYNPCC7942_RS01670,323781,325898,-,chromosome,apcE,phycobilisome core-membrane linker polypeptide,essential,182,essential
+Synpcc7942_0330,637798736,SYNPCC7942_RS01680,327394,327900,+,chromosome,atp1,hypothetical protein,essential,13,non-essential
+Synpcc7942_0331,637798737,SYNPCC7942_RS01685,327926,328711,+,chromosome,atpI,F0F1 ATP synthase subunit A,essential,25,non-essential
+Synpcc7942_0332,637798738,SYNPCC7942_RS01690,328854,329099,+,chromosome,atpH,F0F1 ATP synthase subunit C,essential,142,essential
+Synpcc7942_0333,637798739,SYNPCC7942_RS01695,329244,329720,+,chromosome,atpG,F0F1 ATP synthase subunit B',essential,144,essential
+Synpcc7942_0334,637798740,SYNPCC7942_RS01700,329764,330279,+,chromosome,atpF,F0F1 ATP synthase subunit B,essential,43,essential
+Synpcc7942_0335,637798741,SYNPCC7942_RS01705,330289,330831,+,chromosome,atpD,F0F1 ATP synthase subunit delta,essential,9,non-essential
+Synpcc7942_0336,637798742,SYNPCC7942_RS01710,330878,332395,+,chromosome,atpA,F0F1 ATP synthase subunit alpha,essential,46,essential
+Synpcc7942_0337,637798743,SYNPCC7942_RS01715,332458,333408,+,chromosome,atpC,F0F1 ATP synthase subunit gamma,essential,38,non-essential
+Synpcc7942_0345,637798751,SYNPCC7942_RS01760,338536,339306,-,chromosome,birA,Biotin--acetyl-CoA-carboxylase ligase,essential,3,non-essential
+Synpcc7942_0348,637798754,SYNPCC7942_RS01770,340698,341768,-,chromosome,recA,recombinase A,essential,4,non-essential
+Synpcc7942_0357,637798763,SYNPCC7942_RS01820,349875,351278,-,chromosome,ictB,Inorganic carbon transporter,essential,3,non-essential
+Synpcc7942_0374,637798780,SYNPCC7942_RS01905,368290,368574,-,chromosome,,hypothetical protein,essential,61,essential
+Synpcc7942_0380,637798786,SYNPCC7942_RS01935,373785,374828,+,chromosome,,hypothetical protein,essential,5,non-essential
+Synpcc7942_0385,637798791,SYNPCC7942_RS01965,377321,378694,-,chromosome,chlP,geranylgeranyl reductase,essential,0,non-essential
+Synpcc7942_0386,637798792,SYNPCC7942_RS01970,378981,380390,+,chromosome,,hypothetical protein,essential,5,non-essential
+Synpcc7942_0393,637798799,SYNPCC7942_RS02005,386677,387357,+,chromosome,,hypothetical protein,essential,2,non-essential
+Synpcc7942_0396,637798802,SYNPCC7942_RS02020,389953,391494,+,chromosome,purH,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase,essential,39,non-essential
+Synpcc7942_0400,637798806,SYNPCC7942_RS02040,394579,395181,-,chromosome,trpG,"anthranilate synthase, component II",essential,56,essential
+Synpcc7942_0402,637798808,SYNPCC7942_RS02050,396872,397396,-,chromosome,,hypothetical protein,essential,1,non-essential
+Synpcc7942_0404,637798810,SYNPCC7942_RS02060,397595,398509,-,chromosome,prfB,peptide chain release factor 2,essential,173,essential
+Synpcc7942_0405,637798811,SYNPCC7942_RS02065,398870,399868,+,chromosome,holA,DNA polymerase III subunit delta,essential,14,non-essential
+Synpcc7942_0406,637798812,SYNPCC7942_RS02070,399953,400354,+,chromosome,,hypothetical protein,essential,0,non-essential
+Synpcc7942_0408,637798814,SYNPCC7942_RS02080,400768,401421,+,chromosome,trpF,N-(5'-phosphoribosyl)anthranilate isomerase,essential,0,non-essential
+Synpcc7942_0409,637798815,SYNPCC7942_RS02085,401464,401748,-,chromosome,,hypothetical protein,essential,1,non-essential
+Synpcc7942_0410,637798816,SYNPCC7942_RS02090,401750,402022,-,chromosome,,hypothetical protein,essential,18,non-essential
+Synpcc7942_0411,637798817,SYNPCC7942_RS02095,402191,402991,-,chromosome,trpA,tryptophan synthase subunit alpha,essential,3,non-essential
+Synpcc7942_0419,637798825,SYNPCC7942_RS02140,408941,409903,-,chromosome,bioB,biotin synthase,essential,22,non-essential
+Synpcc7942_0430,637798836,SYNPCC7942_RS02195,419382,421292,+,chromosome,dxs,1-deoxy-D-xylulose-5-phosphate synthase,essential,20,non-essential
+Synpcc7942_0439,637798845,SYNPCC7942_RS02245,428611,429300,-,chromosome,chlM,Mg-protoporphyrin IX methyl transferase,essential,3,non-essential
+Synpcc7942_0440,637798846,SYNPCC7942_RS02250,429346,430473,-,chromosome,nagA,N-acetylglucosamine 6-phosphate deacetylase,essential,40,essential
+Synpcc7942_0446,637798852,SYNPCC7942_RS02280,436519,436821,-,chromosome,rpsN,30S ribosomal protein S14,essential,29,non-essential
+Synpcc7942_0449,637798855,SYNPCC7942_RS02295,438675,440006,-,chromosome,serS,seryl-tRNA synthetase,essential,11,non-essential
+Synpcc7942_0450,637798856,SYNPCC7942_RS02300,440050,440295,-,chromosome,nifU,putative NifU-like protein,essential,13,non-essential
+Synpcc7942_0453,637798860,SYNPCC7942_RS02315,442022,443236,+,chromosome,,GAF sensor signal transduction histidine kinase,essential,9,non-essential
+Synpcc7942_0454,637798861,SYNPCC7942_RS02320,443217,443972,-,chromosome,cobS,cobalamin synthase,essential,8,non-essential
+Synpcc7942_0468,637798875,SYNPCC7942_RS02385,454806,455045,-,chromosome,secG,preprotein translocase subunit SecG,essential,20,non-essential
+Synpcc7942_0469,637798876,SYNPCC7942_RS02390,455066,456664,-,chromosome,yibO,phosphoglyceromutase,essential,5,non-essential
+Synpcc7942_0474,637798881,=#N/A,460296,460433,-,chromosome,,hypothetical protein,essential,15,non-essential
+Synpcc7942_0475,637798882,SYNPCC7942_RS02420,460449,460544,-,chromosome,petN,cytochrome b6-f complex subunit VIII,essential,7,non-essential
+Synpcc7942_0478,637798885,SYNPCC7942_RS02435,461324,461935,-,chromosome,lepB,thylakoidal processing peptidase. Serine peptidase. MEROPS family S26A,essential,1,non-essential
+Synpcc7942_0482,637798889,SYNPCC7942_RS02455,467004,468773,-,chromosome,,Peptidoglycan glycosyltransferase,essential,2,non-essential
+Synpcc7942_0485,637798892,SYNPCC7942_RS02470,470975,472312,+,chromosome,gpmB,phosphoglycerate mutase,essential,8,non-essential
+Synpcc7942_0486,637798893,SYNPCC7942_RS02475,472319,473554,+,chromosome,pyrC,dihydroorotase,essential,2,non-essential
+Synpcc7942_0488,637798895,SYNPCC7942_RS02485,474316,475644,+,chromosome,,dihydroorotase,essential,3,non-essential
+Synpcc7942_0492,637798899,SYNPCC7942_RS02505,479877,480824,-,chromosome,ribF,bifunctional riboflavin kinase/FMN adenylyltransferase,essential,14,non-essential
+Synpcc7942_0504,637798911,SYNPCC7942_RS02560,490382,491698,-,chromosome,hemA,glutamyl-tRNA reductase,essential,94,essential
+Synpcc7942_0505,637798912,SYNPCC7942_RS02565,491830,492867,-,chromosome,glpX,"fructose 1,6-bisphosphatase II",essential,56,essential
+Synpcc7942_0506,637798913,SYNPCC7942_RS02570,492988,493749,+,chromosome,pyrH,uridylate kinase,essential,3,non-essential
+Synpcc7942_0507,637798914,SYNPCC7942_RS02575,493736,494284,+,chromosome,frr,ribosome recycling factor,essential,0,non-essential
+Synpcc7942_0511,637798918,SYNPCC7942_RS02595,496602,497579,-,chromosome,ccsA,ABC-type transport system involved in cytochrome c biogenesis permease component-like,essential,0,non-essential
+Synpcc7942_0512,637798919,SYNPCC7942_RS02600,497624,498808,-,chromosome,ycf84,conserved hypothetical protein YCF84,essential,0,non-essential
+Synpcc7942_0513,637798920,SYNPCC7942_RS02605,498901,499653,-,chromosome,,ATPase,essential,10,non-essential
+Synpcc7942_0514,637798921,SYNPCC7942_RS02610,499683,500105,-,chromosome,,hypothetical protein,essential,7,non-essential
+Synpcc7942_0516,637798923,SYNPCC7942_RS02620,500562,501884,-,chromosome,ctpB,C-terminal processing peptidase-2. Serine peptidase. MEROPS family S41A,essential,0,non-essential
+Synpcc7942_0525,637798933,SYNPCC7942_RS02670,509226,510332,-,chromosome,aroB,3-dehydroquinate synthase,essential,30,non-essential
+Synpcc7942_0533,637798941,SYNPCC7942_RS02710,516764,517000,-,chromosome,,hypothetical protein,essential,3,non-essential
+Synpcc7942_0534,637798942,SYNPCC7942_RS02715,517016,518941,-,chromosome,glmS,D-fructose-6-phosphate amidotransferase,essential,39,non-essential
+Synpcc7942_0535,637798943,SYNPCC7942_RS02720,519088,519333,-,chromosome,psaC,photosystem I subunit VII,essential,123,essential
+Synpcc7942_0536,637798944,SYNPCC7942_RS02725,519792,520034,+,chromosome,acpP,acyl carrier protein,essential,163,essential
+Synpcc7942_0537,637798945,SYNPCC7942_RS02730,520102,521355,+,chromosome,fabF,3-oxoacyl-(acyl carrier protein) synthase II,essential,32,non-essential
+Synpcc7942_0538,637798946,SYNPCC7942_RS02735,521502,523508,+,chromosome,tktA,transketolase,essential,146,essential
+Synpcc7942_0541,637798949,SYNPCC7942_RS02750,524832,525062,+,chromosome,,hypothetical protein,essential,3,non-essential
+Synpcc7942_0542,637798950,SYNPCC7942_RS02760,525360,526253,+,chromosome,lipA,lipoyl synthase,essential,8,non-essential
+Synpcc7942_0549,637798957,SYNPCC7942_RS02795,531884,532645,+,chromosome,,hypothetical protein,essential,14,non-essential
+Synpcc7942_0552,637798960,SYNPCC7942_RS02810,534067,535185,+,chromosome,nfrC,UDP-N-acetylglucosamine 2-epimerase,essential,5,non-essential
+Synpcc7942_0560,637798968,SYNPCC7942_RS02850,541275,541979,-,chromosome,,ATPase,essential,14,non-essential
+Synpcc7942_0570,637798978,SYNPCC7942_RS02900,551878,553221,-,chromosome,dnaE,DNA polymerase III subunit alpha,essential,8,non-essential
+Synpcc7942_0576,637798984,SYNPCC7942_RS02935,557200,558060,+,chromosome,thiG,thiazole synthase,essential,0,non-essential
+Synpcc7942_0580,637798988,SYNPCC7942_RS02950,560720,562537,-,chromosome,ftsI,Peptidoglycan glycosyltransferase,essential,3,non-essential
+Synpcc7942_0583,637798991,SYNPCC7942_RS02965,564123,565217,+,chromosome,chlI,protoporphyrin IX magnesium-chelatase,essential,7,non-essential
+Synpcc7942_0584,637798992,SYNPCC7942_RS02970,565354,566079,-,chromosome,rpiA,ribose-5-phosphate isomerase A,essential,7,non-essential
+Synpcc7942_0587,637798998,SYNPCC7942_RS03010,573854,576583,+,chromosome,valS,valyl-tRNA synthetase,essential,51,essential
+Synpcc7942_0597,637799008,SYNPCC7942_RS03060,584425,585264,-,chromosome,menB,naphthoate synthase,essential,7,non-essential
+Synpcc7942_0598,637799009,SYNPCC7942_RS03065,585701,587473,+,chromosome,,Peptidoglycan-binding LysM,essential,21,non-essential
+Synpcc7942_0604,637799015,SYNPCC7942_RS03100,592890,593633,+,chromosome,rpe,ribulose-phosphate 3-epimerase,essential,0,non-essential
+Synpcc7942_0612,637799023,SYNPCC7942_RS03140,602209,603369,-,chromosome,gltA,methylcitrate synthase,essential,4,non-essential
+Synpcc7942_0618,637799029,SYNPCC7942_RS03170,607820,609100,+,chromosome,ahcY,S-adenosyl-L-homocysteine hydrolase,essential,57,essential
+Synpcc7942_0626,637799038,SYNPCC7942_RS03210,618362,620221,+,chromosome,ilvD,dihydroxy-acid dehydratase,essential,3,non-essential
+Synpcc7942_0631,637799043,SYNPCC7942_RS03240,623876,624262,-,chromosome,rplL,50S ribosomal protein L7/L12,essential,53,essential
+Synpcc7942_0632,637799044,SYNPCC7942_RS03245,624322,624849,-,chromosome,rplJ,50S ribosomal protein L10,essential,200,essential
+Synpcc7942_0633,637799045,SYNPCC7942_RS03250,625078,625791,-,chromosome,rplA,50S ribosomal protein L1,essential,74,essential
+Synpcc7942_0634,637799046,SYNPCC7942_RS03255,625866,626291,-,chromosome,rplK,50S ribosomal protein L11,essential,7,non-essential
+Synpcc7942_0635,637799047,SYNPCC7942_RS03260,626299,626916,-,chromosome,nusG,transcription antitermination protein NusG,essential,8,non-essential
+Synpcc7942_0636,637799048,SYNPCC7942_RS03265,626925,627170,-,chromosome,secE,preprotein translocase subunit SecE,essential,102,essential
+Synpcc7942_0637,637799049,SYNPCC7942_RS03270,627275,629962,-,chromosome,clpB,ATPase,essential,5,non-essential
+Synpcc7942_0639,637799051,SYNPCC7942_RS03280,630677,631969,+,chromosome,eno,phosphopyruvate hydratase,essential,10,non-essential
+Synpcc7942_0645,637799057,SYNPCC7942_RS03310,639397,640758,+,chromosome,hemL,glutamate-1-semialdehyde aminotransferase,essential,9,non-essential
+Synpcc7942_0649,637799061,SYNPCC7942_RS03325,642767,643966,-,chromosome,rpoD1,RNA polymerase sigma factor RpoD,essential,26,non-essential
+Synpcc7942_0651,637799063,SYNPCC7942_RS03335,644741,647161,+,chromosome,priA,primosome assembly protein PriA,essential,0,non-essential
+Synpcc7942_0653,637799065,SYNPCC7942_RS03345,648710,649441,-,chromosome,cdv1,Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family-like,essential,0,non-essential
+Synpcc7942_0654,637799066,SYNPCC7942_RS03350,649443,650009,-,chromosome,ycf4,photosystem I assembly protein Ycf4,essential,2,non-essential
+Synpcc7942_0656,637799068,SYNPCC7942_RS03360,651274,652659,+,chromosome,psbC,photosystem II 44 kDa subunit reaction center protein,essential,0,non-essential
+Synpcc7942_0657,637799069,SYNPCC7942_RS03365,653047,653388,-,chromosome,,hypothetical protein,essential,7,non-essential
+Synpcc7942_0670,637799082,SYNPCC7942_RS03430,665121,666137,+,chromosome,pyrB,aspartate carbamoyltransferase catalytic subunit,essential,0,non-essential
+Synpcc7942_0674,637799086,SYNPCC7942_RS03450,669347,670300,+,chromosome,hemF,coproporphyrinogen III oxidase,essential,69,essential
+Synpcc7942_0676,637799088,SYNPCC7942_RS03460,670914,672119,+,chromosome,,hypothetical protein,essential,0,non-essential
+Synpcc7942_0681,637799093,SYNPCC7942_RS03490,675164,675862,-,chromosome,ispD,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,essential,0,non-essential
+Synpcc7942_0682,637799094,SYNPCC7942_RS03495,675946,676905,+,chromosome,,hypothetical protein,essential,22,non-essential
+Synpcc7942_0684,637799096,SYNPCC7942_RS03505,678025,678774,+,chromosome,fabG,3-oxoacyl-[acyl-carrier-protein] reductase,essential,11,non-essential
+Synpcc7942_0689,637799101,SYNPCC7942_RS03535,684051,684884,-,chromosome,,hypothetical protein,essential,17,non-essential
+Synpcc7942_0694,637799106,SYNPCC7942_RS03560,687133,688056,-,chromosome,rps1,30S ribosomal protein S1,essential,179,essential
+Synpcc7942_0697,637799109,SYNPCC7942_RS03575,689222,690748,-,chromosome,psbB,photosystem II core light harvesting protein,essential,82,essential
+Synpcc7942_0699,637799111,SYNPCC7942_RS03585,691619,691726,+,chromosome,psbM,photosystem II reaction center protein PsbM,essential,7,non-essential
+Synpcc7942_0710,637799123,SYNPCC7942_RS03640,700843,701538,-,chromosome,,hypothetical protein,essential,5,non-essential
+Synpcc7942_0711,637799124,SYNPCC7942_RS03645,701604,704897,+,chromosome,carB,carbamoyl phosphate synthase large subunit,essential,28,non-essential
+Synpcc7942_0713,637799126,SYNPCC7942_RS03655,706450,707673,-,chromosome,ispG,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase,essential,4,non-essential
+Synpcc7942_0715,637799128,SYNPCC7942_RS03670,709992,711179,+,chromosome,murZ,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,essential,120,essential
+Synpcc7942_0723,637799136,SYNPCC7942_RS03740,717322,717963,-,chromosome,,hypothetical protein,essential,40,essential
+Synpcc7942_0758,637799173,=#N/A,751959,752381,+,chromosome,,hypothetical protein,essential,1,non-essential
+Synpcc7942_0759,637799174,SYNPCC7942_RS03930,752574,753953,+,chromosome,,hypothetical protein,essential,43,essential
+Synpcc7942_0762,637799177,SYNPCC7942_RS03950,756010,756561,-,chromosome,,hypothetical protein,essential,2,non-essential
+Synpcc7942_0775,637799191,SYNPCC7942_RS04020,767242,767721,-,chromosome,,hypothetical protein,essential,1,non-essential
+Synpcc7942_0776,637799192,SYNPCC7942_RS04025,767721,768626,-,chromosome,crtE,farnesyl-diphosphate synthase,essential,42,essential
+Synpcc7942_0777,637799193,SYNPCC7942_RS04030,768669,769538,-,chromosome,folD,Methenyltetrahydrofolate cyclohydrolase,essential,1,non-essential
+Synpcc7942_0778,637799194,SYNPCC7942_RS04035,769574,770038,+,chromosome,,hypothetical protein,essential,5,non-essential
+Synpcc7942_0783,637799199,SYNPCC7942_RS04060,778589,779245,-,chromosome,hisG,ATP phosphoribosyltransferase catalytic subunit,essential,4,non-essential
+Synpcc7942_0791,637799207,SYNPCC7942_RS04095,785973,787211,-,chromosome,pcnB,polyA polymerase,essential,2,non-essential
+Synpcc7942_0796,637799212,SYNPCC7942_RS04120,791175,791720,+,chromosome,,hypothetical protein,essential,5,non-essential
+Synpcc7942_0798,637799214,SYNPCC7942_RS04130,792319,792804,-,chromosome,ruvC,Holliday junction resolvase,essential,2,non-essential
+Synpcc7942_0799,637799215,SYNPCC7942_RS04135,792810,794390,-,chromosome,,Elongator protein 3,essential,17,non-essential
+Synpcc7942_0801,637799217,SYNPCC7942_RS04145,795123,795812,+,chromosome,sodB,Superoxide dismutase,essential,0,non-essential
+Synpcc7942_0804,637799221,SYNPCC7942_RS04160,797288,798349,+,chromosome,pdxA,4-hydroxythreonine-4-phosphate dehydrogenase,essential,0,non-essential
+Synpcc7942_0813,637799230,SYNPCC7942_RS04205,807839,809101,+,chromosome,hisS,ATP phosphoribosyltransferase regulatory subunit,essential,0,non-essential
+Synpcc7942_0814,637799231,SYNPCC7942_RS04210,809134,809358,+,chromosome,,ferredoxin-like protein,essential,4,non-essential
+Synpcc7942_0818,637799235,SYNPCC7942_RS04230,812955,813224,+,chromosome,purS,phosphoribosylformylglycinamidine synthase subunit PurS,essential,43,essential
+Synpcc7942_0819,637799236,SYNPCC7942_RS04235,813221,813886,+,chromosome,purL,phosphoribosylformylglycinamidine synthase subunit I,essential,0,non-essential
+Synpcc7942_0827,637799244,SYNPCC7942_RS04275,821757,822803,-,chromosome,cobW,cobalamin synthesis protein cobW-like,essential,14,non-essential
+Synpcc7942_0849,637799265,SYNPCC7942_RS04385,845822,846433,-,chromosome,,hypothetical protein,essential,29,non-essential
+Synpcc7942_0851,637799267,SYNPCC7942_RS04395,847233,848258,+,chromosome,purM,phosphoribosylaminoimidazole synthetase,essential,26,non-essential
+Synpcc7942_0853,637799268,SYNPCC7942_RS04400,848870,850105,+,chromosome,dapL1,"L,L-diaminopimelate aminotransferase",essential,36,non-essential
+Synpcc7942_0869,637799285,SYNPCC7942_RS04480,871262,871852,+,chromosome,,hypothetical protein,essential,0,non-essential
+Synpcc7942_0871,637799287,SYNPCC7942_RS04490,872106,872330,-,chromosome,,hypothetical protein,essential,21,non-essential
+Synpcc7942_0876,637799292,SYNPCC7942_RS04515,877976,880675,+,chromosome,alaS,alanyl-tRNA synthetase,essential,4,non-essential
+Synpcc7942_0881,637799297,SYNPCC7942_RS04540,887552,888427,+,chromosome,pheA,prephenate dehydratase,essential,3,non-essential
+Synpcc7942_0883,637799299,SYNPCC7942_RS04550,889306,889623,-,chromosome,rpsJ,30S ribosomal protein S10,essential,73,essential
+Synpcc7942_0884,637799300,SYNPCC7942_RS04555,889697,890926,-,chromosome,EF-Tu,elongation factor Tu,essential,26,non-essential
+Synpcc7942_0885,637799301,SYNPCC7942_RS04560,890953,893037,-,chromosome,fus,elongation factor G,essential,8,non-essential
+Synpcc7942_0886,637799302,SYNPCC7942_RS04565,893112,893582,-,chromosome,rps7,30S ribosomal protein S7,essential,167,essential
+Synpcc7942_0887,637799303,SYNPCC7942_RS04570,893750,894124,-,chromosome,rps12,30S ribosomal protein S12,essential,75,essential
+Synpcc7942_0889,637799305,SYNPCC7942_RS04580,894636,896453,-,chromosome,,hypothetical protein,essential,1,non-essential
+Synpcc7942_0890,637799307,SYNPCC7942_RS04585,896748,901358,+,chromosome,glsF,glutamate synthase (ferredoxin),essential,36,non-essential
+Synpcc7942_0894,637799311,SYNPCC7942_RS04605,904845,905417,-,chromosome,aroK,shikimate kinase,essential,39,non-essential
+Synpcc7942_0895,637799312,SYNPCC7942_RS04610,905485,906657,-,chromosome,,hypothetical protein,essential,3,non-essential
+Synpcc7942_0897,637799314,SYNPCC7942_RS04620,907653,907928,+,chromosome,minE,cell division topological specificity factor MinE,essential,14,non-essential
+Synpcc7942_0903,637799320,SYNPCC7942_RS04655,911756,914341,-,chromosome,acnB,bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase,essential,23,non-essential
+Synpcc7942_0912,637799329,SYNPCC7942_RS04690,919325,921283,+,chromosome,dnaX,"DNA polymerase III, tau subunit",essential,2,non-essential
+Synpcc7942_0915,637799332,SYNPCC7942_RS04705,922388,922837,-,chromosome,aroQ,3-dehydroquinate dehydratase,essential,8,non-essential
+Synpcc7942_0924,637799341,SYNPCC7942_RS04755,929220,931214,-,chromosome,nblS,multi-sensor signal transduction histidine kinase,essential,3,non-essential
+Synpcc7942_0925,637799343,SYNPCC7942_RS04760,931278,932579,-,chromosome,purD,phosphoribosylamine--glycine ligase,essential,3,non-essential
+Synpcc7942_0926,637799344,SYNPCC7942_RS04765,932734,933993,+,chromosome,,hypothetical protein,essential,3,non-essential
+Synpcc7942_0927,637799345,SYNPCC7942_RS04770,934021,934746,+,chromosome,purC,phosphoribosylaminoimidazole-succinocarboxamide synthase,essential,3,non-essential
+Synpcc7942_0928,637799346,SYNPCC7942_RS04775,934864,937029,+,chromosome,,outer envelope membrane protein,essential,17,non-essential
+Synpcc7942_0929,637799347,SYNPCC7942_RS04780,937039,937893,+,chromosome,lpxC,UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase,essential,7,non-essential
+Synpcc7942_0930,637799348,SYNPCC7942_RS04785,937912,938379,+,chromosome,fabZ,(3R)-hydroxymyristoyl-(acyl carrier protein) dehydratase,essential,3,non-essential
+Synpcc7942_0931,637799349,SYNPCC7942_RS04790,938386,939192,+,chromosome,lpxA,UDP-N-acetylglucosamine acyltransferase,essential,6,non-essential
+Synpcc7942_0932,637799350,SYNPCC7942_RS04795,939193,940392,+,chromosome,lpxB,lipid-A-disaccharide synthase,essential,0,non-essential
+Synpcc7942_0942,637799360,SYNPCC7942_RS04845,947957,949849,-,chromosome,ftsH,"FtsH peptidase homologue, chloroplast. Metallo peptidase. MEROPS family M41",essential,10,non-essential
+Synpcc7942_0943,637799361,SYNPCC7942_RS04850,950237,951505,+,chromosome,argD,acetylornithine aminotransferase,essential,3,non-essential
+Synpcc7942_0944,637799362,SYNPCC7942_RS04855,951502,952740,+,chromosome,folC,FolC bifunctional protein,essential,0,non-essential
+Synpcc7942_0957,637799376,SYNPCC7942_RS04920,965072,965719,+,chromosome,cobO,"cob(I)yrinic acid a,c-diamide adenosyltransferase",essential,3,non-essential
+Synpcc7942_0959,637799378,SYNPCC7942_RS04930,966530,967561,-,chromosome,obgE,GTPase ObgE,essential,4,non-essential
+Synpcc7942_0967,637799386,SYNPCC7942_RS04970,974099,975061,+,chromosome,hemC,porphobilinogen deaminase,essential,0,non-essential
+Synpcc7942_0977,637799396,SYNPCC7942_RS05015,985009,986010,-,chromosome,prk,phosphoribulokinase,essential,6,non-essential
+Synpcc7942_0978,637799397,SYNPCC7942_RS05020,986415,987626,+,chromosome,petH,ferredoxin-NADP oxidoreductase,essential,119,essential
+Synpcc7942_0984,637799403,SYNPCC7942_RS05055,992870,993670,+,chromosome,recO,DNA repair protein RecO,essential,0,non-essential
+Synpcc7942_0985,637799404,SYNPCC7942_RS05060,993654,995036,+,chromosome,,hypothetical protein,essential,0,non-essential
+Synpcc7942_0986,637799405,SYNPCC7942_RS05065,995080,996231,+,chromosome,,probable glycosyltransferase,essential,0,non-essential
+Synpcc7942_0987,637799406,SYNPCC7942_RS05070,996280,996723,-,chromosome,fur,"putative ferric uptake regulator, FUR family",essential,44,essential
+Synpcc7942_0988,637799407,SYNPCC7942_RS05075,996948,997274,-,chromosome,ycf54,conserved hypothetical protein YCF54,essential,11,non-essential
+Synpcc7942_0990,637799409,SYNPCC7942_RS05085,997912,998454,-,chromosome,cobU,adenosylcobinamide kinase/adenosylcobinamide-phosphate guanylyltransferase,essential,9,non-essential
+Synpcc7942_0995,637799414,SYNPCC7942_RS05110,1003809,1004204,+,chromosome,ycf2,conserved hypothetical protein YCF20,essential,4,non-essential
+Synpcc7942_0997,637799416,SYNPCC7942_RS05120,1005256,1005432,-,chromosome,rpmF,50S ribosomal protein L32,essential,63,essential
+Synpcc7942_1001,637799420,SYNPCC7942_RS05135,1011886,1013736,-,chromosome,lysC,aspartate kinase,essential,17,non-essential
+Synpcc7942_1002,637799422,SYNPCC7942_RS05140,1013888,1014316,+,chromosome,psaD,photosystem I reaction center subunit II,essential,40,essential
+Synpcc7942_1003,637799423,SYNPCC7942_RS05145,1014434,1015987,+,chromosome,trpE,"anthranilate synthase, component I",essential,8,non-essential
+Synpcc7942_1020,637799440,SYNPCC7942_RS05245,1034796,1035746,+,chromosome,menC,O-succinylbenzoate synthase,essential,0,non-essential
+Synpcc7942_1021,637799441,SYNPCC7942_RS05250,1035731,1037074,+,chromosome,menE,O-succinylbenzoic acid--CoA ligase,essential,0,non-essential
+Synpcc7942_1030,637799452,SYNPCC7942_RS05290,1044888,1046009,+,chromosome,hisC,histidinol-phosphate aminotransferase,essential,4,non-essential
+Synpcc7942_1037,637799459,SYNPCC7942_RS05325,1051311,1053254,+,chromosome,speA,arginine decarboxylase,essential,8,non-essential
+Synpcc7942_1044,637799466,SYNPCC7942_RS05355,1056740,1057462,-,chromosome,thyX,Thymidylate synthase complementing protein ThyX,essential,4,non-essential
+Synpcc7942_1055,637799477,SYNPCC7942_RS05410,1066056,1066679,+,chromosome,cpcF,phycocyanin alpha-subunit phycocyanobilin lyase,essential,2,non-essential
+Synpcc7942_1057,637799479,SYNPCC7942_RS05420,1067527,1068558,+,chromosome,thiE,thiamine-phosphate pyrophosphorylase,essential,6,non-essential
+Synpcc7942_1058,637799480,SYNPCC7942_RS05425,1068576,1068788,+,chromosome,ycf4,hypothetical protein,essential,0,non-essential
+Synpcc7942_1068,637799492,SYNPCC7942_RS05480,1079478,1080773,+,chromosome,pdhC,branched-chain alpha-keto acid dehydrogenase subunit E2,essential,62,essential
+Synpcc7942_1083,637799509,SYNPCC7942_RS05560,1097799,1099175,+,chromosome,,probable glycosyltransferase,essential,2,non-essential
+Synpcc7942_1086,637799512,SYNPCC7942_RS05575,1102104,1103168,+,chromosome,hemE,uroporphyrinogen decarboxylase,essential,59,essential
+Synpcc7942_1087,637799513,SYNPCC7942_RS05580,1103190,1104164,+,chromosome,,hypothetical protein,essential,21,non-essential
+Synpcc7942_1096,637799522,SYNPCC7942_RS05625,1113354,1114724,-,chromosome,thiC,thiamine biosynthesis protein ThiC,essential,97,essential
+Synpcc7942_1097,637799523,=#N/A,1114822,1114947,+,chromosome,,hypothetical protein,essential,97,essential
+Synpcc7942_1100,637799526,SYNPCC7942_RS05640,1117103,1118551,-,chromosome,dnaA,chromosomal replication initiation protein,essential,2,non-essential
+Synpcc7942_1104,637799530,SYNPCC7942_RS05660,1121152,1122417,-,chromosome,ftsW,cell division protein FtsW,essential,6,non-essential
+Synpcc7942_1105,637799531,SYNPCC7942_RS05665,1122449,1123534,-,chromosome,mrp,MRP protein-like,essential,2,non-essential
+Synpcc7942_1109,637799535,SYNPCC7942_RS05685,1125667,1126740,+,chromosome,hisC,threonine phosphate decarboxylase,essential,2,non-essential
+Synpcc7942_1114,637799540,SYNPCC7942_RS05710,1131480,1132343,-,chromosome,rbgA,ribosomal biogenesis GTPase,essential,4,non-essential
+Synpcc7942_1116,637799542,SYNPCC7942_RS05720,1132968,1134176,+,chromosome,pgk,phosphoglycerate kinase,essential,13,non-essential
+Synpcc7942_1122,637799548,=#N/A,1140801,1140995,+,chromosome,rpmG,50S ribosomal protein L33,essential,46,essential
+Synpcc7942_1123,637799549,SYNPCC7942_RS05750,1141051,1141266,+,chromosome,rpsR,30S ribosomal protein S18,essential,55,essential
+Synpcc7942_1131,637799557,SYNPCC7942_RS05790,1151398,1151619,+,chromosome,ftrV,ferredoxin-thioredoxin reductase variable subunit,essential,75,essential
+Synpcc7942_1138,637799564,SYNPCC7942_RS05825,1161580,1162590,+,chromosome,ycf62,conserved hypothetical protein YCF62,essential,0,non-essential
+Synpcc7942_1142,637799568,SYNPCC7942_RS05845,1166949,1168526,+,chromosome,metS,methionyl-tRNA synthetase,essential,2,non-essential
+Synpcc7942_1144,637799570,SYNPCC7942_RS05855,1169424,1170455,+,chromosome,,hypothetical protein,essential,11,non-essential
+Synpcc7942_1151,637799577,SYNPCC7942_RS05900,1175883,1177466,-,chromosome,panC,cytidylate kinase pantoate--beta-alanine ligase Cytidyltransferase-related,essential,7,non-essential
+Synpcc7942_1170,637799597,SYNPCC7942_RS06000,1203837,1204319,-,chromosome,ispF,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",essential,0,non-essential
+Synpcc7942_1175,637799602,SYNPCC7942_RS06020,1209424,1209546,-,chromosome,psbL,photosystem II protein L,essential,12,non-essential
+Synpcc7942_1176,637799603,SYNPCC7942_RS06025,1209559,1209693,-,chromosome,psbF,cytochrome b559 subunit beta,essential,21,non-essential
+Synpcc7942_1177,637799604,SYNPCC7942_RS06030,1209715,1209966,-,chromosome,psbE,cytochrome b559 subunit alpha,essential,48,essential
+Synpcc7942_1180,637799607,SYNPCC7942_RS06045,1211703,1212104,+,chromosome,ndhC,NADH dehydrogenase subunit A,essential,26,non-essential
+Synpcc7942_1181,637799608,SYNPCC7942_RS06050,1212095,1212802,+,chromosome,ndhK,NADH dehydrogenase subunit B,essential,0,non-essential
+Synpcc7942_1182,637799609,SYNPCC7942_RS06055,1212795,1213313,+,chromosome,ndhJ,NADH dehydrogenase subunit J,essential,0,non-essential
+Synpcc7942_1186,637799613,=#N/A,1215652,1216350,+,chromosome,ribD,putative riboflavin-specific deaminase,essential,2,non-essential
+Synpcc7942_1191,637799618,SYNPCC7942_RS06100,1220349,1220900,+,chromosome,gmk,guanylate kinase,essential,22,non-essential
+Synpcc7942_1194,637799621,SYNPCC7942_RS06115,1222698,1223495,+,chromosome,pdxJ,pyridoxal phosphate biosynthetic protein PdxJ,essential,0,non-essential
+Synpcc7942_1197,637799624,SYNPCC7942_RS06130,1224841,1225728,-,chromosome,trpC,indole-3-glycerol-phosphate synthase,essential,9,non-essential
+Synpcc7942_1198,637799625,SYNPCC7942_RS06135,1225805,1227244,-,chromosome,phdD,dihydrolipoamide dehydrogenase,essential,8,non-essential
+Synpcc7942_1209,637799637,SYNPCC7942_RS06190,1234970,1235230,-,chromosome,,hypothetical protein,essential,2,non-essential
+Synpcc7942_1219,637799648,SYNPCC7942_RS06245,1241649,1242032,+,chromosome,rpl21,50S ribosomal protein L21,essential,107,essential
+Synpcc7942_1220,637799649,SYNPCC7942_RS06250,1242067,1242333,+,chromosome,rpl27,50S ribosomal protein L27,essential,16,non-essential
+Synpcc7942_1225,637799654,SYNPCC7942_RS06275,1246181,1246927,-,chromosome,pcyA,phycocyanobilin:ferredoxin oxidoreductase,essential,63,essential
+Synpcc7942_1229,637799658,SYNPCC7942_RS06300,1250193,1250987,-,chromosome,cobM,precorrin-4 C11-methyltransferase,essential,11,non-essential
+Synpcc7942_1231,637799660,SYNPCC7942_RS06310,1251930,1252904,-,chromosome,cytf,cytochrome b6f complex subunit PetA,essential,45,essential
+Synpcc7942_1232,637799661,SYNPCC7942_RS06315,1252950,1253489,-,chromosome,petC,cytochrome b6-f complex iron-sulfur subunit,essential,124,essential
+Synpcc7942_1240,637799669,SYNPCC7942_RS06355,1263263,1264801,-,chromosome,nirA,ferredoxin-nitrite reductase,essential,19,non-essential
+Synpcc7942_1249,637799678,SYNPCC7942_RS06400,1273621,1273755,-,chromosome,psaJ,photosystem I reaction center subunit IX,essential,6,non-essential
+Synpcc7942_1251,637799680,SYNPCC7942_RS06410,1274438,1275487,+,chromosome,,O-sialoglycoprotein endopeptidase,essential,34,non-essential
+Synpcc7942_1261,637799691,SYNPCC7942_RS06460,1284223,1285014,-,chromosome,tpiA,triosephosphate isomerase,essential,5,non-essential
+Synpcc7942_1268,637799698,SYNPCC7942_RS06495,1291777,1293231,-,chromosome,,Phosphoglucomutase,essential,7,non-essential
+Synpcc7942_1269,637799699,SYNPCC7942_RS06500,1293542,1294939,+,chromosome,mgtE,magnesium transporter,essential,1,non-essential
+Synpcc7942_1270,637799700,SYNPCC7942_RS06505,1295129,1295425,+,chromosome,,hypothetical protein,essential,21,non-essential
+Synpcc7942_1271,637799701,SYNPCC7942_RS06510,1295438,1296175,-,chromosome,,hypothetical protein,essential,0,non-essential
+Synpcc7942_1274,637799704,SYNPCC7942_RS06525,1298630,1299157,-,chromosome,ycf37,TPR repeat,essential,4,non-essential
+Synpcc7942_1277,637799707,SYNPCC7942_RS06540,1301174,1301524,-,chromosome,rplT,50S ribosomal protein L20,essential,44,essential
+Synpcc7942_1278,637799708,SYNPCC7942_RS06545,1301569,1301769,-,chromosome,rpmI,50S ribosomal protein L35,essential,0,non-essential
+Synpcc7942_1282,637799712,SYNPCC7942_RS06565,1304480,1305463,-,chromosome,moaA,molybdenum cofactor biosynthesis protein A,essential,4,non-essential
+Synpcc7942_1283,637799713,SYNPCC7942_RS06570,1305460,1305957,-,chromosome,moaE,molybdopterin synthase subunit MoaE,essential,1,non-essential
+Synpcc7942_1285,637799715,SYNPCC7942_RS06580,1306229,1307200,-,chromosome,moaC,bifunctional molybdenum cofactor biosynthesis protein C/molybdopterin-binding protein,essential,2,non-essential
+Synpcc7942_1286,637799716,=#N/A,1307304,1308515,+,chromosome,moeA,molybdopterin molybdochelatase,essential,2,non-essential
+Synpcc7942_1292,637799722,SYNPCC7942_RS06610,1313939,1316023,-,chromosome,dnaG,DNA primase,essential,2,non-essential
+Synpcc7942_1293,637799723,SYNPCC7942_RS06615,1316166,1318598,-,chromosome,pheT,phenylalanyl-tRNA synthetase subunit beta,essential,13,non-essential
+Synpcc7942_1306,637799737,SYNPCC7942_RS06680,1333522,1334082,-,chromosome,,hypothetical protein,essential,13,non-essential
+Synpcc7942_1308,637799739,SYNPCC7942_RS06690,1335009,1336076,+,chromosome,trpS,tryptophanyl-tRNA synthetase,essential,0,non-essential
+Synpcc7942_1309,637799740,SYNPCC7942_RS06695,1336073,1337005,+,chromosome,metF,hypothetical protein,essential,0,non-essential
+Synpcc7942_1312,637799743,SYNPCC7942_RS06710,1338656,1340458,-,chromosome,,ATPase,essential,2,non-essential
+Synpcc7942_1313,637799744,SYNPCC7942_RS06715,1340634,1342433,+,chromosome,aspS,aspartyl-tRNA synthetase,essential,56,essential
+Synpcc7942_1325,637799756,SYNPCC7942_RS06775,1355787,1357151,+,chromosome,dnaB,primary replicative DNA helicase,essential,11,non-essential
+Synpcc7942_1340,637799771,SYNPCC7942_RS06850,1374061,1374639,-,chromosome,def,peptide deformylase,essential,0,non-essential
+Synpcc7942_1342,637799773,SYNPCC7942_RS06860,1375911,1377002,+,chromosome,gmd,"GDP-mannose 4,6-dehydratase",essential,2,non-essential
+Synpcc7942_1343,637799774,SYNPCC7942_RS06865,1377217,1378335,+,chromosome,ndhA,NADH dehydrogenase subunit H,essential,2,non-essential
+Synpcc7942_1345,637799776,SYNPCC7942_RS06875,1378990,1379595,+,chromosome,ndhG,NADH dehydrogenase subunit J,essential,0,non-essential
+Synpcc7942_1346,637799777,SYNPCC7942_RS06880,1379614,1379925,+,chromosome,ndhE,NADH dehydrogenase subunit K,essential,18,non-essential
+Synpcc7942_1351,637799782,SYNPCC7942_RS06905,1382386,1383096,-,chromosome,,"HAD-superfamily hydrolase subfamily IA, variant 3",essential,3,non-essential
+Synpcc7942_1359,637799790,SYNPCC7942_RS06950,1398294,1399499,-,chromosome,,coenzyme F420 hydrogenase,essential,25,non-essential
+Synpcc7942_1366,637799798,SYNPCC7942_RS06990,1404292,1405203,-,chromosome,menA,"1,4-dihydroxy-2-naphthoate octaprenyltransferase",essential,7,non-essential
+Synpcc7942_1369,637799801,SYNPCC7942_RS07005,1407202,1407837,+,chromosome,recR,recombination protein RecR,essential,2,non-essential
+Synpcc7942_1372,637799804,SYNPCC7942_RS07020,1409560,1413132,+,chromosome,metH,methionine synthase (B12-dependent),essential,0,non-essential
+Synpcc7942_1378,637799810,SYNPCC7942_RS07050,1419926,1421167,-,chromosome,,hypothetical protein,essential,3,non-essential
+Synpcc7942_1379,637799811,SYNPCC7942_RS07060,1421475,1422836,+,chromosome,accC,acetyl-CoA carboxylase biotin carboxylase subunit,essential,88,essential
+Synpcc7942_1383,637799815,SYNPCC7942_RS07080,1429798,1430310,-,chromosome,ppa,Inorganic diphosphatase,essential,7,non-essential
+Synpcc7942_1386,637799818,SYNPCC7942_RS07095,1431627,1432760,-,chromosome,,hypothetical protein,essential,3,non-essential
+Synpcc7942_1387,637799819,SYNPCC7942_RS07100,1432853,1433680,+,chromosome,,hypothetical protein,essential,2,non-essential
+Synpcc7942_1401,637799833,SYNPCC7942_RS07170,1452727,1453104,-,chromosome,,hypothetical protein,essential,3,non-essential
+Synpcc7942_1404,637799836,SYNPCC7942_RS07185,1455395,1456084,-,chromosome,,"two component transcriptional regulator, winged helix family",essential,7,non-essential
+Synpcc7942_1406,637799838,SYNPCC7942_RS07195,1456803,1457909,-,chromosome,futC,ATPase,essential,5,non-essential
+Synpcc7942_1407,637799839,SYNPCC7942_RS07200,1458057,1459688,+,chromosome,futB,iron(III) ABC transporter permease protein,essential,7,non-essential
+Synpcc7942_1415,637799847,SYNPCC7942_RS07240,1466530,1468095,-,chromosome,ndhB,NAD(P)H-quinone oxidoreductase subunit B,essential,4,non-essential
+Synpcc7942_1416,637799848,SYNPCC7942_RS07245,1468344,1470995,+,chromosome,topA,DNA topoisomerase I,essential,0,non-essential
+Synpcc7942_1421,637799853,SYNPCC7942_RS07270,1475239,1475547,+,chromosome,ccmK,putative carboxysome assembly protein,essential,199,essential
+Synpcc7942_1422,637799854,SYNPCC7942_RS07275,1475694,1475993,+,chromosome,ccmL,carbon dioxide concentrating mechanism protein CcmL,essential,146,essential
+Synpcc7942_1423,637799855,SYNPCC7942_RS07280,1476059,1477678,+,chromosome,ccmM,Carbonate dehydratase,essential,20,non-essential
+Synpcc7942_1424,637799856,SYNPCC7942_RS07285,1477713,1478198,+,chromosome,ccmN,carbon dioxide concentrating mechanism protein,essential,5,non-essential
+Synpcc7942_1425,637799857,SYNPCC7942_RS07290,1478240,1479070,+,chromosome,ccmO,carbon dioxide concentrating mechanism protein CcmO,essential,4,non-essential
+Synpcc7942_1426,637799858,SYNPCC7942_RS07295,1479461,1480879,+,chromosome,rbcL,ribulose bisophosphate carboxylase,essential,185,essential
+Synpcc7942_1427,637799859,SYNPCC7942_RS07300,1480970,1481305,+,chromosome,rbcS,"ribulose 1,5-bisphosphate carboxylase small subunit",essential,90,essential
+Synpcc7942_1428,637799860,SYNPCC7942_RS07305,1481407,1482594,+,chromosome,purK,phosphoribosylaminoimidazole carboxylase ATPase subunit,essential,2,non-essential
+Synpcc7942_1432,637799864,SYNPCC7942_RS07325,1485025,1486710,-,chromosome,ribA,"bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II protein",essential,58,essential
+Synpcc7942_1433,637799865,SYNPCC7942_RS07330,1486983,1488041,+,chromosome,argC,N-acetyl-gamma-glutamyl-phosphate reductase,essential,7,non-essential
+Synpcc7942_1435,637799867,SYNPCC7942_RS07340,1488975,1490723,-,chromosome,menD,"2-succinyl-6-hydroxy-2, 4-cyclohexadiene-1-carboxylic acid synthase/2-oxoglutarate decarboxylase",essential,9,non-essential
+Synpcc7942_1440,637799872,SYNPCC7942_RS07365,1494173,1495093,-,chromosome,thrB,homoserine kinase,essential,26,non-essential
+Synpcc7942_1441,637799873,SYNPCC7942_RS07370,1495174,1496151,-,chromosome,cobD,cobalamin biosynthesis protein,essential,2,non-essential
+Synpcc7942_1443,637799875,SYNPCC7942_RS07385,1497217,1498290,+,chromosome,fba,"fructose-1,6-bisphosphate aldolase",essential,72,essential
+Synpcc7942_1447,637799879,SYNPCC7942_RS07405,1500489,1501307,+,chromosome,icfA,Carbonate dehydratase,essential,7,non-essential
+Synpcc7942_1449,637799881,SYNPCC7942_RS07415,1502325,1503392,-,chromosome,lpxD,UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase,essential,0,non-essential
+Synpcc7942_1453,637799885,SYNPCC7942_RS07435,1506399,1507133,+,chromosome,rpaB,"two component transcriptional regulator, winged helix family",essential,118,essential
+Synpcc7942_1454,637799886,SYNPCC7942_RS07440,1507284,1508324,+,chromosome,plsX,fatty acid/phospholipid synthesis protein,essential,4,non-essential
+Synpcc7942_1455,637799887,SYNPCC7942_RS07445,1508394,1509401,+,chromosome,fabH,3-oxoacyl-(acyl carrier protein) synthase III,essential,36,non-essential
+Synpcc7942_1456,637799888,SYNPCC7942_RS07450,1509455,1510336,+,chromosome,,malonyl CoA-acyl carrier protein transacylase,essential,13,non-essential
+Synpcc7942_1457,637799889,SYNPCC7942_RS07455,1510305,1510982,+,chromosome,plsC,1-acyl-sn-glycerol-3-phosphate acyltransferase,essential,0,non-essential
+Synpcc7942_1459,637799891,SYNPCC7942_RS07465,1511592,1512212,-,chromosome,,hypothetical protein,essential,0,non-essential
+Synpcc7942_1474,637799906,SYNPCC7942_RS07535,1525078,1525413,-,chromosome,,putative monovalent cation/H+ antiporter subunit C,essential,187,essential
+Synpcc7942_1479,637799911,SYNPCC7942_RS07560,1530970,1531083,+,chromosome,petG,cytochrome b6f complex subunit PetG,essential,34,non-essential
+Synpcc7942_1481,637799913,SYNPCC7942_RS07570,1531745,1532398,-,chromosome,hisH,imidazole glycerol phosphate synthase subunit HisH,essential,9,non-essential
+Synpcc7942_1484,637799916,SYNPCC7942_RS07585,1534874,1536367,-,chromosome,murE,"UDP-N-acetylmuramoylalanyl-D-glutamate--2, 6-diaminopimelate ligase",essential,9,non-essential
+Synpcc7942_1487,637799919,SYNPCC7942_RS07600,1536986,1537594,+,chromosome,rpsD,30S ribosomal protein S4,essential,49,essential
+Synpcc7942_1496,637799929,SYNPCC7942_RS07645,1546647,1547552,-,chromosome,argB,acetylglutamate kinase,essential,8,non-essential
+Synpcc7942_1497,637799930,SYNPCC7942_RS07650,1547545,1548105,-,chromosome,,hypothetical protein,essential,7,non-essential
+Synpcc7942_1499,637799932,SYNPCC7942_RS07660,1548631,1548930,-,chromosome,petF,Ferredoxin (2Fe-2S),essential,153,essential
+Synpcc7942_1501,637799934,SYNPCC7942_RS07670,1550078,1551718,-,chromosome,serA,D-3-phosphoglycerate dehydrogenase,essential,3,non-essential
+Synpcc7942_1505,637799938,SYNPCC7942_RS07690,1554839,1555936,-,chromosome,leuB,3-isopropylmalate dehydrogenase,essential,2,non-essential
+Synpcc7942_1509,637799942,SYNPCC7942_RS07715,1559329,1560402,+,chromosome,trmU,tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase,essential,4,non-essential
+Synpcc7942_1512,637799945,SYNPCC7942_RS07730,1561944,1563389,-,chromosome,crtQb,zeta-carotene desaturase,essential,47,essential
+Synpcc7942_1513,637799946,SYNPCC7942_RS07735,1563532,1564740,+,chromosome,dxr,1-deoxy-D-xylulose 5-phosphate reductoisomerase,essential,23,non-essential
+Synpcc7942_1516,637799949,SYNPCC7942_RS07750,1566324,1566971,-,chromosome,,phosphoglycerate mutase,essential,29,non-essential
+Synpcc7942_1517,637799950,SYNPCC7942_RS07755,1566943,1568316,-,chromosome,,histidine kinase,essential,0,non-essential
+Synpcc7942_1519,637799952,SYNPCC7942_RS07765,1570976,1572280,-,chromosome,hisD,histidinol dehydrogenase,essential,0,non-essential
+Synpcc7942_1520,637799953,SYNPCC7942_RS07770,1572486,1572782,+,chromosome,rpsT,30S ribosomal protein S20,essential,94,essential
+Synpcc7942_1522,637799955,SYNPCC7942_RS07780,1573729,1577031,+,chromosome,rpoB,DNA-directed RNA polymerase subunit beta,essential,43,essential
+Synpcc7942_1523,637799956,SYNPCC7942_RS07785,1577150,1579024,+,chromosome,rpoC1,DNA-directed RNA polymerase subunit gamma,essential,6,non-essential
+Synpcc7942_1524,637799957,SYNPCC7942_RS07790,1579094,1583050,+,chromosome,rpoC2,DNA-directed RNA polymerase subunit beta',essential,4,non-essential
+Synpcc7942_1529,637799962,SYNPCC7942_RS07815,1589204,1590223,+,chromosome,,hypothetical protein,essential,11,non-essential
+Synpcc7942_1552,637799985,SYNPCC7942_RS07915,1609373,1610356,-,chromosome,ilvC,ketol-acid reductoisomerase,essential,6,non-essential
+Synpcc7942_1554,637799987,SYNPCC7942_RS07925,1611260,1611853,-,chromosome,clpP1,ATP-dependent Clp protease proteolytic subunit,essential,2,non-essential
+Synpcc7942_1558,637799991,SYNPCC7942_RS07950,1615204,1616271,+,chromosome,,hypothetical protein,essential,5,non-essential
+Synpcc7942_1559,637799992,SYNPCC7942_RS07955,1616284,1616958,+,chromosome,,hypothetical protein,essential,12,non-essential
+Synpcc7942_1577,637800010,SYNPCC7942_RS08055,1640261,1642033,-,chromosome,argS,arginyl-tRNA synthetase,essential,7,non-essential
+Synpcc7942_1578,637800011,SYNPCC7942_RS08060,1642172,1643011,-,chromosome,tatC,Sec-independent protein translocase TatC,essential,9,non-essential
+Synpcc7942_1582,637800015,SYNPCC7942_RS08080,1646823,1648211,-,chromosome,trmE,tRNA modification GTPase TrmE,essential,2,non-essential
+Synpcc7942_1586,637800019,SYNPCC7942_RS08100,1651359,1652669,+,chromosome,,periplasmic sensor signal transduction histidine kinase,essential,41,essential
+Synpcc7942_1590,637800023,SYNPCC7942_RS08120,1657274,1658131,-,chromosome,,hypothetical protein,essential,2,non-essential
+Synpcc7942_1593,637800026,SYNPCC7942_RS08135,1660025,1660720,+,chromosome,,hypothetical protein,essential,0,non-essential
+Synpcc7942_1594,637800027,SYNPCC7942_RS08140,1660735,1661760,+,chromosome,,hypothetical protein,essential,14,non-essential
+Synpcc7942_1595,637800028,SYNPCC7942_RS08145,1661770,1662753,+,chromosome,accA,acetyl-CoA carboxylase carboxyltransferase subunit alpha,essential,5,non-essential
+Synpcc7942_1597,637800030,SYNPCC7942_RS08155,1663657,1664298,+,chromosome,folE,GTP cyclohydrolase I,essential,38,non-essential
+Synpcc7942_1608,637800042,SYNPCC7942_RS08205,1673935,1675344,+,chromosome,manC,mannose-1-phosphate guanylyltransferase (GDP),essential,9,non-essential
+Synpcc7942_1609,637800043,SYNPCC7942_RS08210,1675456,1678869,+,chromosome,nrdJ,Protein splicing (intein) site,essential,53,essential
+Synpcc7942_1613,637800047,SYNPCC7942_RS08230,1682042,1682617,+,chromosome,,hypothetical protein,essential,46,essential
+Synpcc7942_1614,637800048,SYNPCC7942_RS08235,1682665,1682802,+,chromosome,rpmH,50S ribosomal protein L34,essential,40,essential
+Synpcc7942_1615,637800049,SYNPCC7942_RS08240,1682808,1683176,+,chromosome,rnpA,ribonuclease P,essential,2,non-essential
+Synpcc7942_1617,637800053,SYNPCC7942_RS08250,1683752,1684930,+,chromosome,yidC,putative inner membrane protein translocase component YidC,essential,4,non-essential
+Synpcc7942_1621,637800057,SYNPCC7942_RS08270,1687584,1689152,-,chromosome,,Elongator protein 3/MiaB/NifB,essential,47,essential
+Synpcc7942_1624,637800060,SYNPCC7942_RS08285,1692985,1693719,-,chromosome,ribC,riboflavin synthase subunit alpha,essential,22,non-essential
+Synpcc7942_1639,637800076,SYNPCC7942_RS08360,1707135,1707776,+,chromosome,,ATPase,essential,25,non-essential
+Synpcc7942_1651,637800088,SYNPCC7942_RS08420,1721058,1721795,+,chromosome,rffM,N-acetylmannosaminyltransferase,essential,4,non-essential
+Synpcc7942_1662,637800099,SYNPCC7942_RS08475,1731811,1733247,-,chromosome,cysS,cysteinyl-tRNA synthetase,essential,0,non-essential
+Synpcc7942_1667,637800105,SYNPCC7942_RS08500,1735965,1737356,+,chromosome,murD,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase,essential,3,non-essential
+Synpcc7942_1673,637800111,SYNPCC7942_RS08525,1743189,1743854,-,chromosome,,hypothetical protein,essential,0,non-essential
+Synpcc7942_1700,637800138,SYNPCC7942_RS08655,1766905,1767849,-,chromosome,wcaG,GDP-fucose synthetase NAD dependent epimerase/dehydratase,essential,56,essential
+Synpcc7942_1706,637800144,SYNPCC7942_RS08680,1773234,1775426,+,chromosome,,hypothetical protein,essential,8,non-essential
+Synpcc7942_1709,637800147,SYNPCC7942_RS08695,1778348,1779889,-,chromosome,,Small GTP-binding protein domain,essential,4,non-essential
+Synpcc7942_1715,637800153,SYNPCC7942_RS08725,1783250,1783903,-,chromosome,upp,uracil phosphoribosyltransferase,essential,6,non-essential
+Synpcc7942_1719,637800158,SYNPCC7942_RS08745,1790369,1791796,-,chromosome,icd,isocitrate dehydrogenase,essential,6,non-essential
+Synpcc7942_1726,637800165,SYNPCC7942_RS08785,1799119,1799610,-,chromosome,lspA,lipoprotein signal peptidase,essential,3,non-essential
+Synpcc7942_1727,637800166,SYNPCC7942_RS08790,1799638,1800219,-,chromosome,,BioY protein,essential,9,non-essential
+Synpcc7942_1734,637800173,SYNPCC7942_RS08825,1804395,1804757,+,chromosome,ftrC,ferredoxin-thioredoxin reductase catalytic chain,essential,112,essential
+Synpcc7942_1735,637800174,SYNPCC7942_RS08830,1804805,1806244,+,chromosome,sufB,cysteine desulfurase activator complex subunit SufB,essential,8,non-essential
+Synpcc7942_1736,637800175,SYNPCC7942_RS08835,1806290,1807075,+,chromosome,sufC,Iron-regulated ABC transporter ATPase subunit SufC,essential,6,non-essential
+Synpcc7942_1737,637800176,SYNPCC7942_RS08840,1807075,1808403,+,chromosome,sufD,Iron-regulated ABC transporter permease protein SufD,essential,0,non-essential
+Synpcc7942_1738,637800177,SYNPCC7942_RS08845,1808413,1809672,+,chromosome,sufS,cysteine desulfurase,essential,0,non-essential
+Synpcc7942_1740,637800179,SYNPCC7942_RS08855,1810183,1811088,-,chromosome,murB,UDP-N-acetylmuramate dehydrogenase,essential,7,non-essential
+Synpcc7942_1741,637800180,SYNPCC7942_RS08860,1811099,1812535,-,chromosome,murC,UDP-N-acetylmuramate--L-alanine ligase,essential,0,non-essential
+Synpcc7942_1742,637800181,SYNPCC7942_RS08865,1812814,1813833,+,chromosome,gap2,glyceraldehyde-3-phosphate dehydrogenase,essential,4,non-essential
+Synpcc7942_1743,637800182,SYNPCC7942_RS08870,1814092,1815276,+,chromosome,ndhH,NAD(P)H-quinone oxidoreductase subunit H,essential,4,non-essential
+Synpcc7942_1744,637800183,SYNPCC7942_RS08875,1815423,1815833,+,chromosome,,hypothetical protein,essential,0,non-essential
+Synpcc7942_1761,637800202,SYNPCC7942_RS08950,1827800,1829530,+,chromosome,,hypothetical protein,essential,3,non-essential
+Synpcc7942_1771,637800212,SYNPCC7942_RS09000,1837162,1838652,+,chromosome,ffh,signal recognition particle subunit FFH/SRP54 (srp54),essential,6,non-essential
+Synpcc7942_1772,637800213,SYNPCC7942_RS09005,1838756,1839004,+,chromosome,rpsP,30S ribosomal protein S16,essential,74,essential
+Synpcc7942_1774,637800215,SYNPCC7942_RS09015,1839385,1839558,+,chromosome,rpsU,30S ribosomal protein S21,essential,59,essential
+Synpcc7942_1781,637800222,SYNPCC7942_RS09050,1847468,1847743,-,chromosome,,hypothetical protein,essential,70,essential
+Synpcc7942_1782,637800223,SYNPCC7942_RS09055,1847829,1849121,-,chromosome,thrC,threonine synthase,essential,47,essential
+Synpcc7942_1786,637800227,SYNPCC7942_RS09075,1853723,1854250,-,chromosome,ycf51,conserved hypothetical protein YCF51,essential,4,non-essential
+Synpcc7942_1787,637800228,SYNPCC7942_RS09080,1854247,1854729,-,chromosome,nifU,SUF system FeS assembly protein,essential,31,non-essential
+Synpcc7942_1788,637800229,SYNPCC7942_RS09085,1855204,1859910,+,chromosome,,hypothetical protein,essential,3,non-essential
+Synpcc7942_1789,637800230,SYNPCC7942_RS09090,1860032,1861012,+,chromosome,dnaJ2,Heat shock protein DnaJ-like,essential,12,non-essential
+Synpcc7942_1790,637800231,SYNPCC7942_RS09095,1861019,1861810,+,chromosome,mbpA,DNA adenine methylase,essential,3,non-essential
+Synpcc7942_1792,637800233,SYNPCC7942_RS09105,1863290,1864270,+,chromosome,hemB,delta-aminolevulinic acid dehydratase,essential,41,essential
+Synpcc7942_1795,637800236,SYNPCC7942_RS09120,1865979,1866443,-,chromosome,smpB,SsrA-binding protein,essential,5,non-essential
+Synpcc7942_1802,637800243,SYNPCC7942_RS09155,1871523,1873145,-,chromosome,,response regulator receiver domain protein (CheY-like),essential,3,non-essential
+Synpcc7942_1808,637800249,SYNPCC7942_RS09185,1876216,1876959,-,chromosome,,pantothenate kinase,essential,2,non-essential
+Synpcc7942_1829,637800270,SYNPCC7942_RS09280,1898205,1898975,+,chromosome,hisA,1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase,essential,0,non-essential
+Synpcc7942_1830,637800271,SYNPCC7942_RS09285,1899227,1899550,-,chromosome,trxA,thioredoxin,essential,0,non-essential
+Synpcc7942_1831,637800272,SYNPCC7942_RS09290,1899856,1901019,-,chromosome,guaB,inositol-5-monophosphate dehydrogenase,essential,9,non-essential
+Synpcc7942_1832,637800273,SYNPCC7942_RS09295,1901152,1901601,-,chromosome,,hypothetical protein,essential,41,essential
+Synpcc7942_1836,637800277,SYNPCC7942_RS09315,1903658,1903990,-,chromosome,,hypothetical protein,essential,1,non-essential
+Synpcc7942_1841,637800282,SYNPCC7942_RS09340,1907478,1908845,-,chromosome,murF,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase,essential,2,non-essential
+Synpcc7942_1846,637800287,SYNPCC7942_RS09365,1911978,1913807,-,chromosome,,hypothetical protein,essential,0,non-essential
+Synpcc7942_1847,637800288,SYNPCC7942_RS09370,1913856,1914755,-,chromosome,dapA,dihydrodipicolinate synthase,essential,3,non-essential
+Synpcc7942_1848,637800289,SYNPCC7942_RS09375,1914772,1915836,-,chromosome,asd,aspartate-semialdehyde dehydrogenase,essential,11,non-essential
+Synpcc7942_1850,637800291,SYNPCC7942_RS09385,1917870,1919099,-,chromosome,cobL,"precorrin-6Y C5,15-methyltransferase (decarboxylating)",essential,3,non-essential
+Synpcc7942_1851,637800292,SYNPCC7942_RS09390,1919364,1920827,+,chromosome,cobG,Ferredoxin--nitrite reductase,essential,6,non-essential
+Synpcc7942_1852,637800293,SYNPCC7942_RS09395,1920852,1921481,+,chromosome,cobH,precorrin-8X methylmutase,essential,18,non-essential
+Synpcc7942_1853,637800294,SYNPCC7942_RS09400,1921478,1922182,+,chromosome,cobI,cobalt-factor II C20-methyltransferase / precorrin-2 C20-methyltransferase,essential,0,non-essential
+Synpcc7942_1854,637800295,SYNPCC7942_RS09405,1922179,1923879,+,chromosome,cobJ,precorrin-3 methyltransferase,essential,0,non-essential
+Synpcc7942_1855,637800296,SYNPCC7942_RS09410,1923883,1925253,+,chromosome,cobB,"cobyrinic acid a,c-diamide synthase",essential,3,non-essential
+Synpcc7942_1856,637800297,SYNPCC7942_RS09415,1925324,1925830,+,chromosome,cumB,tRNA-adenosine deaminase,essential,16,non-essential
+Synpcc7942_1858,637800299,SYNPCC7942_RS09425,1926893,1927609,+,chromosome,ho1,Heme oxygenase (decyclizing),essential,42,essential
+Synpcc7942_1860,637800301,SYNPCC7942_RS09435,1930475,1931182,-,chromosome,ycf29,"two component transcriptional regulator, LuxR family",essential,11,non-essential
+Synpcc7942_1864,637800305,SYNPCC7942_RS09455,1934588,1935175,+,chromosome,,hypothetical protein,essential,2,non-essential
+Synpcc7942_1883,637800324,SYNPCC7942_RS09550,1955407,1956126,-,chromosome,ycf53,conserved hypothetical protein YCF53,essential,1,non-essential
+Synpcc7942_1884,637800325,SYNPCC7942_RS09555,1956126,1956647,-,chromosome,rfaE,"RfaE bifunctional protein, domain II",essential,4,non-essential
+Synpcc7942_1896,637800337,SYNPCC7942_RS09615,1968654,1969898,-,chromosome,argJ,bifunctional ornithine acetyltransferase/N-acetylglutamate synthase protein,essential,23,non-essential
+Synpcc7942_1898,637800339,SYNPCC7942_RS09625,1970822,1972228,-,chromosome,leuC,isopropylmalate isomerase large subunit,essential,10,non-essential
+Synpcc7942_1900,637800341,SYNPCC7942_RS09635,1972832,1973413,+,chromosome,dcd,deoxycytidine triphosphate deaminase,essential,20,non-essential
+Synpcc7942_1907,637800348,SYNPCC7942_RS09670,1983417,1984493,-,chromosome,acsF,Mg-protoporphyrin IX monomethyl ester (oxidative) cyclase,essential,88,essential
+Synpcc7942_1910,637800351,SYNPCC7942_RS09685,1985741,1986379,-,chromosome,ubiX,aromatic acid decarboxylase,essential,4,non-essential
+Synpcc7942_1912,637800353,SYNPCC7942_RS09700,1988931,1989605,-,chromosome,phoU,"phosphate uptake regulator, PhoU",essential,2,non-essential
+Synpcc7942_1913,637800355,SYNPCC7942_RS09710,1989975,1990358,+,chromosome,,hypothetical protein,essential,3,non-essential
+Synpcc7942_1915,637800357,SYNPCC7942_RS09720,1991020,1991412,-,chromosome,aroH,chorismate mutase,essential,0,non-essential
+Synpcc7942_1920,637800362,SYNPCC7942_RS09745,1995596,1998193,-,chromosome,leuS,leucyl-tRNA synthetase,essential,9,non-essential
+Synpcc7942_1927,637800369,SYNPCC7942_RS09780,2001982,2002824,+,chromosome,dapF,diaminopimelate epimerase,essential,2,non-essential
+Synpcc7942_1929,637800371,SYNPCC7942_RS09790,2003133,2004293,+,chromosome,nifS,cysteine desulfurase,essential,4,non-essential
+Synpcc7942_1932,637800374,SYNPCC7942_RS09805,2006047,2006580,+,chromosome,,hypothetical protein,essential,6,non-essential
+Synpcc7942_1936,637800378,SYNPCC7942_RS09825,2010026,2010268,-,chromosome,,hypothetical protein,essential,3,non-essential
+Synpcc7942_1944,637800386,SYNPCC7942_RS09865,2018389,2019417,+,chromosome,pdhA,Pyruvate dehydrogenase (lipoamide),essential,65,essential
+Synpcc7942_1954,637800397,SYNPCC7942_RS09920,2026183,2027877,-,chromosome,pyrG,CTP synthetase,essential,19,non-essential
+Synpcc7942_1955,637800398,=#N/A,2027929,2028072,+,chromosome,,hypothetical protein,essential,2,non-essential
+Synpcc7942_1956,637800399,SYNPCC7942_RS09925,2028196,2029113,+,chromosome,accD,acetyl-CoA carboxylase subunit beta,essential,46,essential
+Synpcc7942_1959,637800402,SYNPCC7942_RS09940,2030340,2032142,+,chromosome,proS,prolyl-tRNA synthetase,essential,32,non-essential
+Synpcc7942_1964,637800407,SYNPCC7942_RS09965,2034764,2035696,-,chromosome,ubiA,prenyltransferase,essential,4,non-essential
+Synpcc7942_1967,637800412,SYNPCC7942_RS09980,2037772,2038638,+,chromosome,cacA,undecaprenyl pyrophosphate phosphatase,essential,37,non-essential
+Synpcc7942_1973,637800418,SYNPCC7942_RS10005,2043151,2044320,-,chromosome,,mannose-1-phosphate guanyltransferase,essential,45,essential
+Synpcc7942_1980,637800425,SYNPCC7942_RS10040,2050905,2051894,+,chromosome,rbcR,"transcriptional regulator, LysR family",essential,2,non-essential
+Synpcc7942_1982,637800427,SYNPCC7942_RS10050,2052499,2052831,-,chromosome,,NADH dehydrogenase I subunit M,essential,6,non-essential
+Synpcc7942_1983,637800428,SYNPCC7942_RS10055,2052981,2054405,+,chromosome,pds,zeta-carotene desaturase / three-step phytoene desaturase,essential,0,non-essential
+Synpcc7942_1984,637800429,SYNPCC7942_RS10060,2054486,2055412,+,chromosome,pys,phytoene synthase,essential,9,non-essential
+Synpcc7942_1995,637800440,SYNPCC7942_RS10115,2064926,2065561,-,chromosome,hisIE,bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase protein,essential,34,non-essential
+Synpcc7942_2007,637800452,SYNPCC7942_RS10180,2075281,2075781,-,chromosome,coaD,phosphopantetheine adenylyltransferase,essential,2,non-essential
+Synpcc7942_2010,637800455,SYNPCC7942_RS10195,2079493,2080140,-,chromosome,psbV,cytochrome c550,essential,6,non-essential
+Synpcc7942_2011,637800456,SYNPCC7942_RS10200,2080210,2081391,-,chromosome,ycf56,Ribonuclease Z,essential,0,non-essential
+Synpcc7942_2012,637800457,SYNPCC7942_RS10205,2081506,2082729,+,chromosome,spoIID,stage II sporulation protein D-like,essential,4,non-essential
+Synpcc7942_2015,637800460,SYNPCC7942_RS10220,2083852,2084685,-,chromosome,ycf66,conserved hypothetical protein YCF66,essential,16,non-essential
+Synpcc7942_2017,637800462,SYNPCC7942_RS10230,2085077,2085370,+,chromosome,,hypothetical protein,essential,14,non-essential
+Synpcc7942_2020,637800465,SYNPCC7942_RS10250,2086845,2089937,-,chromosome,infB,translation initiation factor IF-2,essential,150,essential
+Synpcc7942_2025,637800470,SYNPCC7942_RS10275,2093363,2094448,+,chromosome,rfaG,probable glycosyltransferase,essential,2,non-essential
+Synpcc7942_2026,637800471,SYNPCC7942_RS10280,2094451,2095854,+,chromosome,,probable glycosyltransferase,essential,1,non-essential
+Synpcc7942_2027,637800472,SYNPCC7942_RS10285,2095857,2096600,+,chromosome,,probable glycosly transferase,essential,1,non-essential
+Synpcc7942_2028,637800473,SYNPCC7942_RS10290,2096615,2097676,+,chromosome,rfbW,probable glycosyltransferase,essential,2,non-essential
+Synpcc7942_2029,637800474,SYNPCC7942_RS10295,2097799,2099385,+,chromosome,pgi,glucose-6-phosphate isomerase,essential,3,non-essential
+Synpcc7942_2030,637800475,SYNPCC7942_RS10300,2099548,2100300,-,chromosome,cpcG,phycobilisome rod-core linker polypeptide,essential,11,non-essential
+Synpcc7942_2031,637800476,SYNPCC7942_RS10305,2100423,2101004,-,chromosome,,hypothetical protein,essential,0,non-essential
+Synpcc7942_2041,637800486,SYNPCC7942_RS10355,2110181,2111803,+,chromosome,mviN,integral membrane protein MviN,essential,9,non-essential
+Synpcc7942_2044,637800489,SYNPCC7942_RS10370,2112977,2113990,-,chromosome,,hypothetical protein,essential,141,essential
+Synpcc7942_2048,637800493,SYNPCC7942_RS10390,2121521,2123725,-,chromosome,psaB,photosystem I P700 chlorophyll a apoprotein A2,essential,19,non-essential
+Synpcc7942_2049,637800494,SYNPCC7942_RS10395,2123745,2126036,-,chromosome,psaA,photosystem I P700 chlorophyll a apoprotein A1,essential,200,essential
+Synpcc7942_2055,637800500,SYNPCC7942_RS10425,2133299,2134543,+,chromosome,ubiH,2-octaprenyl-6-methoxyphenyl hydroxylase,essential,0,non-essential
+Synpcc7942_2057,637800502,SYNPCC7942_RS10435,2135125,2135757,+,chromosome,,acyl-phosphate glycerol-3-phosphate acyltransferase,essential,2,non-essential
+Synpcc7942_2058,637800503,SYNPCC7942_RS10440,2135767,2136561,-,chromosome,proC,pyrroline-5-carboxylate reductase,essential,38,non-essential
+Synpcc7942_2062,637800507,SYNPCC7942_RS10460,2138585,2139820,-,chromosome,crtL,lycopene cyclase (CrtL-type),essential,11,non-essential
+Synpcc7942_2064,637800509,SYNPCC7942_RS10470,2140803,2141804,+,chromosome,pheS,phenylalanyl-tRNA synthetase subunit alpha,essential,9,non-essential
+Synpcc7942_2072,637800517,SYNPCC7942_RS10505,2149802,2150425,+,chromosome,grpE,heat shock protein GrpE,essential,14,non-essential
+Synpcc7942_2075,637800520,SYNPCC7942_RS10520,2153766,2154017,+,chromosome,,hypothetical protein,essential,0,non-essential
+Synpcc7942_2081,637800526,SYNPCC7942_RS10550,2160557,2161507,-,chromosome,wcaA,probable glycosyl transferase,essential,4,non-essential
+Synpcc7942_2084,637800529,SYNPCC7942_RS10565,2164651,2165670,-,chromosome,chlG,bacteriochlorophyll/chlorophyll a synthase,essential,12,non-essential
+Synpcc7942_2087,637800532,SYNPCC7942_RS10580,2167149,2167916,+,chromosome,hisF,imidazole glycerol phosphate synthase subunit HisF,essential,2,non-essential
+Synpcc7942_2089,637800534,SYNPCC7942_RS10590,2168671,2169585,-,chromosome,,Thioredoxin domain 2,essential,0,non-essential
+Synpcc7942_2090,637800535,SYNPCC7942_RS10595,2169842,2171179,+,chromosome,thrA,homoserine dehydrogenase,essential,0,non-essential
+Synpcc7942_2110,637800555,SYNPCC7942_RS10695,2190917,2191900,-,chromosome,fmt,methionyl-tRNA formyltransferase,essential,0,non-essential
+Synpcc7942_2113,637800558,SYNPCC7942_RS10710,2193730,2194725,+,chromosome,kprS,ribose-phosphate pyrophosphokinase,essential,36,non-essential
+Synpcc7942_2117,637800562,SYNPCC7942_RS10735,2198155,2199594,-,chromosome,gatA,aspartyl/glutamyl-tRNA amidotransferase subunit A,essential,0,non-essential
+Synpcc7942_2121,637800566,SYNPCC7942_RS10755,2202117,2202509,-,chromosome,spoIIA,"anti-anti-sigma regulatory factor, SpoIIAA",essential,36,non-essential
+Synpcc7942_2122,637800567,SYNPCC7942_RS10760,2202560,2203735,-,chromosome,carA,carbamoyl phosphate synthase small subunit,essential,7,non-essential
+Synpcc7942_2123,637800568,SYNPCC7942_RS10765,2203801,2204847,-,chromosome,trpD,anthranilate phosphoribosyltransferase,essential,57,essential
+Synpcc7942_2135,637800580,SYNPCC7942_RS10830,2214773,2215456,-,chromosome,,hypothetical protein,essential,4,non-essential
+Synpcc7942_2136,637800581,SYNPCC7942_RS10835,2215466,2216287,-,chromosome,dapB,dihydrodipicolinate reductase,essential,3,non-essential
+Synpcc7942_2137,637800582,SYNPCC7942_RS10840,2216577,2220563,+,chromosome,chlH,magnesium chelatase,essential,10,non-essential
+Synpcc7942_2143,637800588,SYNPCC7942_RS10880,2226908,2228170,+,chromosome,trpB,tryptophan synthase subunit beta,essential,5,non-essential
+Synpcc7942_2148,637800593,SYNPCC7942_RS10915,2230823,2231845,+,chromosome,,ATPase,essential,14,non-essential
+Synpcc7942_2149,637800594,SYNPCC7942_RS10920,2231897,2232757,+,chromosome,ycf38,ABC-2 type transport system permease protein,essential,4,non-essential
+Synpcc7942_2188,637800633,SYNPCC7942_RS11120,2266131,2267534,-,chromosome,menF,isochorismate synthase,essential,23,non-essential
+Synpcc7942_2197,637800642,SYNPCC7942_RS11160,2275683,2276786,+,chromosome,proB,gamma-glutamyl kinase,essential,10,non-essential
+Synpcc7942_2199,637800644,SYNPCC7942_RS11170,2277916,2280528,-,chromosome,dnaE,DNA polymerase III subunit alpha,essential,11,non-essential
+Synpcc7942_2201,637800646,SYNPCC7942_RS11185,2281327,2282547,-,chromosome,alr,alanine racemase,essential,5,non-essential
+Synpcc7942_2203,637800648,SYNPCC7942_RS11195,2283183,2284289,-,chromosome,prfA,peptide chain release factor 1,essential,45,essential
+Synpcc7942_2204,637800650,SYNPCC7942_RS11200,2284391,2284624,-,chromosome,rpmE,50S ribosomal protein L31,essential,30,non-essential
+Synpcc7942_2205,637800651,SYNPCC7942_RS11205,2284655,2285062,-,chromosome,rpsI,30S ribosomal protein S9,essential,1,non-essential
+Synpcc7942_2206,637800652,SYNPCC7942_RS11210,2285062,2285517,-,chromosome,rplM,50S ribosomal protein L13,essential,15,non-essential
+Synpcc7942_2207,637800653,SYNPCC7942_RS11215,2285533,2286417,-,chromosome,truA,tRNA pseudouridine synthase A,essential,1,non-essential
+Synpcc7942_2208,637800654,SYNPCC7942_RS11220,2286420,2286770,-,chromosome,rplQ,50S ribosomal protein L17,essential,9,non-essential
+Synpcc7942_2209,637800655,SYNPCC7942_RS11225,2286806,2287735,-,chromosome,rpoA,DNA-directed RNA polymerase subunit alpha,essential,4,non-essential
+Synpcc7942_2210,637800657,SYNPCC7942_RS11230,2287781,2288173,-,chromosome,rps11,30S ribosomal protein S11,essential,9,non-essential
+Synpcc7942_2211,637800658,SYNPCC7942_RS11235,2288243,2288620,-,chromosome,rpsM,30S ribosomal protein S13,essential,154,essential
+Synpcc7942_2212,637800659,=#N/A,2288775,2288888,-,chromosome,rpmJ,50S ribosomal protein L36,essential,73,essential
+Synpcc7942_2213,637800660,SYNPCC7942_RS11240,2288962,2289522,-,chromosome,adk,adenylate kinase,essential,1,non-essential
+Synpcc7942_2214,637800661,SYNPCC7942_RS11245,2289522,2290841,-,chromosome,secY,preprotein translocase subunit SecY,essential,7,non-essential
+Synpcc7942_2216,637800663,SYNPCC7942_RS11255,2291444,2291986,-,chromosome,rpsE,30S ribosomal protein S5,essential,0,non-essential
+Synpcc7942_2217,637800664,SYNPCC7942_RS11260,2291990,2292352,-,chromosome,rplR,50S ribosomal protein L18,essential,1,non-essential
+Synpcc7942_2218,637800665,SYNPCC7942_RS11265,2292352,2292891,-,chromosome,rplF,50S ribosomal protein L6,essential,36,non-essential
+Synpcc7942_2219,637800666,SYNPCC7942_RS11270,2292928,2293329,-,chromosome,rpsH,30S ribosomal protein S8,essential,27,non-essential
+Synpcc7942_2220,637800667,SYNPCC7942_RS11275,2293357,2293896,-,chromosome,rplE,50S ribosomal protein L5,essential,42,essential
+Synpcc7942_2221,637800668,SYNPCC7942_RS11280,2293939,2294280,-,chromosome,rpl24,50S ribosomal protein L24,essential,1,non-essential
+Synpcc7942_2222,637800669,SYNPCC7942_RS11285,2294280,2294645,-,chromosome,rplN,50S ribosomal protein L14,essential,11,non-essential
+Synpcc7942_2223,637800670,SYNPCC7942_RS11290,2294657,2294905,-,chromosome,rpsQ,30S ribosomal protein S17,essential,34,non-essential
+Synpcc7942_2224,637800671,SYNPCC7942_RS11295,2294940,2295134,-,chromosome,rpl29,50S ribosomal protein L29,essential,1,non-essential
+Synpcc7942_2225,637800672,SYNPCC7942_RS11300,2295137,2295565,-,chromosome,rplP,50S ribosomal protein L16,essential,8,non-essential
+Synpcc7942_2226,637800673,SYNPCC7942_RS11305,2295574,2296308,-,chromosome,rpsC,30S ribosomal protein S3,essential,0,non-essential
+Synpcc7942_2227,637800674,SYNPCC7942_RS11310,2296333,2296686,-,chromosome,rplV,50S ribosomal protein L22,essential,18,non-essential
+Synpcc7942_2228,637800675,SYNPCC7942_RS11315,2296705,2296980,-,chromosome,rpsS,30S ribosomal protein S19,essential,0,non-essential
+Synpcc7942_2229,637800676,SYNPCC7942_RS11320,2297012,2297875,-,chromosome,rplB,50S ribosomal protein L2,essential,29,non-essential
+Synpcc7942_2230,637800677,SYNPCC7942_RS11325,2297905,2298207,-,chromosome,rplW,50S ribosomal protein L23,essential,8,non-essential
+Synpcc7942_2231,637800678,SYNPCC7942_RS11330,2298200,2298832,-,chromosome,rplD,50S ribosomal protein L4,essential,6,non-essential
+Synpcc7942_2232,637800679,SYNPCC7942_RS11335,2298877,2299518,-,chromosome,rplC,50S ribosomal protein L3,essential,200,essential
+Synpcc7942_2234,637800681,SYNPCC7942_RS11345,2300183,2300659,+,chromosome,,NADH dehydrogenase I subunit N,essential,8,non-essential
+Synpcc7942_2235,637800682,SYNPCC7942_RS11350,2300665,2301372,+,chromosome,trmD,tRNA (guanine-N(1)-)-methyltransferase,essential,1,non-essential
+Synpcc7942_2244,637800691,SYNPCC7942_RS11395,2309788,2310333,-,chromosome,ribH,riboflavin synthase subunit beta,essential,9,non-essential
+Synpcc7942_2248,637800695,SYNPCC7942_RS11420,2315452,2315727,-,chromosome,himA,bacterial nucleoid protein Hbs,essential,37,non-essential
+Synpcc7942_2252,637800699,SYNPCC7942_RS11450,2318927,2321980,-,chromosome,ppc,phosphoenolpyruvate carboxylase,essential,16,non-essential
+Synpcc7942_2263,637800710,SYNPCC7942_RS11500,2331234,2332541,-,chromosome,hisS,histidyl-tRNA synthetase,essential,9,non-essential
+Synpcc7942_2265,637800712,SYNPCC7942_RS11510,2333329,2334624,+,chromosome,proA,glutamate-5-semialdehyde dehydrogenase,essential,35,non-essential
+Synpcc7942_2268,637800715,SYNPCC7942_RS11525,2336072,2337217,-,chromosome,,hypothetical protein,essential,11,non-essential
+Synpcc7942_2269,637800716,SYNPCC7942_RS11530,2337207,2337944,-,chromosome,,hypothetical protein,essential,2,non-essential
+Synpcc7942_2272,637800719,SYNPCC7942_RS11545,2339596,2340126,-,chromosome,folK,2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase,essential,0,non-essential
+Synpcc7942_2274,637800721,SYNPCC7942_RS11555,2340963,2342996,+,chromosome,chlD,protoporphyrin IX magnesium-chelatase,essential,2,non-essential
+Synpcc7942_2286,637800733,SYNPCC7942_RS11620,2355974,2357059,-,chromosome,,hypothetical protein,essential,49,essential
+Synpcc7942_2287,637800734,SYNPCC7942_RS11625,2357146,2358120,-,chromosome,,hypothetical protein,essential,27,non-essential
+Synpcc7942_2289,637800736,SYNPCC7942_RS11635,2358695,2359549,-,chromosome,ccmA,2-dehydro-3-deoxyphosphooctonate aldolase,essential,19,non-essential
+Synpcc7942_2290,637800737,SYNPCC7942_RS11640,2359531,2360265,-,chromosome,kdsB,3-deoxy-manno-octulosonate cytidylyltransferase,essential,2,non-essential
+Synpcc7942_2291,637800738,SYNPCC7942_RS11645,2360280,2361251,-,chromosome,,KpsF/GutQ family protein,essential,0,non-essential
+Synpcc7942_2303,637800751,SYNPCC7942_RS11705,2371417,2372253,+,chromosome,folP,dihydropteroate synthase,essential,2,non-essential
+Synpcc7942_2310,637800758,SYNPCC7942_RS11740,2377778,2379247,-,chromosome,,"conserved hypothetical protein, L-2,4-diaminobutyrate decarboxylase",essential,128,essential
+Synpcc7942_2311,637800759,SYNPCC7942_RS11750,2379602,2380381,-,chromosome,,hypothetical protein,essential,10,non-essential
+Synpcc7942_2312,637800760,SYNPCC7942_RS11755,2380457,2381530,+,chromosome,murG,UDP-N-acetylglucosamine--N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,essential,7,non-essential
+Synpcc7942_2313,637800761,SYNPCC7942_RS11760,2381614,2383248,-,chromosome,groEL,chaperonin GroEL,essential,0,non-essential
+Synpcc7942_2314,637800762,SYNPCC7942_RS11765,2383296,2383607,-,chromosome,groES,co-chaperonin GroES,essential,102,essential
+Synpcc7942_2315,637800763,SYNPCC7942_RS11770,2383870,2385324,+,chromosome,atpB,F0F1 ATP synthase subunit beta,essential,76,essential
+Synpcc7942_2321,637800769,SYNPCC7942_RS11800,2390121,2390642,+,chromosome,ycf3,photosystem I assembly protein Ycf3,essential,0,non-essential
+Synpcc7942_2322,637800770,SYNPCC7942_RS11805,2390654,2390944,+,chromosome,gatC,aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C,essential,11,non-essential
+Synpcc7942_2327,637800775,SYNPCC7942_RS11830,2394295,2394768,-,chromosome,,hypothetical protein,essential,40,essential
+Synpcc7942_2330,637800778,SYNPCC7942_RS11845,2397191,2398414,-,chromosome,ctpA,C-terminal processing peptidase-2. Serine peptidase. MEROPS family S41A,essential,6,non-essential
+Synpcc7942_2331,637800779,SYNPCC7942_RS11850,2398625,2399272,+,chromosome,petB,cytochrome b6,essential,51,essential
+Synpcc7942_2332,637800780,SYNPCC7942_RS11855,2399369,2399851,+,chromosome,petD,cytochrome b6-f complex subunit 4,essential,12,non-essential
+Synpcc7942_2339,637800787,SYNPCC7942_RS11885,2406813,2407847,+,chromosome,rfaE,"RfaE bifunctional protein, domain I",essential,24,non-essential
+Synpcc7942_2340,637800788,SYNPCC7942_RS11890,2407881,2409242,+,chromosome,engA,GTP-binding protein EngA,essential,21,non-essential
+Synpcc7942_2341,637800789,SYNPCC7942_RS11895,2409252,2410133,+,chromosome,,cobalt transport system permease protein,essential,7,non-essential
+Synpcc7942_2345,637800793,SYNPCC7942_RS11915,2412588,2412926,-,chromosome,ycf65,hypothetical protein,essential,5,non-essential
+Synpcc7942_2346,637800794,SYNPCC7942_RS11920,2413356,2414141,+,chromosome,hisB,HAD-superfamily subfamily IA,essential,0,non-essential
+Synpcc7942_2353,637800801,SYNPCC7942_RS11955,2420404,2421105,+,chromosome,lipB,lipoyltransferase,essential,3,non-essential
+Synpcc7942_2359,637800807,SYNPCC7942_RS11985,2425391,2426773,+,chromosome,nha3,Na+/H+ antiporter,essential,5,non-essential
+Synpcc7942_2361,637800809,SYNPCC7942_RS11995,2427870,2428739,+,chromosome,murI,glutamate racemase,essential,0,non-essential
+Synpcc7942_2362,637800810,SYNPCC7942_RS12000,2428783,2429754,+,chromosome,sds,Trans-hexaprenyltranstransferase,essential,30,non-essential
+Synpcc7942_2375,637800823,SYNPCC7942_RS12070,2442837,2443880,+,chromosome,ddl,D-alanyl-alanine synthetase A,essential,11,non-essential
+Synpcc7942_2377,637800825,SYNPCC7942_RS12080,2444319,2445167,+,chromosome,,cell division protein FtsQ,essential,7,non-essential
+Synpcc7942_2378,637800826,SYNPCC7942_RS12085,2445387,2446568,+,chromosome,ftsZ,cell division protein FtsZ,essential,6,non-essential
+Synpcc7942_2381,637800829,SYNPCC7942_RS12100,2448076,2448882,+,chromosome,panB,3-methyl-2-oxobutanoate hydroxymethyltransferase,essential,8,non-essential
+Synpcc7942_2383,637800831,SYNPCC7942_RS12110,2450109,2451260,+,chromosome,ircA,"Nucleotide binding protein, PINc",essential,0,non-essential
+Synpcc7942_2393,637800841,SYNPCC7942_RS12160,2467688,2469133,+,chromosome,gltX,glutamyl-tRNA synthetase,essential,31,non-essential
+Synpcc7942_2394,637800842,SYNPCC7942_RS12165,2469054,2470835,-,chromosome,nha6,Na+/H+ antiporter,essential,5,non-essential
+Synpcc7942_2400,637800848,SYNPCC7942_RS12195,2474159,2475316,-,chromosome,,hypothetical protein,essential,6,non-essential
+Synpcc7942_2406,637800854,SYNPCC7942_RS12230,2479051,2480190,+,chromosome,thiO,FAD dependent oxidoreductase,essential,15,non-essential
+Synpcc7942_2409,637800857,SYNPCC7942_RS12245,2481471,2482805,-,chromosome,purA,adenylosuccinate synthetase,essential,60,essential
+Synpcc7942_2411,637800859,SYNPCC7942_RS12255,2484137,2484421,+,chromosome,,hypothetical protein,essential,25,non-essential
+Synpcc7942_2415,637800863,SYNPCC7942_RS12270,2486856,2488370,-,chromosome,lysS,lysyl-tRNA synthetase,essential,4,non-essential
+Synpcc7942_2423,637800871,SYNPCC7942_RS12310,2494868,2496775,-,chromosome,gidA,tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA,essential,15,non-essential
+Synpcc7942_2433,637800881,SYNPCC7942_RS12360,2506726,2507646,+,chromosome,,hypothetical protein,essential,0,non-essential
+Synpcc7942_2434,637800882,SYNPCC7942_RS12365,2507663,2508181,+,chromosome,ilvH,acetolactate synthase 3 regulatory subunit,essential,16,non-essential
+Synpcc7942_2437,637800885,SYNPCC7942_RS12380,2509504,2512368,-,chromosome,ileS,isoleucyl-tRNA synthetase,essential,30,non-essential
+Synpcc7942_2438,637800886,SYNPCC7942_RS12385,2512440,2513873,-,chromosome,,"putative CheA signal transduction histidine kinase, no good domain identification",essential,20,non-essential
+Synpcc7942_2439,637800887,SYNPCC7942_RS12395,2514276,2515271,+,chromosome,crtR,beta-carotene hydroxylase,essential,33,non-essential
+Synpcc7942_2441,637800889,SYNPCC7942_RS12405,2517856,2518650,-,chromosome,pstB,Phosphate transport system permease protein 1,essential,20,non-essential
+Synpcc7942_2442,637800890,SYNPCC7942_RS12410,2518698,2519609,-,chromosome,pstA,Phosphate transport system permease protein 2,essential,1,non-essential
+Synpcc7942_2443,637800891,SYNPCC7942_RS12415,2519609,2520541,-,chromosome,pstC,"Phosphate ABC transporter, permease protein PstC",essential,0,non-essential
+Synpcc7942_2446,637800894,SYNPCC7942_RS12430,2523086,2523919,-,chromosome,map,methionine aminopeptidase,essential,38,non-essential
+Synpcc7942_2449,637800897,SYNPCC7942_RS12445,2526169,2526804,+,chromosome,1-cys prx,1-Cys peroxiredoxin,essential,40,essential
+Synpcc7942_2455,637800903,SYNPCC7942_RS12475,2533536,2534168,+,chromosome,,hypothetical protein,essential,11,non-essential
+Synpcc7942_2457,637800906,SYNPCC7942_RS12485,2535240,2536118,+,chromosome,glyQ,glycyl-tRNA synthetase subunit alpha,essential,40,essential
+Synpcc7942_2460,637800909,SYNPCC7942_RS12505,2539907,2541181,-,chromosome,,DNA-cytosine methyltransferase,essential,61,essential
+Synpcc7942_2463,637800912,SYNPCC7942_RS12520,2544118,2545371,-,chromosome,metX,S-adenosylmethionine synthetase,essential,48,essential
+Synpcc7942_2467,637800916,SYNPCC7942_RS12540,2547577,2548443,-,chromosome,aroE,shikimate 5-dehydrogenase,essential,2,non-essential
+Synpcc7942_2468,637800917,SYNPCC7942_RS12545,2548622,2550526,+,chromosome,dnak2,Heat shock protein Hsp70,essential,118,essential
+Synpcc7942_2471,637800920,SYNPCC7942_RS12560,2552611,2553252,+,chromosome,nusB,transcription antitermination protein NusB,essential,0,non-essential
+Synpcc7942_2472,637800921,SYNPCC7942_RS12565,2553267,2554823,+,chromosome,ffh,signal recognition particle-docking protein FtsY,essential,4,non-essential
+Synpcc7942_2473,637800922,SYNPCC7942_RS12570,2555003,2556391,+,chromosome,,serine phosphatase,essential,8,non-essential
+Synpcc7942_2475,637800924,SYNPCC7942_RS12575,2556692,2558116,+,chromosome,argH,argininosuccinate lyase,essential,10,non-essential
+Synpcc7942_2491,637800940,SYNPCC7942_RS12640,2571012,2572949,+,chromosome,gyrB,DNA gyrase subunit B,essential,127,essential
+Synpcc7942_2501,637800950,SYNPCC7942_RS12690,2581939,2583003,+,chromosome,aroF,phospho-2-dehydro-3-heoxyheptonate aldolase,essential,30,non-essential
+Synpcc7942_2503,637800952,SYNPCC7942_RS12700,2584495,2585460,-,chromosome,por,protochlorophyllide oxidoreductase,essential,3,non-essential
+Synpcc7942_2509,637800958,SYNPCC7942_RS12730,2589234,2589887,+,chromosome,,"HAD-superfamily IA hydrolase, REG-2-like",essential,9,non-essential
+Synpcc7942_2510,637800959,SYNPCC7942_RS12735,2589959,2590171,+,chromosome,infA,bacterial translation initiation factor 1 (bIF-1),essential,4,non-essential
+Synpcc7942_2513,637800962,SYNPCC7942_RS12755,2592285,2593169,+,chromosome,btpA,Photosystem I assembly BtpA,essential,23,non-essential
+Synpcc7942_2514,637800963,SYNPCC7942_RS12760,2593241,2594158,+,chromosome,argF,ornithine carbamoyltransferase,essential,5,non-essential
+Synpcc7942_2522,637800971,SYNPCC7942_RS12805,2604084,2605010,-,chromosome,,Glycerol-3-phosphate dehydrogenase (NAD(P)+),essential,2,non-essential
+Synpcc7942_2524,637800973,SYNPCC7942_RS12815,2605278,2606702,+,chromosome,tig,trigger factor,essential,11,non-essential
+Synpcc7942_2530,637800980,SYNPCC7942_RS12845,2611383,2612138,+,chromosome,rpsB,30S ribosomal protein S2,essential,113,essential
+Synpcc7942_2531,637800981,SYNPCC7942_RS12850,2612241,2612906,+,chromosome,tsf,elongation factor Ts,essential,0,non-essential
+Synpcc7942_2537,637800987,SYNPCC7942_RS12880,2619632,2620231,-,chromosome,clpPIII,ATP-dependent Clp protease proteolytic subunit,essential,0,non-essential
+Synpcc7942_2538,637800988,SYNPCC7942_RS12885,2620274,2620960,-,chromosome,clpR,ATP-dependent Clp protease-like protein,essential,33,non-essential
+Synpcc7942_2541,637800991,SYNPCC7942_RS12900,2622353,2622766,+,chromosome,rplS,50S ribosomal protein L19,essential,36,non-essential
+Synpcc7942_2545,637800995,SYNPCC7942_RS12930,2624982,2626160,+,chromosome,aspC,aspartate aminotransferase,essential,23,non-essential
+Synpcc7942_2548,637800998,SYNPCC7942_RS12945,2627423,2628031,+,chromosome,leuD,isopropylmalate isomerase small subunit,essential,5,non-essential
+Synpcc7942_2561,637801011,SYNPCC7942_RS13015,2639146,2639982,-,chromosome,desC,Delta-9 acyl-phospholipid desaturase,essential,90,essential
+Synpcc7942_2564,637801014,SYNPCC7942_RS13030,2644317,2644793,-,chromosome,accB,biotin carboxyl carrier protein,essential,0,non-essential
+Synpcc7942_2565,637801015,SYNPCC7942_RS13035,2644835,2645392,-,chromosome,efp,elongation factor P,essential,37,non-essential
+Synpcc7942_2567,637801017,SYNPCC7942_RS13045,2646633,2647616,+,chromosome,thiL,thiamine monophosphate kinase,essential,7,non-essential
+Synpcc7942_2569,637801019,SYNPCC7942_RS13055,2648098,2648820,-,chromosome,pyrF,orotidine 5'-phosphate decarboxylase,essential,3,non-essential
+Synpcc7942_2570,637801020,SYNPCC7942_RS13060,2648824,2650032,-,chromosome,tyrS,tyrosyl-tRNA synthetase,essential,0,non-essential
+Synpcc7942_2572,637801022,SYNPCC7942_RS13070,2652060,2652377,-,chromosome,,hypothetical protein,essential,3,non-essential
+Synpcc7942_2579,637801032,SYNPCC7942_RS13130,2663566,2664450,-,chromosome,dnaJ,Heat shock protein DnaJ-like,essential,6,non-essential
+Synpcc7942_2580,637801033,SYNPCC7942_RS13135,2664460,2666709,-,chromosome,dnaK3,Heat shock protein Hsp70,essential,59,essential
+Synpcc7942_2581,637801034,SYNPCC7942_RS13145,2667018,2667386,+,chromosome,petF,Ferredoxin (2Fe-2S),essential,5,non-essential
+Synpcc7942_2588,637801042,SYNPCC7942_RS13180,2671412,2672932,-,chromosome,ubiD,3-octaprenyl-4hydroxybenzoate decarboxylase,essential,4,non-essential
+Synpcc7942_2589,637801043,SYNPCC7942_RS13185,2673063,2673848,+,chromosome,comB,2-phosphosulfolactate phosphatase,essential,7,non-essential
+Synpcc7942_2592,637801046,SYNPCC7942_RS13200,2675317,2675925,-,chromosome,pyrE,orotate phosphoribosyltransferase,essential,0,non-essential
+Synpcc7942_2596,637801050,SYNPCC7942_RS13225,2678860,2679921,+,chromosome,mviM,probable oxidoreductase,essential,51,essential
+Synpcc7942_2606,637801060,SYNPCC7942_RS13275,2688305,2690119,-,chromosome,thrS,threonyl-tRNA synthetase,essential,12,non-essential
+Synpcc7942_2610,637801064,SYNPCC7942_RS13295,2692153,2692950,-,chromosome,cobA,uroporphyrin-III C-methyltransferase,essential,41,essential
+Synpcc7942_2611,637801065,SYNPCC7942_RS13300,2692993,2693757,-,chromosome,,hypothetical protein,essential,70,essential
+Synpcc7942_2612,637801066,SYNPCC7942_RS13305,2693828,2694928,+,chromosome,thrC,threonine synthase,essential,70,essential
+Synpcc7942_R0001,640711044,=#N/A,1622798,1622869,-,chromosome,tRNA-Gly,tRNA-Gly,essential,7,non-essential
+Synpcc7942_R0002,640711046,=#N/A,2025281,2025365,+,chromosome,tRNA-Ser,tRNA-Ser,essential,53,essential
+Synpcc7942_R0003,640711047,=#N/A,2085452,2085523,-,chromosome,tRNA-Thr,tRNA-Thr,essential,13,non-essential
+Synpcc7942_R0007,640711048,=#N/A,2196083,2196155,+,chromosome,tRNA-Glu,tRNA-Glu,essential,10,non-essential
+Synpcc7942_R0008,640711049,=#N/A,2281200,2281288,-,chromosome,tRNA-Ser,tRNA-Ser,essential,17,non-essential
+Synpcc7942_R0009,640711050,=#N/A,2309655,2309726,-,chromosome,tRNA-Gly,tRNA-Gly,essential,54,essential
+Synpcc7942_R0012,640711053,=#N/A,2379460,2379533,-,chromosome,tRNA-Arg,tRNA-Arg,essential,68,essential
+Synpcc7942_R0013,640711054,=#N/A,2433493,2433568,+,chromosome,tRNA-His,tRNA-His,essential,13,non-essential
+Synpcc7942_R0016,640711058,=#N/A,2538396,2538482,+,chromosome,tRNA-Ser,tRNA-Ser,essential,37,non-essential
+Synpcc7942_R0017,640711037,=#N/A,989340,989730,-,chromosome,ssrA,0,essential,11,non-essential
+Synpcc7942_R0018,640711059,=#N/A,2596584,2596656,+,chromosome,tRNA-Ala,tRNA-Ala,essential,55,essential
+Synpcc7942_R0019,640711060,=#N/A,2622812,2622884,+,chromosome,tRNA-Trp,tRNA-Trp,essential,45,essential
+Synpcc7942_R0020,640711061,=#N/A,2623091,2623164,+,chromosome,tRNA-Asp,tRNA-Asp,essential,73,essential
+Synpcc7942_R0023,640711067,=#N/A,2666838,2666924,-,chromosome,tRNA-Ser,tRNA-Ser,essential,35,non-essential
+Synpcc7942_R0024,640711068,=#N/A,2676606,2676678,-,chromosome,tRNA-Met,tRNA-Met,essential,18,non-essential
+Synpcc7942_R0025,640711016,=#N/A,87725,87796,-,chromosome,tRNA-Asn,tRNA-Asn,essential,42,essential
+Synpcc7942_R0026,640711017,=#N/A,121282,121352,+,chromosome,tRNA-Cys,tRNA-Cys,essential,27,non-essential
+Synpcc7942_R0028,640711019,=#N/A,166532,166608,+,chromosome,tRNA-Met,tRNA-Met,essential,46,essential
+Synpcc7942_R0029,640711020,=#N/A,219927,220000,+,chromosome,tRNApro,tRNA-Pro,essential,27,non-essential
+Synpcc7942_R0030,640711021,=#N/A,288160,288232,-,chromosome,tRNA-Ala,tRNA-Ala,essential,21,non-essential
+Synpcc7942_R0032,640711023,=#N/A,555218,555288,+,chromosome,tRNA-Gly,tRNA-Gly,essential,24,non-essential
+Synpcc7942_R0035,640711029,=#N/A,587716,587787,+,chromosome,tRNA-Met,tRNA-Met,essential,33,non-essential
+Synpcc7942_R0036,640711045,=#N/A,1712986,1713297,+,chromosome,rnpB,RNA component of RNaseP,essential,54,essential
+Synpcc7942_R0037,640711030,=#N/A,620372,620443,+,chromosome,tRNA-Gln,tRNA-Gln,essential,83,essential
+Synpcc7942_R0039,640711032,=#N/A,709609,709692,-,chromosome,tRNA-Leu,tRNA-Leu,essential,59,essential
+Synpcc7942_R0041,640711034,=#N/A,908331,908402,+,chromosome,tRNA-Thr,tRNA-Thr,essential,13,non-essential
+Synpcc7942_R0042,640711035,=#N/A,923151,923235,+,chromosome,tRNA-Tyr,tRNA-Tyr,essential,69,essential
+Synpcc7942_R0043,640711036,=#N/A,923243,923317,+,chromosome,tRNA-Thr,tRNA-Thr,essential,7,non-essential
+Synpcc7942_R0045,640711039,=#N/A,1174969,1175042,+,chromosome,tRNA-Pro,tRNA-Pro,essential,6,non-essential
+Synpcc7942_R0046,640711040,=#N/A,1248477,1248551,-,chromosome,tRNA-Val,tRNA-Val,essential,5,non-essential
+Synpcc7942_R0047,640711055,=#N/A,2447896,2447996,-,chromosome,ffs,SRP RNA,essential,5,non-essential
+Synpcc7942_R0048,640711041,=#N/A,1421238,1421319,-,chromosome,tRNA-Leu,tRNA-Leu,essential,36,non-essential
+Synpcc7942_R0049,640711042,=#N/A,1496904,1496975,+,chromosome,tRNA-Lys,tRNA-Lys,essential,67,essential
+Synpcc7942_R0053,640711043,=#N/A,1557246,1557317,+,chromosome,tRNA-Val,tRNA-Val,essential,3,non-essential
+Synpcc7942_B2648,637798359,SYNPCC7942_RS13350,2063,2329,+,pANL,sepA2,hypothetical protein,essential,4,non-essential
+Synpcc7942_B2652,637798381,SYNPCC7942_RS13470,22166,22417,+,pANL,,hypothetical protein,essential,0,non-essential
+pANS_6,=#N/A,=#N/A,3567,4040,-,pANS,repB,repB,essential,46,essential
+pANS_7,=#N/A,=#N/A,3995,6625,-,pANS,repA,repA,essential,174,essential

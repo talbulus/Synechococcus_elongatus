@@ -1,0 +1,52 @@
+,,iM_number,iM_name ,precision,recall,color,gene_iM,size ,,,,imodulon,precision,recall,c
+GO,,0,Signaling transduction ,1,0.066667,Red ,15,,,,,,,,
+regulon,,1,IdiB,0.4444,1,Blue ,4,100,,,GO,16,1,0.12,Red
+regulon,,2,RpaB,0.666667,1,Blue ,2,,,,GO,27,1,0.25,Red
+regulon,,3,,,,,1,,,,regulon,5,0.375,0.75,Blue
+regulon,,4,CmpR,1,0.571429,Blue ,7,,,,regulon,7,0.35,0.233,Blue
+regulon,,5,,,,,10,,,,regulon,10,0.5,0.2,Blue
+,,6,,,,,32,,,,regulon,11,0.45,1,Blue
+regulon,,7,CysR,0.777778,0.777778,Blue ,9,,,,prediction,8,1,0.666667,Black
+,,8,,,,,4,,,,prediction,14,0.777778,0.7,Black
+KEGG_pathway ,,9,Translation,0.377358,0.909091,Green,22,,,,prediction,46,1,0.555556,Black
+,,10,,,,,8,,,,regulon,27,1,1,Blue
+regulon,,11,NtcA,0.45,0.9,Blue ,10,,,,KEGG,3,0.4,0.28169,Green
+GO,,12,Negative regulation of phosphorylation ,1,0.25,Red ,4,,,,KEGG,7,0.2,0.133333,Green
+,,13,,,,,42,,,,KEGG,10,0.75,0.6,Green
+,,14,,,,,9,,,,KEGG,11,0.4,0.8888,Green
+,,15,,,,,1,,,,KEGG,14,0.272727,0.6,Green
+,,16,,,,,3,,,,KEGG,16,0.1875,0.12,Green
+,,17,,,,,1,,,,KEGG,20,0.280702,0.271186,Green
+KEGG_pathway ,,18,protein processing in ER ,1,0.083333,Green,24,,,,KEGG,26,0.108696,0.5555556,Green
+,,19,,,,,97,,,,KEGG,27,0.060606,1,Green
+,,20,,,,,33,,,,KEGG,29,0.25,0.4545,Green
+GO,,21,carboxysome ,0.6,0.6,Red ,10,,,,KEGG,33,0.171429,0.195122,Green
+KEGG_pathway ,map00190,22,OxPh,0.195652,0.116883,Green,77,,,,KEGG,35,1,0.083333,Green
+KEGG_pathway ,map00196,23,Photosynthesis - antenna proteins,0.75,0.324324,Green,37,,,,KEGG,36,0.301887,0.888889,Green
+KEGG_pathway ,map00195,24,Photosynthesis,0.22807,0.206349,Green,63,,,,KEGG,41,0.113636,0.454545,Green
+,,25,,,,,18,,,,Module,3,0.555556,0.4,Gold
+regulon,,26,SYNPCC7942_0110,1,0.444444,Blue ,9,,,,Module,10,0.5,0.15,Gold
+,,27,,,,,44,,,,Module,11,0.75,0.666667,Gold
+,,28,,,,,28,,,,Module,14,0.625,0.5,Gold
+,,29,,,,,94,,,,Module,16,1,0.08,Gold
+KEGG_module ,M00155,30,"Cytochrome c oxidase, prokaryotes",1,0.333333,Gold,9,,,,Module,20,0.5,0.084746,Gold
+,,31,,,,,1,,,,Module,26,1,0.333333,Gold
+KEGG_module ,M00145,32,"NAD(P)H:quinone oxidoreductase, chloroplasts a",0.5,0.28125,Gold,32,,,,Module,27,1,1,Gold
+,,33,,,,,2,,,,Module,29,0.25,0.181818,Gold
+regulon,,34,Fur2,0.8,0.571429,Blue ,7,,,,Module,33,0.226415,0.171429,Gold
+regulon,,35,NtcA,0.35,0.241379,Blue ,29,,,,Module,36,0.301887,0.888889,Gold
+,,36,,,,,30,,,,Module,41,0.5,0.272727,Gold
+,,37,,,,,1,,,,Module,43,0.277778,0.052083,Gold
+,,38,,,,,1,,,,Module,46,0.75,0.333333,Gold
+,,39,,,,,34,,,,,,,,
+,,40,,,,,50,,,,,,,,
+KEGG_pathway ,map03010:map00230 ,41,ribosome/Purine metabolism ,0.301887,0.103226,Green,155,,,,,,,,
+KEGG_pathway ,map00190,42,OxPh,0.173913,0.083333,Green,96,,,,,,,,
+KEGG_module ,M00157,43,"F-type ATPase, prokaryotes and chloroplasts",1,0.048387,Gold,186,,,,,,,,
+,,44,,,,,1,,,,,,,,
+,,45,,,,,10,,,,,,,,
+,,46,,,,,97,,,,,,,,
+,,47,,,,,3,,,,,,,,
+KEGG_pathway ,map00910,48,nitrogen metabolism ,0.15,0.214286,Green,14,,,,,,,,
+,,49,,,,,34,,,,,,,,
+,,50,,,,,19,,,,,,,,

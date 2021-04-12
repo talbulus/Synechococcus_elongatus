@@ -1,0 +1,23 @@
+,,iM_number,iM_name ,precision,recall,color,iM_size,gene_iM
+GO,,0,Signaling transduction ,1,0.066667,coral,15,30
+regulon,,1,IdiB,0.4444,1,blue,4,14
+regulon,,2,RpaB,0.666667,1,blue,2,8
+regulon,,4,CmpR,1,0.571429,blue,7,20
+regulon,,7,CysR,0.777778,0.777778,blue,9,24
+KEGG_pathway ,,9,Translation,0.377358,0.909091,lime,22,44
+regulon,,11,NtcA,0.45,0.9,blue,10,28
+GO,,12,Negative regulation of phosphorylation ,1,0.25,coral,4,18
+KEGG_pathway ,,18,protein processing in ER ,1,0.083333,lime,24,48
+GO,,21,carboxysome ,0.6,0.6,coral,10,20
+KEGG_pathway ,map00190,22,OxPh,0.195652,0.116883,lime,77,70
+KEGG_pathway ,map00196,23,Photosynthesis - antenna proteins,0.75,0.324324,lime,37,74
+KEGG_pathway ,map00195,24,Photosynthesis,0.22807,0.206349,lime,63,63
+regulon,,26,SYNPCC7942_0110,1,0.444444,blue,9,18
+KEGG_module ,M00155,30,"Cytochrome c oxidase, prokaryotes",1,0.333333,gold,9,18
+KEGG_module ,M00145,32,"NAD(P)H:quinone oxidoreductase, chloroplasts a",0.5,0.28125,gold,32,64
+regulon,,34,Fur2,0.8,0.571429,blue,7,20
+regulon,,35,NtcA,0.35,0.241379,blue,29,58
+KEGG_pathway ,map03010:map00230 ,41,ribosome/Purine metabolism ,0.301887,0.103226,lime,155,90
+KEGG_pathway ,map00190,42,OxPh,0.173913,0.083333,lime,96,92
+KEGG_module ,M00157,43,"F-type ATPase, prokaryotes and chloroplasts",1,0.048387,gold,186,90
+KEGG_pathway ,map00910,48,nitrogen metabolism ,0.15,0.214286,lime,14,28

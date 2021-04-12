@@ -1,0 +1,51 @@
+iModulon number,core,inner,outer,,iModulon number,core,inner,outer
+0,Unknown,Unknown,Uncharacterized,,0,Unknown,Unknown,Uncharacterized
+1,Other,Other,Single Gene,,1,Other,Other,Single Gene
+2,Other,Other,Single Gene,,2,Other,Other,Single Gene
+3,Biological,Metabolism,Carbon Metabolism,,3,Biological,Metabolism,Carbon Metabolism
+4,Biological,Anaerobic Respiration,Energy Metabolism,,4,Biological,Anaerobic Respiration,Energy Metabolism
+5,Regulatory,Stress Response,Redox Stress,,5,Regulatory,Stress Response,Redox Stress
+6,Regulatory,Two-Component System,Circadian Oscillation,,6,Regulatory,Two-Component System,Circadian Oscillation
+7,Regulatory,Anaerobic Respiration,Nitrogen Metabolism,,7,Regulatory,Anaerobic Respiration,Nitrogen Metabolism
+8,Regulatory,Stress Response,Redox Stress,,8,Regulatory,Stress Response,Redox Stress
+9,Unknown,Unknown,Uncharacterized,,9,Unknown,Unknown,Uncharacterized
+10,Biological,Photosynthesis,Energy Metabolism,,10,Biological,Photosynthesis,Energy Metabolism
+11,Regulatory,Anaerobic Respiration,Nitrogen Metabolism,,11,Regulatory,Anaerobic Respiration,Nitrogen Metabolism
+12,Unknown,Unknown,Uncharacterized,,12,Unknown,Unknown,Uncharacterized
+13,Unknown,Unknown,Uncharacterized,,13,Unknown,Unknown,Uncharacterized
+14,Regulatory,Stress Response,Sulfur Homeostasis,,14,Regulatory,Stress Response,Sulfur Homeostasis
+15,Other,Other,Single Gene,,15,Other,Other,Single Gene
+16,Regulatory,Two-Component System,Circadian Oscillation,,16,Regulatory,Two-Component System,Circadian Oscillation
+17,Other,Other,Single Gene,,17,Other,Other,Single Gene
+18,Unknown,Unknown,Uncharacterized,,18,Unknown,Unknown,Uncharacterized
+19,Genomic,Genetic Ulterations,Prophages,,19,Genomic,Genetic Ulterations,Prophages
+20,Biological,Photosynthesis,Energy Metabolism,,20,Biological,Photosynthesis,Energy Metabolism
+21,Biological,Lifestyle,Natural Competence,,21,Biological,Lifestyle,Natural Competence
+22,Unknown,Unknown,Uncharacterized,,22,Unknown,Unknown,Uncharacterized
+23,Unknown,Unknown,Uncharacterized,,23,Unknown,Unknown,Uncharacterized
+24,Regulatory,Stress Response,Phosphate Homeostasis,,24,Regulatory,Stress Response,Phosphate Homeostasis
+25,Unknown,Unknown,Uncharacterized,,25,Unknown,Unknown,Uncharacterized
+26,Biological,Photosynthesis,Energy Metabolism,,26,Biological,Photosynthesis,Energy Metabolism
+27,Biological,Metabolism,Carbon Metabolism,,27,Biological,Metabolism,Carbon Metabolism
+28,Unknown,Unknown,Uncharacterized,,28,Unknown,Unknown,Uncharacterized
+29,Regulatory,Anaerobic Respiration,Cyanate Metabolism,,29,Regulatory,Anaerobic Respiration,Cyanate Metabolism
+30,Other,Other,Single Gene,,30,Other,Other,Single Gene
+31,Other,Other,Single Gene,,31,Other,Other,Single Gene
+32,Unknown,Unknown,Uncharacterized,,32,Unknown,Unknown,Uncharacterized
+33,Unknown,Unknown,Uncharacterized,,33,Unknown,Unknown,Uncharacterized
+34,Biological,Central Dogma,Riboswitch,,34,Biological,Central Dogma,Riboswitch
+35,Regulatory,Stress Response,Heat Shock Response,,35,Regulatory,Stress Response,Heat Shock Response
+36,Biological,Central Dogma,Translation,,36,Biological,Central Dogma,Translation
+37,Genomic,Genetic Ulterations,Prophages,,37,Genomic,Genetic Ulterations,Prophages
+38,Unknown,Unknown,Uncharacterized,,38,Unknown,Unknown,Uncharacterized
+39,Regulatory,Two-Component System,Circadian Oscillation,,39,Regulatory,Two-Component System,Circadian Oscillation
+40,Other,Other,Single Gene,,40,Other,Other,Single Gene
+41,Regulatory,Lifestyle,Chemotaxis,,41,Regulatory,Lifestyle,Chemotaxis
+42,Biological,Central Dogma,Riboswitch,,42,Biological,Central Dogma,Riboswitch
+43,Unknown,Unknown,Uncharacterized,,43,Unknown,Unknown,Uncharacterized
+44,Unknown,Unknown,Uncharacterized,,44,Unknown,Unknown,Uncharacterized
+45,Unknown,Unknown,Uncharacterized,,45,Unknown,Unknown,Uncharacterized
+46,Regulatory,Stress Response,Iron Homeostasis,,46,Regulatory,Stress Response,Iron Homeostasis
+47,Unknown,Unknown,Uncharacterized,,47,Unknown,Unknown,Uncharacterized
+,,,,,48,,,
+,,,,,49,,,

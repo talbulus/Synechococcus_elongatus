@@ -1,0 +1,135 @@
+,gene_name,gene_product,gene_ontology
+0,PSK,D-ribulose kinase,ATP binding
+1,PSK,D-ribulose kinase,D-ribulokinase activity
+2,cbbL,Ribulose bisphosphate carboxylase large chain,carboxysome
+3,Synpcc7942_0520,Uncharacterized protein,carboxysome
+4,Synpcc7942_0520,Uncharacterized protein,structural constituent of carboxysome
+5,ntcA,Global nitrogen regulator,protein binding
+6,argB,Acetylglutamate kinase,protein binding
+7,argB,Acetylglutamate kinase,protein binding
+8,argB,Acetylglutamate kinase,protein binding
+9,argB,Acetylglutamate kinase,protein binding
+10,argB,Acetylglutamate kinase,protein binding
+11,argB,Acetylglutamate kinase,identical protein binding
+12,argB,Acetylglutamate kinase,identical protein binding
+13,Synpcc7942_1427,RuBisCO_small domain-containing protein,carboxysome
+14,Synpcc7942_1424,Uncharacterized protein Synpcc7942_1424,carboxysome
+15,Synpcc7942_1424,Uncharacterized protein Synpcc7942_1424,structural constituent of carboxysome
+16,ccmO,Uncharacterized protein CcmO,carboxysome
+17,ccmO,Uncharacterized protein CcmO,structural constituent of carboxysome
+18,phoV,Alkaline phosphatase PhoV,alkaline phosphatase activity
+19,phoV,Alkaline phosphatase PhoV,glucose-6-phosphatase activity
+20,phoV,Alkaline phosphatase PhoV,fructose 6-phosphate metabolic process
+21,phoV,Alkaline phosphatase PhoV,phosphocreatine metabolic process
+22,phoV,Alkaline phosphatase PhoV,zinc ion binding
+23,phoV,Alkaline phosphatase PhoV,Gram-negative-bacterium-type cell wall
+24,phoV,Alkaline phosphatase PhoV,dephosphorylation
+25,phoV,Alkaline phosphatase PhoV,phosphorylated carbohydrate dephosphorylation
+26,phoV,Alkaline phosphatase PhoV,metal ion binding
+27,phoV,Alkaline phosphatase PhoV,phosphoglycerate phosphatase activity
+28,phoV,Alkaline phosphatase PhoV,sugar-phosphatase activity
+29,phoV,Alkaline phosphatase PhoV,"nucleotide phosphatase activity, acting on free nucleotides"
+30,phoV,Alkaline phosphatase PhoV,side of membrane
+31,ccmM,Carbon dioxide concentrating mechanism protein CcmM,carboxysome
+32,ccmM,Carbon dioxide concentrating mechanism protein CcmM,structural constituent of carboxysome
+33,ccmM,Carbon dioxide concentrating mechanism protein CcmM,structural constituent of carboxysome
+34,ccmM,Carbon dioxide concentrating mechanism protein CcmM,carbonate dehydratase activity
+35,ccmL,Carbon dioxide concentrating mechanism protein CcmL,carboxysome
+36,ccmL,Carbon dioxide concentrating mechanism protein CcmL,structural constituent of carboxysome
+37,ccmK,Carbon dioxide-concentrating mechanism protein CcmK,carboxysome
+38,ccmK,Carbon dioxide-concentrating mechanism protein CcmK,structural constituent of carboxysome
+39,icfA,Carbonic anhydrase,carbonate dehydratase activity
+40,icfA,Carbonic anhydrase,carboxysome
+41,kaiA,Circadian clock protein KaiA,protein binding
+42,kaiA,Circadian clock protein KaiA,protein binding
+43,kaiA,Circadian clock protein KaiA,protein binding
+44,kaiA,Circadian clock protein KaiA,protein binding
+45,kaiA,Circadian clock protein KaiA,protein binding
+46,kaiA,Circadian clock protein KaiA,protein binding
+47,kaiA,Circadian clock protein KaiA,protein binding
+48,kaiA,Circadian clock protein KaiA,protein binding
+49,kaiA,Circadian clock protein KaiA,protein binding
+50,kaiA,Circadian clock protein KaiA,protein binding
+51,kaiA,Circadian clock protein KaiA,protein binding
+52,kaiA,Circadian clock protein KaiA,protein binding
+53,kaiA,Circadian clock protein KaiA,protein binding
+54,kaiA,Circadian clock protein KaiA,protein binding
+55,kaiA,Circadian clock protein KaiA,entrainment of circadian clock
+56,kaiA,Circadian clock protein KaiA,negative regulation of protein dephosphorylation
+57,kaiA,Circadian clock protein KaiA,positive regulation of circadian rhythm
+58,kaiA,Circadian clock protein KaiA,identical protein binding
+59,kaiA,Circadian clock protein KaiA,identical protein binding
+60,kaiA,Circadian clock protein KaiA,identical protein binding
+61,kaiB,Circadian clock protein KaiB,protein binding
+62,kaiB,Circadian clock protein KaiB,protein binding
+63,kaiB,Circadian clock protein KaiB,protein binding
+64,kaiB,Circadian clock protein KaiB,protein binding
+65,kaiB,Circadian clock protein KaiB,protein binding
+66,kaiB,Circadian clock protein KaiB,protein binding
+67,kaiB,Circadian clock protein KaiB,protein binding
+68,kaiB,Circadian clock protein KaiB,protein binding
+69,kaiB,Circadian clock protein KaiB,protein binding
+70,kaiB,Circadian clock protein KaiB,protein binding
+71,kaiB,Circadian clock protein KaiB,entrainment of circadian clock
+72,kaiB,Circadian clock protein KaiB,negative regulation of phosphorylation
+73,kaiB,Circadian clock protein KaiB,regulation of circadian rhythm
+74,kaiB,Circadian clock protein KaiB,identical protein binding
+75,kaiB,Circadian clock protein KaiB,identical protein binding
+76,kaiC,Circadian clock protein kinase KaiC,protein binding
+77,kaiC,Circadian clock protein kinase KaiC,protein binding
+78,kaiC,Circadian clock protein kinase KaiC,protein binding
+79,kaiC,Circadian clock protein kinase KaiC,protein binding
+80,kaiC,Circadian clock protein kinase KaiC,protein binding
+81,kaiC,Circadian clock protein kinase KaiC,protein binding
+82,kaiC,Circadian clock protein kinase KaiC,protein binding
+83,kaiC,Circadian clock protein kinase KaiC,protein binding
+84,kaiC,Circadian clock protein kinase KaiC,protein binding
+85,kaiC,Circadian clock protein kinase KaiC,protein binding
+86,kaiC,Circadian clock protein kinase KaiC,protein binding
+87,kaiC,Circadian clock protein kinase KaiC,protein binding
+88,kaiC,Circadian clock protein kinase KaiC,protein binding
+89,kaiC,Circadian clock protein kinase KaiC,protein binding
+90,kaiC,Circadian clock protein kinase KaiC,protein binding
+91,kaiC,Circadian clock protein kinase KaiC,entrainment of circadian clock
+92,kaiC,Circadian clock protein kinase KaiC,negative regulation of circadian rhythm
+93,kaiC,Circadian clock protein kinase KaiC,negative regulation of circadian rhythm
+94,kaiC,Circadian clock protein kinase KaiC,identical protein binding
+95,kaiC,Circadian clock protein kinase KaiC,identical protein binding
+96,kaiC,Circadian clock protein kinase KaiC,identical protein binding
+97,kaiC,Circadian clock protein kinase KaiC,identical protein binding
+98,kaiC,Circadian clock protein kinase KaiC,regulation of phosphorelay signal transduction system
+99,Synpcc7942_0284,BMC domain-containing protein,carboxysome
+100,Synpcc7942_0284,BMC domain-containing protein,structural constituent of carboxysome
+101,Synpcc7942_0285,BMC domain-containing protein,carboxysome
+102,Synpcc7942_0285,BMC domain-containing protein,structural constituent of carboxysome
+103,Synpcc7942_0285,BMC domain-containing protein,structural constituent of carboxysome
+104,sasA,Adaptive-response sensory-kinase SasA,phosphorelay sensor kinase activity
+105,sasA,Adaptive-response sensory-kinase SasA,protein binding
+106,sasA,Adaptive-response sensory-kinase SasA,protein binding
+107,narB,Nitrate reductase,protein binding
+108,cmpA,Bicarbonate-binding protein CmpA,bicarbonate transmembrane transporter activity
+109,Synpcc7942_1593,Aldehyde decarbonylase,aldehyde decarbonylase activity
+110,glnB,Nitrogen regulatory protein P-II,protein binding
+111,glnB,Nitrogen regulatory protein P-II,protein binding
+112,glnB,Nitrogen regulatory protein P-II,protein binding
+113,glnB,Nitrogen regulatory protein P-II,protein binding
+114,glnB,Nitrogen regulatory protein P-II,protein binding
+115,glnB,Nitrogen regulatory protein P-II,protein binding
+116,glnB,Nitrogen regulatory protein P-II,protein binding
+117,glnB,Nitrogen regulatory protein P-II,protein binding
+118,glnB,Nitrogen regulatory protein P-II,identical protein binding
+119,glnB,Nitrogen regulatory protein P-II,identical protein binding
+120,glnB,Nitrogen regulatory protein P-II,identical protein binding
+121,glnB,Nitrogen regulatory protein P-II,identical protein binding
+122,crtB,15-cis-phytoene synthase,carotenoid biosynthetic process
+123,crtB,15-cis-phytoene synthase,geranylgeranyl-diphosphate geranylgeranyltransferase activity
+124,ldpA,Light dependent period,protein binding
+125,srpA,Catalase-related peroxidase,peroxidase activity
+126,srpA,Catalase-related peroxidase,iron ion binding
+127,srpA,Catalase-related peroxidase,heme binding
+128,srpA,Catalase-related peroxidase,periplasmic space
+129,srpA,Catalase-related peroxidase,hydrogen peroxide metabolic process
+130,srpA,Catalase-related peroxidase,oxidation-reduction process
+131,Synpcc7942_2061,PipX,protein binding
+132,Synpcc7942_2061,PipX,protein binding
+133,Synpcc7942_2061,PipX,protein binding

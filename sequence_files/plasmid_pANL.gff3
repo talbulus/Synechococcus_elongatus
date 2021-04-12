@@ -1,201 +1,100 @@
-##sequence-region AF441790.2 1 46366
+##sequence-region NC_004073.2 1 46366
 ##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1140
-AF441790.2	Genbank	region	1	46366	.	+	.	ID=AF441790.2:1..46366;Dbxref=taxon:1140;Is_circular=true;Name=pANL;gbkey=Src;genome=plasmid;mol_type=genomic DNA;old-name=Synechococcus PCC7942;plasmid-name=pANL;strain=PCC 7942
-AF441790.2	Genbank	gene	205	3204	.	+	.	ID=gene-anL01;Name=anL01;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL01
-AF441790.2	Genbank	CDS	205	3204	.	+	0	ID=cds-AAM81130.2;Parent=gene-anL01;Dbxref=NCBI_GP:AAM81130.2;Name=AAM81130.2;gbkey=CDS;locus_tag=anL01;product=ANL01;protein_id=AAM81130.2;transl_table=11
-AF441790.2	Genbank	sequence_feature	533	537	.	+	.	ID=id-anL01;Note=mutagenized%3B insertion 2A8H4;gbkey=misc_feature;locus_tag=anL01
-AF441790.2	Genbank	sequence_feature	736	740	.	+	.	ID=id-anL01-2;Note=mutagenized%3B insertion 2A8H2;gbkey=misc_feature;locus_tag=anL01
-AF441790.2	Genbank	sequence_feature	1121	1125	.	+	.	ID=id-anL01-3;Note=mutagenized%3B insertion 2A8D9;gbkey=misc_feature;locus_tag=anL01
-AF441790.2	Genbank	sequence_feature	1397	1401	.	+	.	ID=id-anL01-4;Note=mutagenized%3B insertion 2A8B3;gbkey=misc_feature;locus_tag=anL01
-AF441790.2	Genbank	sequence_feature	1461	1465	.	+	.	ID=id-anL01-5;Note=mutagenized%3B insertion 2A8F5;gbkey=misc_feature;locus_tag=anL01
-AF441790.2	Genbank	sequence_feature	1604	1608	.	+	.	ID=id-anL01-6;Note=mutagenized%3B insertion 2A8A9;gbkey=misc_feature;locus_tag=anL01
-AF441790.2	Genbank	sequence_feature	1964	1968	.	+	.	ID=id-anL01-7;Note=mutagenized%3B insertion 2A8D8;gbkey=misc_feature;locus_tag=anL01
-AF441790.2	Genbank	sequence_feature	2239	2243	.	+	.	ID=id-anL01-8;Note=mutagenized%3B insertion 2A8D10;gbkey=misc_feature;locus_tag=anL01
-AF441790.2	Genbank	gene	3314	4228	.	-	.	ID=gene-anL02;Name=anL02;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL02
-AF441790.2	Genbank	CDS	3314	4228	.	-	0	ID=cds-AAM81131.2;Parent=gene-anL02;Dbxref=NCBI_GP:AAM81131.2;Name=AAM81131.2;gbkey=CDS;locus_tag=anL02;product=ANL02;protein_id=AAM81131.2;transl_table=11
-AF441790.2	Genbank	sequence_feature	3809	3813	.	-	.	ID=id-anL02;Note=mutagenized%3B insertion 2A8F7;gbkey=misc_feature;locus_tag=anL02
-AF441790.2	Genbank	gene	4484	4699	.	-	.	ID=gene-anL03;Name=anL03;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL03
-AF441790.2	Genbank	CDS	4484	4699	.	-	0	ID=cds-AAM81134.1;Parent=gene-anL03;Dbxref=NCBI_GP:AAM81134.1;Name=AAM81134.1;gbkey=CDS;locus_tag=anL03;product=ANL03;protein_id=AAM81134.1;transl_table=11
-AF441790.2	Genbank	sequence_feature	4484	4488	.	-	.	ID=id-anL03;Note=mutagenized%3B insertion 2A8C4;gbkey=misc_feature;locus_tag=anL03
-AF441790.2	Genbank	sequence_feature	4837	4841	.	-	.	ID=id-AF441790.2:4837..4841;Note=mutagenized%3B insertion 2A8F6;gbkey=misc_feature
-AF441790.2	Genbank	gene	5077	5250	.	+	.	ID=gene-anL04;Name=anL04;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL04
-AF441790.2	Genbank	CDS	5077	5250	.	+	0	ID=cds-AAM81135.1;Parent=gene-anL04;Dbxref=NCBI_GP:AAM81135.1;Name=AAM81135.1;gbkey=CDS;locus_tag=anL04;product=ANL04;protein_id=AAM81135.1;transl_table=11
-AF441790.2	Genbank	gene	5275	6699	.	-	.	ID=gene-anL05;Name=anL05;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL05
-AF441790.2	Genbank	CDS	5275	6699	.	-	0	ID=cds-AAM81136.1;Parent=gene-anL05;Dbxref=NCBI_GP:AAM81136.1;Name=AAM81136.1;gbkey=CDS;locus_tag=anL05;product=ANL05;protein_id=AAM81136.1;transl_table=11
-AF441790.2	Genbank	sequence_feature	5704	5708	.	-	.	ID=id-anL05;Note=mutagenized%3B insertion 2A8G12;gbkey=misc_feature;locus_tag=anL05
-AF441790.2	Genbank	sequence_feature	6527	6531	.	-	.	ID=id-anL05-2;Note=mutagenized%3B insertion 2A8E5;gbkey=misc_feature;locus_tag=anL05
-AF441790.2	Genbank	sequence_feature	6592	6596	.	-	.	ID=id-anL05-3;Note=mutagenized%3B insertion 2A8A7;gbkey=misc_feature;locus_tag=anL05
-AF441790.2	Genbank	sequence_feature	6607	6611	.	-	.	ID=id-anL05-4;Note=mutagenized%3B insertion 2A8H6;gbkey=misc_feature;locus_tag=anL05
-AF441790.2	Genbank	sequence_feature	7033	7037	.	-	.	ID=id-AF441790.2:7033..7037;Note=mutagenized%3B insertion 2A8E3;gbkey=misc_feature
-AF441790.2	Genbank	gene	7072	8031	.	+	.	ID=gene-anL06;Name=anL06;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL06
-AF441790.2	Genbank	CDS	7072	8031	.	+	0	ID=cds-AAM81137.2;Parent=gene-anL06;Dbxref=NCBI_GP:AAM81137.2;Name=AAM81137.2;gbkey=CDS;locus_tag=anL06;product=ANL06;protein_id=AAM81137.2;transl_table=11
-AF441790.2	Genbank	sequence_feature	7126	7130	.	+	.	ID=id-anL06;Note=mutagenized%3B insertion 2A8C1;gbkey=misc_feature;locus_tag=anL06
-AF441790.2	Genbank	sequence_feature	7303	7307	.	+	.	ID=id-anL06-2;Note=mutagenized%3B insertion 2A8B1;gbkey=misc_feature;locus_tag=anL06
-AF441790.2	Genbank	sequence_feature	7354	7358	.	+	.	ID=id-anL06-3;Note=mutagenized%3B insertion 2A8A10;gbkey=misc_feature;locus_tag=anL06
-AF441790.2	Genbank	sequence_feature	7355	7359	.	+	.	ID=id-anL06-4;Note=mutagenized%3B insertion 2A8A4;gbkey=misc_feature;locus_tag=anL06
-AF441790.2	Genbank	gene	8462	8722	.	+	.	ID=gene-anL07;Name=anL07;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL07
-AF441790.2	Genbank	CDS	8462	8722	.	+	0	ID=cds-AAM81138.2;Parent=gene-anL07;Dbxref=NCBI_GP:AAM81138.2;Name=AAM81138.2;gbkey=CDS;locus_tag=anL07;product=ANL07;protein_id=AAM81138.2;transl_table=11
-AF441790.2	Genbank	gene	8807	9094	.	+	.	ID=gene-anL08;Name=anL08;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL08
-AF441790.2	Genbank	CDS	8807	9094	.	+	0	ID=cds-AAM81139.1;Parent=gene-anL08;Dbxref=NCBI_GP:AAM81139.1;Name=AAM81139.1;gbkey=CDS;locus_tag=anL08;product=ANL08;protein_id=AAM81139.1;transl_table=11
-AF441790.2	Genbank	gene	9101	9418	.	-	.	ID=gene-anL09;Name=anL09;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL09
-AF441790.2	Genbank	CDS	9101	9418	.	-	0	ID=cds-AAM81140.1;Parent=gene-anL09;Dbxref=NCBI_GP:AAM81140.1;Name=AAM81140.1;gbkey=CDS;locus_tag=anL09;product=ANL09;protein_id=AAM81140.1;transl_table=11
-AF441790.2	Genbank	sequence_feature	9201	9205	.	-	.	ID=id-anL09;Note=mutagenized%3B insertion 2A8G7;gbkey=misc_feature;locus_tag=anL09
-AF441790.2	Genbank	gene	9463	9732	.	-	.	ID=gene-anL10;Name=anL10;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL10
-AF441790.2	Genbank	CDS	9463	9732	.	-	0	ID=cds-AAM81141.1;Parent=gene-anL10;Dbxref=NCBI_GP:AAM81141.1;Name=AAM81141.1;gbkey=CDS;locus_tag=anL10;product=ANL10;protein_id=AAM81141.1;transl_table=11
-AF441790.2	Genbank	sequence_feature	9653	9657	.	-	.	ID=id-anL10;Note=mutagenized%3B insertion 2A8A2;gbkey=misc_feature;locus_tag=anL10
-AF441790.2	Genbank	sequence_feature	9752	9756	.	-	.	ID=id-AF441790.2:9752..9756;Note=mutagenized%3B insertion 2A8E7;gbkey=misc_feature
-AF441790.2	Genbank	gene	9877	10170	.	+	.	ID=gene-anL11;Name=anL11;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL11
-AF441790.2	Genbank	CDS	9877	10170	.	+	0	ID=cds-AAM81142.2;Parent=gene-anL11;Dbxref=NCBI_GP:AAM81142.2;Name=AAM81142.2;gbkey=CDS;locus_tag=anL11;product=ANL11;protein_id=AAM81142.2;transl_table=11
-AF441790.2	Genbank	sequence_feature	9974	9978	.	+	.	ID=id-anL11;Note=mutagenized%3B insertion 2A8H1;gbkey=misc_feature;locus_tag=anL11
-AF441790.2	Genbank	gene	10136	10465	.	+	.	ID=gene-anL12;Name=anL12;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL12
-AF441790.2	Genbank	CDS	10136	10465	.	+	0	ID=cds-AAM81143.1;Parent=gene-anL12;Dbxref=NCBI_GP:AAM81143.1;Name=AAM81143.1;gbkey=CDS;locus_tag=anL12;product=ANL12;protein_id=AAM81143.1;transl_table=11
-AF441790.2	Genbank	sequence_feature	10444	10448	.	+	.	ID=id-anL12;Note=mutagenized%3B insertion 2A8B11;gbkey=misc_feature;locus_tag=anL12
-AF441790.2	Genbank	gene	10610	10849	.	+	.	ID=gene-anL14;Name=anL14;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL14
-AF441790.2	Genbank	CDS	10610	10849	.	+	0	ID=cds-AAM81144.2;Parent=gene-anL14;Dbxref=NCBI_GP:AAM81144.2;Name=AAM81144.2;gbkey=CDS;locus_tag=anL14;product=ANL14;protein_id=AAM81144.2;transl_table=11
-AF441790.2	Genbank	gene	10980	11411	.	-	.	ID=gene-anL15;Name=anL15;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL15
-AF441790.2	Genbank	CDS	10980	11411	.	-	0	ID=cds-AAM81145.1;Parent=gene-anL15;Dbxref=NCBI_GP:AAM81145.1;Name=AAM81145.1;gbkey=CDS;locus_tag=anL15;product=ANL15;protein_id=AAM81145.1;transl_table=11
-AF441790.2	Genbank	gene	11601	11726	.	+	.	ID=gene-anL15.5;Name=anL15.5;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL15.5
-AF441790.2	Genbank	CDS	11601	11726	.	+	0	ID=cds-ABV53909.1;Parent=gene-anL15.5;Dbxref=NCBI_GP:ABV53909.1;Name=ABV53909.1;gbkey=CDS;locus_tag=anL15.5;product=ANL15.5;protein_id=ABV53909.1;transl_table=11
-AF441790.2	Genbank	sequence_feature	11785	11789	.	+	.	ID=id-AF441790.2:11785..11789;Note=mutagenized%3B insertion 2A8H9;gbkey=misc_feature
-AF441790.2	Genbank	gene	11835	12809	.	-	.	ID=gene-anL16;Name=anL16;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL16
-AF441790.2	Genbank	CDS	11835	12809	.	-	0	ID=cds-AAM81146.3;Parent=gene-anL16;Dbxref=NCBI_GP:AAM81146.3;Name=AAM81146.3;gbkey=CDS;locus_tag=anL16;product=ANL16;protein_id=AAM81146.3;transl_table=11
-AF441790.2	Genbank	sequence_feature	12571	12575	.	-	.	ID=id-anL16;Note=mutagenized%3B insertion 2A8C3;gbkey=misc_feature;locus_tag=anL16
-AF441790.2	Genbank	sequence_feature	13000	13004	.	-	.	ID=id-AF441790.2:13000..13004;Note=mutagenized%3B insertion 2A8E2;gbkey=misc_feature
-AF441790.2	Genbank	gene	13037	13762	.	-	.	ID=gene-anL18;Name=anL18;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL18
-AF441790.2	Genbank	CDS	13037	13762	.	-	0	ID=cds-AAM81147.1;Parent=gene-anL18;Dbxref=NCBI_GP:AAM81147.1;Name=AAM81147.1;gbkey=CDS;locus_tag=anL18;product=ANL18;protein_id=AAM81147.1;transl_table=11
-AF441790.2	Genbank	sequence_feature	13701	13705	.	-	.	ID=id-anL18;Note=mutagenized%3B insertion 2A8A3;gbkey=misc_feature;locus_tag=anL18
-AF441790.2	Genbank	gene	13855	14562	.	+	.	ID=gene-anL19;Name=anL19;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL19
-AF441790.2	Genbank	CDS	13855	14562	.	+	0	ID=cds-AAM81148.1;Parent=gene-anL19;Dbxref=NCBI_GP:AAM81148.1;Name=AAM81148.1;gbkey=CDS;locus_tag=anL19;product=ANL19;protein_id=AAM81148.1;transl_table=11
-AF441790.2	Genbank	sequence_feature	14446	14450	.	+	.	ID=id-anL19;Note=mutagenized%3B insertion 2A8F9;gbkey=misc_feature;locus_tag=anL19
-AF441790.2	Genbank	sequence_feature	14754	14758	.	+	.	ID=id-AF441790.2:14754..14758;Note=mutagenized%3B insertion 2A8A12;gbkey=misc_feature
-AF441790.2	Genbank	gene	14905	15528	.	+	.	ID=gene-anL21;Name=anL21;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL21
-AF441790.2	Genbank	CDS	14905	15528	.	+	0	ID=cds-AAM81149.1;Parent=gene-anL21;Dbxref=NCBI_GP:AAM81149.1;Name=AAM81149.1;gbkey=CDS;locus_tag=anL21;product=ANL21;protein_id=AAM81149.1;transl_table=11
-AF441790.2	Genbank	sequence_feature	15101	15105	.	+	.	ID=id-anL21;Note=mutagenized%3B insertion 2A8F8;gbkey=misc_feature;locus_tag=anL21
-AF441790.2	Genbank	sequence_feature	15253	15257	.	+	.	ID=id-anL21-2;Note=mutagenized%3B insertion 2A8F11;gbkey=misc_feature;locus_tag=anL21
-AF441790.2	Genbank	sequence_feature	15740	15744	.	+	.	ID=id-AF441790.2:15740..15744;Note=mutagenized%3B insertion 2A8H8;gbkey=misc_feature
-AF441790.2	Genbank	sequence_feature	15793	15797	.	+	.	ID=id-AF441790.2:15793..15797;Note=mutagenized%3B insertion 2A8H10;gbkey=misc_feature
-AF441790.2	Genbank	gene	15804	17120	.	-	.	ID=gene-anL22;Name=anL22;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL22
-AF441790.2	Genbank	CDS	15804	17120	.	-	0	ID=cds-AAM81150.1;Parent=gene-anL22;Dbxref=NCBI_GP:AAM81150.1;Name=AAM81150.1;gbkey=CDS;locus_tag=anL22;product=ANL22;protein_id=AAM81150.1;transl_table=11
-AF441790.2	Genbank	sequence_feature	16037	16041	.	-	.	ID=id-anL22;Note=mutagenized%3B insertion 2A8C7;gbkey=misc_feature;locus_tag=anL22
-AF441790.2	Genbank	gene	17089	17763	.	-	.	ID=gene-anL23;Name=anL23;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL23
-AF441790.2	Genbank	CDS	17089	17763	.	-	0	ID=cds-AAM81151.1;Parent=gene-anL23;Dbxref=NCBI_GP:AAM81151.1;Name=AAM81151.1;gbkey=CDS;locus_tag=anL23;product=ANL23;protein_id=AAM81151.1;transl_table=11
-AF441790.2	Genbank	sequence_feature	17541	17545	.	-	.	ID=id-anL23;Note=mutagenized%3B insertion 2A8E11;gbkey=misc_feature;locus_tag=anL23
-AF441790.2	Genbank	sequence_feature	17652	17656	.	-	.	ID=id-anL23-2;Note=mutagenized%3B insertion 2A8B2;gbkey=misc_feature;locus_tag=anL23
-AF441790.2	Genbank	gene	17986	18468	.	+	.	ID=gene-anL24;Name=anL24;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL24
-AF441790.2	Genbank	CDS	17986	18468	.	+	0	ID=cds-AAM81152.1;Parent=gene-anL24;Dbxref=NCBI_GP:AAM81152.1;Name=AAM81152.1;gbkey=CDS;locus_tag=anL24;product=ANL24;protein_id=AAM81152.1;transl_table=11
-AF441790.2	Genbank	sequence_feature	18575	18579	.	+	.	ID=id-AF441790.2:18575..18579;Note=mutagenized%3B insertion 2A8F2;gbkey=misc_feature
-AF441790.2	Genbank	gene	18632	19222	.	+	.	ID=gene-anL25;Name=anL25;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL25
-AF441790.2	Genbank	CDS	18632	19222	.	+	0	ID=cds-AAM81153.2;Parent=gene-anL25;Dbxref=NCBI_GP:AAM81153.2;Name=AAM81153.2;gbkey=CDS;locus_tag=anL25;product=ANL25;protein_id=AAM81153.2;transl_table=11
-AF441790.2	Genbank	sequence_feature	18867	18871	.	+	.	ID=id-anL25;Note=mutagenized%3B insertion 2A8D6;gbkey=misc_feature;locus_tag=anL25
-AF441790.2	Genbank	sequence_feature	18897	18901	.	+	.	ID=id-anL25-2;Note=mutagenized%3B insertion 2A8G5;gbkey=misc_feature;locus_tag=anL25
-AF441790.2	Genbank	gene	19197	19586	.	+	.	ID=gene-anL26;Name=anL26;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL26
-AF441790.2	Genbank	CDS	19197	19586	.	+	0	ID=cds-AAM81154.2;Parent=gene-anL26;Dbxref=NCBI_GP:AAM81154.2;Name=AAM81154.2;gbkey=CDS;locus_tag=anL26;product=ANL26;protein_id=AAM81154.2;transl_table=11
-AF441790.2	Genbank	sequence_feature	19352	19356	.	+	.	ID=id-anL26;Note=mutagenized%3B insertion 2A8G2;gbkey=misc_feature;locus_tag=anL26
-AF441790.2	Genbank	sequence_feature	19804	19808	.	+	.	ID=id-AF441790.2:19804..19808;Note=mutagenized%3B insertion 2A8E10;gbkey=misc_feature
-AF441790.2	Genbank	gene	19841	20083	.	+	.	ID=gene-anL27;Name=anL27;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL27
-AF441790.2	Genbank	CDS	19841	20083	.	+	0	ID=cds-AAM81155.1;Parent=gene-anL27;Dbxref=NCBI_GP:AAM81155.1;Name=AAM81155.1;gbkey=CDS;locus_tag=anL27;product=ANL27;protein_id=AAM81155.1;transl_table=11
-AF441790.2	Genbank	gene	20113	21075	.	-	.	ID=gene-anL28;Name=anL28;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL28
-AF441790.2	Genbank	CDS	20113	21075	.	-	0	ID=cds-AAM81156.2;Parent=gene-anL28;Dbxref=NCBI_GP:AAM81156.2;Name=AAM81156.2;gbkey=CDS;locus_tag=anL28;product=ANL28;protein_id=AAM81156.2;transl_table=11
-AF441790.2	Genbank	sequence_feature	20199	20203	.	-	.	ID=id-anL28;Note=mutagenized%3B insertion 2A8D11;gbkey=misc_feature;locus_tag=anL28
-AF441790.2	Genbank	region	20823	20827	.	-	.	ID=id-anL28-2;Note=insertion 5H4D2;gbkey=Site;locus_tag=anL28
-AF441790.2	Genbank	gene	21165	21515	.	-	.	ID=gene-anL29;Name=sepT1;gbkey=Gene;gene=sepT1;gene_biotype=protein_coding;locus_tag=anL29
-AF441790.2	Genbank	CDS	21165	21515	.	-	0	ID=cds-AAM81157.1;Parent=gene-anL29;Dbxref=NCBI_GP:AAM81157.1;Name=AAM81157.1;gbkey=CDS;gene=sepT1;locus_tag=anL29;product=ANL29;protein_id=AAM81157.1;transl_table=11
-AF441790.2	Genbank	region	21297	21301	.	-	.	ID=id-anL29;Note=insertion 5H4H11;gbkey=Site;gene=sepT1;locus_tag=anL29
-AF441790.2	Genbank	gene	21506	21721	.	-	.	ID=gene-anL29.5;Name=sepA1;gbkey=Gene;gene=sepA1;gene_biotype=protein_coding;locus_tag=anL29.5
-AF441790.2	Genbank	CDS	21506	21721	.	-	0	ID=cds-ABV53910.1;Parent=gene-anL29.5;Dbxref=NCBI_GP:ABV53910.1;Name=ABV53910.1;gbkey=CDS;gene=sepA1;locus_tag=anL29.5;product=ANL29.5;protein_id=ABV53910.1;transl_table=11
-AF441790.2	Genbank	sequence_feature	21519	21523	.	-	.	ID=id-anL29.5;Note=mutagenized%3B insertion 2A8E1;gbkey=misc_feature;gene=sepA1;locus_tag=anL29.5
-AF441790.2	Genbank	region	21508	21512	.	-	.	ID=id-anL29.5-2;Note=insertion 5H4B2;gbkey=Site;gene=sepA1;locus_tag=anL29.5
-AF441790.2	Genbank	sequence_feature	21759	21763	.	-	.	ID=id-AF441790.2:21759..21763;Note=mutagenized%3B insertion 2A8D4;gbkey=misc_feature
-AF441790.2	Genbank	gene	21765	22094	.	-	.	ID=gene-anL30;Name=anL30;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL30
-AF441790.2	Genbank	CDS	21765	22094	.	-	0	ID=cds-AAM81158.1;Parent=gene-anL30;Dbxref=NCBI_GP:AAM81158.1;Name=AAM81158.1;gbkey=CDS;locus_tag=anL30;product=ANL30;protein_id=AAM81158.1;transl_table=11
-AF441790.2	Genbank	sequence_feature	22076	22080	.	-	.	ID=id-anL30;Note=mutagenized%3B insertion 2A8B12;gbkey=misc_feature;locus_tag=anL30
-AF441790.2	Genbank	sequence_feature	22090	22094	.	-	.	ID=id-anL30-2;Note=mutagenized%3B insertion 2A8G6;gbkey=misc_feature;locus_tag=anL30
-AF441790.2	Genbank	region	21905	21909	.	-	.	ID=id-anL30-3;Note=insertion 5H4A2;gbkey=Site;locus_tag=anL30
-AF441790.2	Genbank	sequence_feature	22098	22102	.	-	.	ID=id-AF441790.2:22098..22102;Note=mutagenized%3B insertion 2A8C5;gbkey=misc_feature
-AF441790.2	Genbank	gene	22197	23021	.	-	.	ID=gene-anL31;Name=parB;gbkey=Gene;gene=parB;gene_biotype=protein_coding;locus_tag=anL31
-AF441790.2	Genbank	CDS	22197	23021	.	-	0	ID=cds-AAM81159.2;Parent=gene-anL31;Dbxref=NCBI_GP:AAM81159.2;Name=AAM81159.2;gbkey=CDS;gene=parB;locus_tag=anL31;product=ANL31;protein_id=AAM81159.2;transl_table=11
-AF441790.2	Genbank	region	22625	22630	.	-	.	ID=id-anL31;Note=insertion 6C4Q4;gbkey=Site;gene=parB;locus_tag=anL31
-AF441790.2	Genbank	gene	23018	23629	.	-	.	ID=gene-anL32;Name=parA;gbkey=Gene;gene=parA;gene_biotype=protein_coding;locus_tag=anL32
-AF441790.2	Genbank	CDS	23018	23629	.	-	0	ID=cds-AAM81160.2;Parent=gene-anL32;Dbxref=NCBI_GP:AAM81160.2;Name=AAM81160.2;gbkey=CDS;gene=parA;locus_tag=anL32;product=ANL32;protein_id=AAM81160.2;transl_table=11
-AF441790.2	Genbank	region	23120	23124	.	-	.	ID=id-anL32;Note=insertion 5H4C12;gbkey=Site;gene=parA;locus_tag=anL32
-AF441790.2	Genbank	region	23604	23608	.	-	.	ID=id-anL32-2;Note=insertion 5H4E8;gbkey=Site;gene=parA;locus_tag=anL32
-AF441790.2	Genbank	gene	23763	24029	.	+	.	ID=gene-anL33;Name=sepA2;gbkey=Gene;gene=sepA2;gene_biotype=protein_coding;locus_tag=anL33
-AF441790.2	Genbank	CDS	23763	24029	.	+	0	ID=cds-AAM81161.1;Parent=gene-anL33;Dbxref=NCBI_GP:AAM81161.1;Name=AAM81161.1;gbkey=CDS;gene=sepA2;locus_tag=anL33;product=ANL33;protein_id=AAM81161.1;transl_table=11
-AF441790.2	Genbank	sequence_feature	23806	23810	.	+	.	ID=id-anL33;Note=mutagenized%3B insertion 2A8A1;gbkey=misc_feature;gene=sepA2;locus_tag=anL33
-AF441790.2	Genbank	sequence_feature	23867	23871	.	+	.	ID=id-anL33-2;Note=mutagenized%3B insertion 2A8E9;gbkey=misc_feature;gene=sepA2;locus_tag=anL33
-AF441790.2	Genbank	region	23898	23902	.	+	.	ID=id-anL33-3;Note=insertion 5H4D7;gbkey=Site;gene=sepA2;locus_tag=anL33
-AF441790.2	Genbank	gene	24040	24423	.	+	.	ID=gene-anL34;Name=sepT2;gbkey=Gene;gene=sepT2;gene_biotype=protein_coding;locus_tag=anL34
-AF441790.2	Genbank	CDS	24040	24423	.	+	0	ID=cds-AAT09445.1;Parent=gene-anL34;Dbxref=NCBI_GP:AAT09445.1;Name=AAT09445.1;gbkey=CDS;gene=sepT2;locus_tag=anL34;product=ANL34;protein_id=AAT09445.1;transl_table=11
-AF441790.2	Genbank	region	24319	24323	.	+	.	ID=id-anL34;Note=insertion 5H4A10;gbkey=Site;gene=sepT2;locus_tag=anL34
-AF441790.2	Genbank	gene	24420	24770	.	-	.	ID=gene-anL35;Name=anL35;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL35
-AF441790.2	Genbank	CDS	24420	24770	.	-	0	ID=cds-AAM81162.2;Parent=gene-anL35;Dbxref=NCBI_GP:AAM81162.2;Name=AAM81162.2;gbkey=CDS;locus_tag=anL35;product=ANL35;protein_id=AAM81162.2;transl_table=11
-AF441790.2	Genbank	gene	24860	26740	.	-	.	ID=gene-anL36;Name=anL36;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL36
-AF441790.2	Genbank	CDS	24860	26740	.	-	0	ID=cds-AAM81163.2;Parent=gene-anL36;Dbxref=NCBI_GP:AAM81163.2;Name=AAM81163.2;gbkey=CDS;locus_tag=anL36;product=ANL36;protein_id=AAM81163.2;transl_table=11
-AF441790.2	Genbank	sequence_feature	24976	24980	.	-	.	ID=id-anL36;Note=mutagenized%3B insertion 2A8B9;gbkey=misc_feature;locus_tag=anL36
-AF441790.2	Genbank	sequence_feature	25787	25791	.	-	.	ID=id-anL36-2;Note=mutagenized%3B insertion 2A8H11;gbkey=misc_feature;locus_tag=anL36
-AF441790.2	Genbank	sequence_feature	26298	26302	.	-	.	ID=id-anL36-3;Note=mutagenized%3B insertion 2A8G9;gbkey=misc_feature;locus_tag=anL36
-AF441790.2	Genbank	sequence_feature	26401	26405	.	-	.	ID=id-anL36-4;Note=mutagenized%3B insertion 2A8G1;gbkey=misc_feature;locus_tag=anL36
-AF441790.2	Genbank	sequence_feature	26537	26541	.	-	.	ID=id-anL36-5;Note=mutagenized%3B insertion 2A8F3;gbkey=misc_feature;locus_tag=anL36
-AF441790.2	Genbank	sequence_feature	26957	26961	.	-	.	ID=id-AF441790.2:26957..26961;Note=mutagenized%3B insertion 2A8E12;gbkey=misc_feature
-AF441790.2	Genbank	gene	26975	27895	.	-	.	ID=gene-anL38;Name=srpI;gbkey=Gene;gene=srpI;gene_biotype=protein_coding;locus_tag=anL38
-AF441790.2	Genbank	CDS	26975	27895	.	-	0	ID=cds-AAM81164.1;Parent=gene-anL38;Dbxref=NCBI_GP:AAM81164.1;Name=AAM81164.1;gbkey=CDS;gene=srpI;locus_tag=anL38;product=ANL38;protein_id=AAM81164.1;transl_table=11
-AF441790.2	Genbank	sequence_feature	27599	27603	.	-	.	ID=id-anL38;Note=mutagenized%3B insertion 2A8C10;gbkey=misc_feature;gene=srpI;locus_tag=anL38
-AF441790.2	Genbank	gene	27990	28949	.	-	.	ID=gene-anL39;Name=srpH;gbkey=Gene;gene=srpH;gene_biotype=protein_coding;locus_tag=anL39
-AF441790.2	Genbank	CDS	27990	28949	.	-	0	ID=cds-AAM81165.1;Parent=gene-anL39;Dbxref=NCBI_GP:AAM81165.1;Name=AAM81165.1;gbkey=CDS;gene=srpH;locus_tag=anL39;product=ANL39;protein_id=AAM81165.1;transl_table=11
-AF441790.2	Genbank	sequence_feature	28054	28058	.	-	.	ID=id-anL39;Note=mutagenized%3B insertion 2A8G11;gbkey=misc_feature;gene=srpH;locus_tag=anL39
-AF441790.2	Genbank	sequence_feature	28209	28213	.	-	.	ID=id-anL39-2;Note=mutagenized%3B insertion 2A8D12;gbkey=misc_feature;gene=srpH;locus_tag=anL39
-AF441790.2	Genbank	sequence_feature	28337	28341	.	-	.	ID=id-anL39-3;Note=mutagenized%3B insertion 2A8F1;gbkey=misc_feature;gene=srpH;locus_tag=anL39
-AF441790.2	Genbank	sequence_feature	28930	28934	.	-	.	ID=id-anL39-4;Note=mutagenized%3B insertion 2A8E4;gbkey=misc_feature;gene=srpH;locus_tag=anL39
-AF441790.2	Genbank	gene	28946	29935	.	-	.	ID=gene-anL40;Name=srpG;gbkey=Gene;gene=srpG;gene_biotype=protein_coding;locus_tag=anL40
-AF441790.2	Genbank	CDS	28946	29935	.	-	0	ID=cds-AAM81167.1;Parent=gene-anL40;Dbxref=NCBI_GP:AAM81167.1;Name=AAM81167.1;gbkey=CDS;gene=srpG;locus_tag=anL40;product=ANL40;protein_id=AAM81167.1;transl_table=11
-AF441790.2	Genbank	sequence_feature	29841	29845	.	-	.	ID=id-anL40;Note=mutagenized%3B insertion 2A8D3;gbkey=misc_feature;gene=srpG;locus_tag=anL40
-AF441790.2	Genbank	gene	30391	30750	.	+	.	ID=gene-anL42;Name=anL42;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL42
-AF441790.2	Genbank	CDS	30391	30750	.	+	0	ID=cds-AAM81166.2;Parent=gene-anL42;Dbxref=NCBI_GP:AAM81166.2;Name=AAM81166.2;gbkey=CDS;locus_tag=anL42;product=ANL42;protein_id=AAM81166.2;transl_table=11
-AF441790.2	Genbank	sequence_feature	30473	30477	.	+	.	ID=id-anL42;Note=mutagenized%3B insertion 2A8B6;gbkey=misc_feature;locus_tag=anL42
-AF441790.2	Genbank	sequence_feature	30583	30587	.	+	.	ID=id-anL42-2;Note=mutagenized%3B insertion 2A8G8;gbkey=misc_feature;locus_tag=anL42
-AF441790.2	Genbank	sequence_feature	30682	30686	.	+	.	ID=id-anL42-3;Note=mutagenized%3B insertion 2A8E8;gbkey=misc_feature;locus_tag=anL42
-AF441790.2	Genbank	sequence_feature	30724	30728	.	+	.	ID=id-anL42-4;Note=mutagenized%3B insertion 2A8C11;gbkey=misc_feature;locus_tag=anL42
-AF441790.2	Genbank	gene	31000	31545	.	-	.	ID=gene-anL43;Name=anL43;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL43
-AF441790.2	Genbank	CDS	31000	31545	.	-	0	ID=cds-AAM81168.2;Parent=gene-anL43;Dbxref=NCBI_GP:AAM81168.2;Name=AAM81168.2;gbkey=CDS;locus_tag=anL43;product=ANL43;protein_id=AAM81168.2;transl_table=11
-AF441790.2	Genbank	sequence_feature	31644	31648	.	-	.	ID=id-AF441790.2:31644..31648;Note=mutagenized%3B insertion 2A8G10;gbkey=misc_feature
-AF441790.2	Genbank	gene	31647	32081	.	+	.	ID=gene-anL44;Name=anL44;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL44
-AF441790.2	Genbank	CDS	31647	32081	.	+	0	ID=cds-AAM81169.3;Parent=gene-anL44;Dbxref=NCBI_GP:AAM81169.3;Name=AAM81169.3;gbkey=CDS;locus_tag=anL44;product=ANL44;protein_id=AAM81169.3;transl_table=11
-AF441790.2	Genbank	sequence_feature	31899	31903	.	+	.	ID=id-anL44;Note=mutagenized%3B insertion 2A8B7;gbkey=misc_feature;locus_tag=anL44
-AF441790.2	Genbank	sequence_feature	31938	31942	.	+	.	ID=id-anL44-2;Note=mutagenized%3B insertion 2A8E6;gbkey=misc_feature;locus_tag=anL44
-AF441790.2	Genbank	gene	32300	32878	.	+	.	ID=gene-anL45;Name=anL45;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL45
-AF441790.2	Genbank	CDS	32300	32878	.	+	0	ID=cds-AAM81170.3;Parent=gene-anL45;Dbxref=NCBI_GP:AAM81170.3;Name=AAM81170.3;gbkey=CDS;locus_tag=anL45;product=ANL45;protein_id=AAM81170.3;transl_table=11
-AF441790.2	Genbank	gene	32980	33999	.	+	.	ID=gene-anL46;Name=srpA;gbkey=Gene;gene=srpA;gene_biotype=protein_coding;locus_tag=anL46
-AF441790.2	Genbank	CDS	32980	33999	.	+	0	ID=cds-AAM81171.2;Parent=gene-anL46;Dbxref=NCBI_GP:AAM81171.2;Name=AAM81171.2;gbkey=CDS;gene=srpA;locus_tag=anL46;product=ANL46;protein_id=AAM81171.2;transl_table=11
-AF441790.2	Genbank	gene	34100	34648	.	+	.	ID=gene-anL47;Name=srpB;gbkey=Gene;gene=srpB;gene_biotype=protein_coding;locus_tag=anL47
-AF441790.2	Genbank	CDS	34100	34648	.	+	0	ID=cds-AAM81172.1;Parent=gene-anL47;Dbxref=NCBI_GP:AAM81172.1;Name=AAM81172.1;gbkey=CDS;gene=srpB;locus_tag=anL47;product=ANL47;protein_id=AAM81172.1;transl_table=11
-AF441790.2	Genbank	gene	34800	35981	.	+	.	ID=gene-anL48;Name=srpC;gbkey=Gene;gene=srpC;gene_biotype=protein_coding;locus_tag=anL48
-AF441790.2	Genbank	CDS	34800	35981	.	+	0	ID=cds-AAM81173.1;Parent=gene-anL48;Dbxref=NCBI_GP:AAM81173.1;Name=AAM81173.1;gbkey=CDS;gene=srpC;locus_tag=anL48;product=ANL48;protein_id=AAM81173.1;transl_table=11
-AF441790.2	Genbank	gene	36112	37101	.	+	.	ID=gene-anL49;Name=srpD;gbkey=Gene;gene=srpD;gene_biotype=protein_coding;locus_tag=anL49
-AF441790.2	Genbank	CDS	36112	37101	.	+	0	ID=cds-AAM81174.1;Parent=gene-anL49;Dbxref=NCBI_GP:AAM81174.1;Name=AAM81174.1;gbkey=CDS;gene=srpD;locus_tag=anL49;product=ANL49;protein_id=AAM81174.1;transl_table=11
-AF441790.2	Genbank	gene	37098	38624	.	+	.	ID=gene-anL50;Name=srpE;gbkey=Gene;gene=srpE;gene_biotype=protein_coding;locus_tag=anL50
-AF441790.2	Genbank	CDS	37098	38624	.	+	0	ID=cds-AAM81175.1;Parent=gene-anL50;Dbxref=NCBI_GP:AAM81175.1;Name=AAM81175.1;gbkey=CDS;gene=srpE;locus_tag=anL50;product=ANL50;protein_id=AAM81175.1;transl_table=11
-AF441790.2	Genbank	gene	38849	39376	.	+	.	ID=gene-anL51;Name=srpF;gbkey=Gene;gene=srpF;gene_biotype=protein_coding;locus_tag=anL51
-AF441790.2	Genbank	CDS	38849	39376	.	+	0	ID=cds-AAM81176.1;Parent=gene-anL51;Dbxref=NCBI_GP:AAM81176.1;Name=AAM81176.1;gbkey=CDS;gene=srpF;locus_tag=anL51;product=ANL51;protein_id=AAM81176.1;transl_table=11
-AF441790.2	Genbank	gene	39387	40448	.	+	.	ID=gene-anL52;Name=srpJ;gbkey=Gene;gene=srpJ;gene_biotype=protein_coding;locus_tag=anL52
-AF441790.2	Genbank	CDS	39387	40448	.	+	0	ID=cds-AAM81177.2;Parent=gene-anL52;Dbxref=NCBI_GP:AAM81177.2;Name=AAM81177.2;gbkey=CDS;gene=srpJ;locus_tag=anL52;product=ANL52;protein_id=AAM81177.2;transl_table=11
-AF441790.2	Genbank	gene	40445	41257	.	+	.	ID=gene-anL53;Name=srpK;gbkey=Gene;gene=srpK;gene_biotype=protein_coding;locus_tag=anL53
-AF441790.2	Genbank	CDS	40445	41257	.	+	0	ID=cds-AAM81178.2;Parent=gene-anL53;Dbxref=NCBI_GP:AAM81178.2;Name=AAM81178.2;gbkey=CDS;gene=srpK;locus_tag=anL53;product=ANL53;protein_id=AAM81178.2;transl_table=11
-AF441790.2	Genbank	gene	41283	42506	.	+	.	ID=gene-anL54;Name=srpL;gbkey=Gene;gene=srpL;gene_biotype=protein_coding;locus_tag=anL54
-AF441790.2	Genbank	CDS	41283	42506	.	+	0	ID=cds-AAM81179.2;Parent=gene-anL54;Dbxref=NCBI_GP:AAM81179.2;Name=AAM81179.2;gbkey=CDS;gene=srpL;locus_tag=anL54;product=ANL54;protein_id=AAM81179.2;transl_table=11
-AF441790.2	Genbank	gene	42508	43308	.	+	.	ID=gene-anL55;Name=srpM;gbkey=Gene;gene=srpM;gene_biotype=protein_coding;locus_tag=anL55
-AF441790.2	Genbank	CDS	42508	43308	.	+	0	ID=cds-AAM81180.2;Parent=gene-anL55;Dbxref=NCBI_GP:AAM81180.2;Name=AAM81180.2;gbkey=CDS;gene=srpM;locus_tag=anL55;product=ANL55;protein_id=AAM81180.2;transl_table=11
-AF441790.2	Genbank	gene	43355	43579	.	+	.	ID=gene-anL55.5;Name=anL55.5;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL55.5
-AF441790.2	Genbank	CDS	43355	43579	.	+	0	ID=cds-ABV53911.1;Parent=gene-anL55.5;Dbxref=NCBI_GP:ABV53911.1;Name=ABV53911.1;gbkey=CDS;locus_tag=anL55.5;product=ANL55.5;protein_id=ABV53911.1;transl_table=11
-AF441790.2	Genbank	gene	43634	43912	.	+	.	ID=gene-anL56;Name=anL56;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL56
-AF441790.2	Genbank	CDS	43634	43912	.	+	0	ID=cds-AAM81181.1;Parent=gene-anL56;Dbxref=NCBI_GP:AAM81181.1;Name=AAM81181.1;gbkey=CDS;locus_tag=anL56;product=ANL56;protein_id=AAM81181.1;transl_table=11
-AF441790.2	Genbank	gene	43866	44117	.	+	.	ID=gene-anL56.5;Name=anL56.5;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL56.5
-AF441790.2	Genbank	CDS	43866	44117	.	+	0	ID=cds-ABV53912.1;Parent=gene-anL56.5;Dbxref=NCBI_GP:ABV53912.1;Name=ABV53912.1;gbkey=CDS;locus_tag=anL56.5;product=ANL56.5;protein_id=ABV53912.1;transl_table=11
-AF441790.2	Genbank	gene	44122	44325	.	+	.	ID=gene-anL57;Name=anL57;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL57
-AF441790.2	Genbank	CDS	44122	44325	.	+	0	ID=cds-AAM81182.3;Parent=gene-anL57;Dbxref=NCBI_GP:AAM81182.3;Name=AAM81182.3;gbkey=CDS;locus_tag=anL57;product=ANL57;protein_id=AAM81182.3;transl_table=11
-AF441790.2	Genbank	gene	44375	45211	.	-	.	ID=gene-anL58;Name=anL58;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL58
-AF441790.2	Genbank	CDS	44375	45211	.	-	0	ID=cds-AAM81183.2;Parent=gene-anL58;Dbxref=NCBI_GP:AAM81183.2;Name=AAM81183.2;gbkey=CDS;locus_tag=anL58;product=ANL58;protein_id=AAM81183.2;transl_table=11
-AF441790.2	Genbank	gene	45309	45881	.	-	.	ID=gene-anL59;Name=anL59;gbkey=Gene;gene_biotype=protein_coding;locus_tag=anL59
-AF441790.2	Genbank	CDS	45309	45881	.	-	0	ID=cds-AAM81184.1;Parent=gene-anL59;Dbxref=NCBI_GP:AAM81184.1;Name=AAM81184.1;gbkey=CDS;locus_tag=anL59;product=ANL59;protein_id=AAM81184.1;transl_table=11
-AF441790.2	Genbank	sequence_feature	45382	45386	.	+	.	ID=id-AF441790.2:45382..45386;Note=mutagenized%3B insertion 2A8F4;gbkey=misc_feature
-AF441790.2	Genbank	sequence_feature	45628	45632	.	+	.	ID=id-AF441790.2:45628..45632;Note=mutagenized%3B insertion 2A8A6;gbkey=misc_feature
+NC_004073.2	RefSeq	region	1	46366	.	+	.	ID=NC_004073.2:1..46366;Dbxref=taxon:1140;Is_circular=true;Name=pANL;gbkey=Src;genome=plasmid;mol_type=genomic DNA;old-name=Synechococcus PCC7942;plasmid-name=pANL;strain=PCC 7942
+NC_004073.2	RefSeq	gene	205	3204	.	+	.	ID=gene-HKK26_RS00005;Name=HKK26_RS00005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00005;old_locus_tag=anL01
+NC_004073.2	Protein Homology	CDS	205	3204	.	+	0	ID=cds-WP_011055119.1;Parent=gene-HKK26_RS00005;Dbxref=Genbank:WP_011055119.1;Name=WP_011055119.1;gbkey=CDS;inference=COORDINATES: protein motif:HMM:NF024367.1;locus_tag=HKK26_RS00005;product=DUF3854 domain-containing protein;protein_id=WP_011055119.1;transl_table=11
+NC_004073.2	RefSeq	gene	3314	4228	.	-	.	ID=gene-HKK26_RS00010;Name=HKK26_RS00010;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00010;old_locus_tag=anL02
+NC_004073.2	Protein Homology	CDS	3314	4228	.	-	0	ID=cds-WP_011055120.1;Parent=gene-HKK26_RS00010;Dbxref=Genbank:WP_011055120.1;Name=WP_011055120.1;gbkey=CDS;inference=COORDINATES: protein motif:HMM:NF037930.1;locus_tag=HKK26_RS00010;product=hypothetical protein;protein_id=WP_011055120.1;transl_table=11
+NC_004073.2	RefSeq	gene	5275	6654	.	-	.	ID=gene-HKK26_RS00015;Name=HKK26_RS00015;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00015;old_locus_tag=anL05
+NC_004073.2	Protein Homology	CDS	5275	6654	.	-	0	ID=cds-WP_011377393.1;Parent=gene-HKK26_RS00015;Dbxref=Genbank:WP_011377393.1;Name=WP_011377393.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_015095919.1;locus_tag=HKK26_RS00015;product=DUF1254 domain-containing protein;protein_id=WP_011377393.1;transl_table=11
+NC_004073.2	RefSeq	gene	7072	8031	.	+	.	ID=gene-HKK26_RS00020;Name=HKK26_RS00020;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00020;old_locus_tag=anL06
+NC_004073.2	GeneMarkS-2+	CDS	7072	8031	.	+	0	ID=cds-WP_011055124.1;Parent=gene-HKK26_RS00020;Dbxref=Genbank:WP_011055124.1;Name=WP_011055124.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HKK26_RS00020;product=hypothetical protein;protein_id=WP_011055124.1;transl_table=11
+NC_004073.2	RefSeq	pseudogene	9463	9768	.	-	.	ID=gene-HKK26_RS00025;Name=HKK26_RS00025;end_range=9768,.;gbkey=Gene;gene_biotype=pseudogene;locus_tag=HKK26_RS00025;old_locus_tag=anL10;partial=true;pseudo=true
+NC_004073.2	Protein Homology	CDS	9463	9768	.	-	0	ID=cds-HKK26_RS00025;Parent=gene-HKK26_RS00025;Note=incomplete%3B partial in the middle of a contig%3B missing N-terminus;end_range=9768,.;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_011055144.1;locus_tag=HKK26_RS00025;partial=true;product=tyrosine-type recombinase/integrase;pseudo=true;transl_table=11
+NC_004073.2	RefSeq	gene	9877	10170	.	+	.	ID=gene-HKK26_RS00030;Name=HKK26_RS00030;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00030;old_locus_tag=anL11
+NC_004073.2	Protein Homology	CDS	9877	10170	.	+	0	ID=cds-WP_011055129.1;Parent=gene-HKK26_RS00030;Dbxref=Genbank:WP_011055129.1;Name=WP_011055129.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_006250894.1;locus_tag=HKK26_RS00030;product=BrnT family toxin;protein_id=WP_011055129.1;transl_table=11
+NC_004073.2	RefSeq	gene	10136	10465	.	+	.	ID=gene-HKK26_RS00035;Name=HKK26_RS00035;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00035;old_locus_tag=anL12
+NC_004073.2	Protein Homology	CDS	10136	10465	.	+	0	ID=cds-WP_011055130.1;Parent=gene-HKK26_RS00035;Dbxref=Genbank:WP_011055130.1;Name=WP_011055130.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_018054051.1;locus_tag=HKK26_RS00035;product=BrnA antitoxin family protein;protein_id=WP_011055130.1;transl_table=11
+NC_004073.2	RefSeq	gene	10980	11411	.	-	.	ID=gene-HKK26_RS00040;Name=HKK26_RS00040;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00040;old_locus_tag=anL15
+NC_004073.2	Protein Homology	CDS	10980	11411	.	-	0	ID=cds-WP_011055132.1;Parent=gene-HKK26_RS00040;Dbxref=Genbank:WP_011055132.1;Name=WP_011055132.1;gbkey=CDS;inference=COORDINATES: protein motif:HMM:NF021873.1;locus_tag=HKK26_RS00040;product=DUF2442 domain-containing protein;protein_id=WP_011055132.1;transl_table=11
+NC_004073.2	RefSeq	gene	11553	11726	.	+	.	ID=gene-HKK26_RS00045;Name=HKK26_RS00045;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00045;old_locus_tag=anL15.5
+NC_004073.2	Protein Homology	CDS	11553	11726	.	+	0	ID=cds-WP_155814009.1;Parent=gene-HKK26_RS00045;Dbxref=Genbank:WP_155814009.1;Name=WP_155814009.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_016876059.1;locus_tag=HKK26_RS00045;product=DUF4351 domain-containing protein;protein_id=WP_155814009.1;transl_table=11
+NC_004073.2	RefSeq	gene	11835	12809	.	-	.	ID=gene-HKK26_RS00050;Name=HKK26_RS00050;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00050;old_locus_tag=anL16
+NC_004073.2	Protein Homology	CDS	11835	12809	.	-	0	ID=cds-WP_011055134.1;Parent=gene-HKK26_RS00050;Dbxref=Genbank:WP_011055134.1;Name=WP_011055134.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_017286207.1;locus_tag=HKK26_RS00050;product=NAD(P)-dependent alcohol dehydrogenase;protein_id=WP_011055134.1;transl_table=11
+NC_004073.2	RefSeq	gene	13037	13762	.	-	.	ID=gene-HKK26_RS00055;Name=HKK26_RS00055;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00055;old_locus_tag=anL18
+NC_004073.2	Protein Homology	CDS	13037	13762	.	-	0	ID=cds-WP_011055135.1;Parent=gene-HKK26_RS00055;Dbxref=Genbank:WP_011055135.1;Name=WP_011055135.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_012166419.1;locus_tag=HKK26_RS00055;product=DJ-1/PfpI family protein;protein_id=WP_011055135.1;transl_table=11
+NC_004073.2	RefSeq	gene	13855	14562	.	+	.	ID=gene-HKK26_RS00060;Name=HKK26_RS00060;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00060;old_locus_tag=anL19
+NC_004073.2	Protein Homology	CDS	13855	14562	.	+	0	ID=cds-WP_011055136.1;Parent=gene-HKK26_RS00060;Dbxref=Genbank:WP_011055136.1;Name=WP_011055136.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_017748341.1;locus_tag=HKK26_RS00060;product=GAF domain-containing protein;protein_id=WP_011055136.1;transl_table=11
+NC_004073.2	RefSeq	gene	14905	15528	.	+	.	ID=gene-HKK26_RS00065;Name=HKK26_RS00065;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00065;old_locus_tag=anL21
+NC_004073.2	Protein Homology	CDS	14905	15528	.	+	0	ID=cds-WP_011055137.1;Parent=gene-HKK26_RS00065;Dbxref=Genbank:WP_011055137.1;Name=WP_011055137.1;gbkey=CDS;inference=COORDINATES: protein motif:HMM:NF015658.1;locus_tag=HKK26_RS00065;product=DUF305 domain-containing protein;protein_id=WP_011055137.1;transl_table=11
+NC_004073.2	RefSeq	gene	15804	17120	.	-	.	ID=gene-HKK26_RS00070;Name=HKK26_RS00070;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00070;old_locus_tag=anL22
+NC_004073.2	Protein Homology	CDS	15804	17120	.	-	0	ID=cds-WP_011055138.1;Parent=gene-HKK26_RS00070;Dbxref=Genbank:WP_011055138.1;Name=WP_011055138.1;gbkey=CDS;inference=COORDINATES: protein motif:HMM:NF012722.1%2CHMM:NF014567.1;locus_tag=HKK26_RS00070;product=HAMP domain-containing histidine kinase;protein_id=WP_011055138.1;transl_table=11
+NC_004073.2	RefSeq	gene	17089	17763	.	-	.	ID=gene-HKK26_RS00075;Name=HKK26_RS00075;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00075;old_locus_tag=anL23
+NC_004073.2	Protein Homology	CDS	17089	17763	.	-	0	ID=cds-WP_011055139.1;Parent=gene-HKK26_RS00075;Dbxref=Genbank:WP_011055139.1;Name=WP_011055139.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_017291438.1;locus_tag=HKK26_RS00075;product=response regulator transcription factor;protein_id=WP_011055139.1;transl_table=11
+NC_004073.2	RefSeq	gene	17986	18468	.	+	.	ID=gene-HKK26_RS00080;Name=HKK26_RS00080;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00080;old_locus_tag=anL24
+NC_004073.2	Protein Homology	CDS	17986	18468	.	+	0	ID=cds-WP_011055140.1;Parent=gene-HKK26_RS00080;Dbxref=Genbank:WP_011055140.1;Name=WP_011055140.1;gbkey=CDS;inference=COORDINATES: protein motif:HMM:NF013938.1;locus_tag=HKK26_RS00080;product=ANL24;protein_id=WP_011055140.1;transl_table=11
+NC_004073.2	RefSeq	gene	18632	19222	.	+	.	ID=gene-HKK26_RS00085;Name=HKK26_RS00085;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00085;old_locus_tag=anL25
+NC_004073.2	GeneMarkS-2+	CDS	18632	19222	.	+	0	ID=cds-WP_011055141.1;Parent=gene-HKK26_RS00085;Dbxref=Genbank:WP_011055141.1;Name=WP_011055141.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HKK26_RS00085;product=winged helix-turn-helix transcriptional regulator;protein_id=WP_011055141.1;transl_table=11
+NC_004073.2	RefSeq	gene	20113	21075	.	-	.	ID=gene-HKK26_RS00090;Name=HKK26_RS00090;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00090;old_locus_tag=anL28
+NC_004073.2	Protein Homology	CDS	20113	21075	.	-	0	ID=cds-WP_011055144.1;Parent=gene-HKK26_RS00090;Dbxref=Genbank:WP_011055144.1;Name=WP_011055144.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_011055144.1;locus_tag=HKK26_RS00090;product=tyrosine-type recombinase/integrase;protein_id=WP_011055144.1;transl_table=11
+NC_004073.2	RefSeq	gene	21165	21515	.	-	.	ID=gene-HKK26_RS00095;Name=HKK26_RS00095;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00095;old_locus_tag=anL29
+NC_004073.2	Protein Homology	CDS	21165	21515	.	-	0	ID=cds-WP_011055145.1;Parent=gene-HKK26_RS00095;Dbxref=Genbank:WP_011055145.1;Name=WP_011055145.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_016874595.1;locus_tag=HKK26_RS00095;product=type II toxin-antitoxin system PemK/MazF family toxin;protein_id=WP_011055145.1;transl_table=11
+NC_004073.2	RefSeq	gene	21506	21721	.	-	.	ID=gene-HKK26_RS00100;Name=HKK26_RS00100;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00100;old_locus_tag=anL29.5
+NC_004073.2	Protein Homology	CDS	21506	21721	.	-	0	ID=cds-WP_011055146.1;Parent=gene-HKK26_RS00100;Dbxref=Genbank:WP_011055146.1;Name=WP_011055146.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_015156248.1;locus_tag=HKK26_RS00100;product=hypothetical protein;protein_id=WP_011055146.1;transl_table=11
+NC_004073.2	RefSeq	gene	21765	22094	.	-	.	ID=gene-HKK26_RS00105;Name=HKK26_RS00105;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00105;old_locus_tag=anL30
+NC_004073.2	Protein Homology	CDS	21765	22094	.	-	0	ID=cds-WP_011055147.1;Parent=gene-HKK26_RS00105;Dbxref=Genbank:WP_011055147.1;Name=WP_011055147.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_015150900.1;locus_tag=HKK26_RS00105;product=nucleotidyltransferase domain-containing protein;protein_id=WP_011055147.1;transl_table=11
+NC_004073.2	RefSeq	gene	22197	23021	.	-	.	ID=gene-HKK26_RS00110;Name=HKK26_RS00110;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00110;old_locus_tag=anL31
+NC_004073.2	Protein Homology	CDS	22197	23021	.	-	0	ID=cds-WP_011055148.1;Parent=gene-HKK26_RS00110;Dbxref=Genbank:WP_011055148.1;Name=WP_011055148.1;gbkey=CDS;inference=COORDINATES: protein motif:HMM:NF014273.1;locus_tag=HKK26_RS00110;product=ParB/RepB/Spo0J family partition protein;protein_id=WP_011055148.1;transl_table=11
+NC_004073.2	RefSeq	gene	23018	23629	.	-	.	ID=gene-HKK26_RS00115;Name=HKK26_RS00115;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00115;old_locus_tag=anL32
+NC_004073.2	Protein Homology	CDS	23018	23629	.	-	0	ID=cds-WP_011055149.1;Parent=gene-HKK26_RS00115;Dbxref=Genbank:WP_011055149.1;Name=WP_011055149.1;gbkey=CDS;inference=COORDINATES: protein motif:HMM:NF013793.1;locus_tag=HKK26_RS00115;product=ParA family protein;protein_id=WP_011055149.1;transl_table=11
+NC_004073.2	RefSeq	gene	23763	24029	.	+	.	ID=gene-HKK26_RS00120;Name=HKK26_RS00120;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00120;old_locus_tag=anL33
+NC_004073.2	GeneMarkS-2+	CDS	23763	24029	.	+	0	ID=cds-WP_011055150.1;Parent=gene-HKK26_RS00120;Dbxref=Genbank:WP_011055150.1;Name=WP_011055150.1;gbkey=CDS;inference=COORDINATES: ab initio prediction:GeneMarkS-2+;locus_tag=HKK26_RS00120;product=hypothetical protein;protein_id=WP_011055150.1;transl_table=11
+NC_004073.2	RefSeq	gene	24040	24423	.	+	.	ID=gene-HKK26_RS00125;Name=HKK26_RS00125;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00125;old_locus_tag=anL34
+NC_004073.2	Protein Homology	CDS	24040	24423	.	+	0	ID=cds-WP_011055151.1;Parent=gene-HKK26_RS00125;Dbxref=Genbank:WP_011055151.1;Name=WP_011055151.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_015198000.1;locus_tag=HKK26_RS00125;product=type II toxin-antitoxin system VapC family toxin;protein_id=WP_011055151.1;transl_table=11
+NC_004073.2	RefSeq	gene	24420	24770	.	-	.	ID=gene-HKK26_RS00130;Name=HKK26_RS00130;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00130;old_locus_tag=anL35
+NC_004073.2	Protein Homology	CDS	24420	24770	.	-	0	ID=cds-WP_011055152.1;Parent=gene-HKK26_RS00130;Dbxref=Genbank:WP_011055152.1;Name=WP_011055152.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_019594815.1;locus_tag=HKK26_RS00130;product=sulfurtransferase;protein_id=WP_011055152.1;transl_table=11
+NC_004073.2	RefSeq	gene	24860	26740	.	-	.	ID=gene-HKK26_RS00135;Name=sufS;gbkey=Gene;gene=sufS;gene_biotype=protein_coding;locus_tag=HKK26_RS00135;old_locus_tag=anL36
+NC_004073.2	Protein Homology	CDS	24860	26740	.	-	0	ID=cds-WP_011055153.1;Parent=gene-HKK26_RS00135;Dbxref=Genbank:WP_011055153.1;Name=WP_011055153.1;gbkey=CDS;gene=sufS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_012264804.1;locus_tag=HKK26_RS00135;product=SufS family cysteine desulfurase;protein_id=WP_011055153.1;transl_table=11
+NC_004073.2	RefSeq	gene	26975	27895	.	-	.	ID=gene-HKK26_RS00140;Name=HKK26_RS00140;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00140;old_locus_tag=anL38
+NC_004073.2	Protein Homology	CDS	26975	27895	.	-	0	ID=cds-WP_011055154.1;Parent=gene-HKK26_RS00140;Dbxref=Genbank:WP_011055154.1;Name=WP_011055154.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_011055154.1;locus_tag=HKK26_RS00140;product=protein SrpI;protein_id=WP_011055154.1;transl_table=11
+NC_004073.2	RefSeq	gene	27990	28949	.	-	.	ID=gene-HKK26_RS00145;Name=HKK26_RS00145;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00145;old_locus_tag=anL39
+NC_004073.2	Protein Homology	CDS	27990	28949	.	-	0	ID=cds-WP_011055155.1;Parent=gene-HKK26_RS00145;Dbxref=Genbank:WP_011055155.1;Name=WP_011055155.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_011055155.1;locus_tag=HKK26_RS00145;product=serine acetyltransferase;protein_id=WP_011055155.1;transl_table=11
+NC_004073.2	RefSeq	gene	28946	29935	.	-	.	ID=gene-HKK26_RS00150;Name=cysK;gbkey=Gene;gene=cysK;gene_biotype=protein_coding;locus_tag=HKK26_RS00150;old_locus_tag=anL40
+NC_004073.2	Protein Homology	CDS	28946	29935	.	-	0	ID=cds-WP_011055156.1;Parent=gene-HKK26_RS00150;Dbxref=Genbank:WP_011055156.1;Name=WP_011055156.1;gbkey=CDS;gene=cysK;inference=COORDINATES: similar to AA sequence:RefSeq:WP_011055156.1;locus_tag=HKK26_RS00150;product=cysteine synthase A;protein_id=WP_011055156.1;transl_table=11
+NC_004073.2	RefSeq	gene	30394	30750	.	+	.	ID=gene-HKK26_RS00155;Name=HKK26_RS00155;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00155;old_locus_tag=anL42
+NC_004073.2	Protein Homology	CDS	30394	30750	.	+	0	ID=cds-WP_040113194.1;Parent=gene-HKK26_RS00155;Dbxref=Genbank:WP_040113194.1;Name=WP_040113194.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_015114944.1;locus_tag=HKK26_RS00155;product=four-helix bundle copper-binding protein;protein_id=WP_040113194.1;transl_table=11
+NC_004073.2	RefSeq	gene	31000	31545	.	-	.	ID=gene-HKK26_RS00160;Name=HKK26_RS00160;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00160;old_locus_tag=anL43
+NC_004073.2	Protein Homology	CDS	31000	31545	.	-	0	ID=cds-WP_011055158.1;Parent=gene-HKK26_RS00160;Dbxref=Genbank:WP_011055158.1;Name=WP_011055158.1;gbkey=CDS;inference=COORDINATES: protein motif:HMM:NF015065.1;locus_tag=HKK26_RS00160;product=ANL43;protein_id=WP_011055158.1;transl_table=11
+NC_004073.2	RefSeq	gene	31647	32081	.	+	.	ID=gene-HKK26_RS00165;Name=HKK26_RS00165;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00165;old_locus_tag=anL44
+NC_004073.2	Protein Homology	CDS	31647	32081	.	+	0	ID=cds-WP_011055159.1;Parent=gene-HKK26_RS00165;Dbxref=Genbank:WP_011055159.1;Name=WP_011055159.1;gbkey=CDS;inference=COORDINATES: protein motif:HMM:TIGR00738.1;locus_tag=HKK26_RS00165;product=Rrf2 family transcriptional regulator;protein_id=WP_011055159.1;transl_table=11
+NC_004073.2	RefSeq	gene	32300	32878	.	+	.	ID=gene-HKK26_RS00170;Name=HKK26_RS00170;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00170;old_locus_tag=anL45
+NC_004073.2	Protein Homology	CDS	32300	32878	.	+	0	ID=cds-WP_011055160.1;Parent=gene-HKK26_RS00170;Dbxref=Genbank:WP_011055160.1;Name=WP_011055160.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_007323645.1;locus_tag=HKK26_RS00170;product=carbonic anhydrase;protein_id=WP_011055160.1;transl_table=11
+NC_004073.2	RefSeq	gene	32980	33999	.	+	.	ID=gene-HKK26_RS00175;Name=HKK26_RS00175;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00175;old_locus_tag=anL46
+NC_004073.2	Protein Homology	CDS	32980	33999	.	+	0	ID=cds-WP_011055161.1;Parent=gene-HKK26_RS00175;Dbxref=Genbank:WP_011055161.1;Name=WP_011055161.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_012839758.1;locus_tag=HKK26_RS00175;product=catalase family peroxidase;protein_id=WP_011055161.1;transl_table=11
+NC_004073.2	RefSeq	gene	34100	34648	.	+	.	ID=gene-HKK26_RS00180;Name=HKK26_RS00180;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00180;old_locus_tag=anL47
+NC_004073.2	Protein Homology	CDS	34100	34648	.	+	0	ID=cds-WP_011055162.1;Parent=gene-HKK26_RS00180;Dbxref=Genbank:WP_011055162.1;Name=WP_011055162.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_011055162.1;locus_tag=HKK26_RS00180;product=MgtC/SapB family protein;protein_id=WP_011055162.1;transl_table=11
+NC_004073.2	RefSeq	gene	34800	35981	.	+	.	ID=gene-HKK26_RS00185;Name=HKK26_RS00185;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00185;old_locus_tag=anL48
+NC_004073.2	Protein Homology	CDS	34800	35981	.	+	0	ID=cds-WP_011055163.1;Parent=gene-HKK26_RS00185;Dbxref=Genbank:WP_011055163.1;Name=WP_011055163.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_011055163.1;locus_tag=HKK26_RS00185;product=chromate transporter;protein_id=WP_011055163.1;transl_table=11
+NC_004073.2	RefSeq	gene	36112	37101	.	+	.	ID=gene-HKK26_RS00190;Name=cysK;gbkey=Gene;gene=cysK;gene_biotype=protein_coding;locus_tag=HKK26_RS00190;old_locus_tag=anL49
+NC_004073.2	Protein Homology	CDS	36112	37101	.	+	0	ID=cds-WP_011055164.1;Parent=gene-HKK26_RS00190;Dbxref=Genbank:WP_011055164.1;Name=WP_011055164.1;gbkey=CDS;gene=cysK;inference=COORDINATES: similar to AA sequence:RefSeq:WP_012374887.1;locus_tag=HKK26_RS00190;product=cysteine synthase A;protein_id=WP_011055164.1;transl_table=11
+NC_004073.2	RefSeq	gene	37098	38624	.	+	.	ID=gene-HKK26_RS00195;Name=HKK26_RS00195;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00195;old_locus_tag=anL50
+NC_004073.2	Protein Homology	CDS	37098	38624	.	+	0	ID=cds-WP_011055165.1;Parent=gene-HKK26_RS00195;Dbxref=Genbank:WP_011055165.1;Name=WP_011055165.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_013178891.1;locus_tag=HKK26_RS00195;product=gamma-glutamyltransferase family protein;protein_id=WP_011055165.1;transl_table=11
+NC_004073.2	RefSeq	gene	38849	39376	.	+	.	ID=gene-HKK26_RS00200;Name=HKK26_RS00200;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00200;old_locus_tag=anL51
+NC_004073.2	Protein Homology	CDS	38849	39376	.	+	0	ID=cds-WP_011055166.1;Parent=gene-HKK26_RS00200;Dbxref=Genbank:WP_011055166.1;Name=WP_011055166.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_016517031.1;locus_tag=HKK26_RS00200;product=DUF4242 domain-containing protein;protein_id=WP_011055166.1;transl_table=11
+NC_004073.2	RefSeq	gene	39285	40448	.	+	.	ID=gene-HKK26_RS00205;Name=HKK26_RS00205;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00205;old_locus_tag=anL52
+NC_004073.2	Protein Homology	CDS	39285	40448	.	+	0	ID=cds-WP_155814008.1;Parent=gene-HKK26_RS00205;Dbxref=Genbank:WP_155814008.1;Name=WP_155814008.1;gbkey=CDS;inference=COORDINATES: protein motif:HMM:NF014790.1;locus_tag=HKK26_RS00205;product=acyl-CoA dehydrogenase family protein;protein_id=WP_155814008.1;transl_table=11
+NC_004073.2	RefSeq	gene	40445	41257	.	+	.	ID=gene-HKK26_RS00210;Name=HKK26_RS00210;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00210;old_locus_tag=anL53
+NC_004073.2	Protein Homology	CDS	40445	41257	.	+	0	ID=cds-WP_011055168.1;Parent=gene-HKK26_RS00210;Dbxref=Genbank:WP_011055168.1;Name=WP_011055168.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_009625564.1;locus_tag=HKK26_RS00210;product=ABC transporter ATP-binding protein;protein_id=WP_011055168.1;transl_table=11
+NC_004073.2	RefSeq	gene	41283	42506	.	+	.	ID=gene-HKK26_RS00215;Name=HKK26_RS00215;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00215;old_locus_tag=anL54
+NC_004073.2	Protein Homology	CDS	41283	42506	.	+	0	ID=cds-WP_011055169.1;Parent=gene-HKK26_RS00215;Dbxref=Genbank:WP_011055169.1;Name=WP_011055169.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_006278076.1;locus_tag=HKK26_RS00215;product=ABC transporter substrate-binding protein;protein_id=WP_011055169.1;transl_table=11
+NC_004073.2	RefSeq	gene	42508	43308	.	+	.	ID=gene-HKK26_RS00220;Name=HKK26_RS00220;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00220;old_locus_tag=anL55
+NC_004073.2	Protein Homology	CDS	42508	43308	.	+	0	ID=cds-WP_011055170.1;Parent=gene-HKK26_RS00220;Dbxref=Genbank:WP_011055170.1;Name=WP_011055170.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_009343911.1;locus_tag=HKK26_RS00220;product=ABC transporter permease;protein_id=WP_011055170.1;transl_table=11
+NC_004073.2	RefSeq	gene	43634	43912	.	+	.	ID=gene-HKK26_RS00225;Name=HKK26_RS00225;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00225;old_locus_tag=anL56
+NC_004073.2	Protein Homology	CDS	43634	43912	.	+	0	ID=cds-WP_011055172.1;Parent=gene-HKK26_RS00225;Dbxref=Genbank:WP_011055172.1;Name=WP_011055172.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_007566170.1;locus_tag=HKK26_RS00225;product=BrnT family toxin;protein_id=WP_011055172.1;transl_table=11
+NC_004073.2	RefSeq	gene	43866	44117	.	+	.	ID=gene-HKK26_RS00230;Name=HKK26_RS00230;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00230;old_locus_tag=anL56.5
+NC_004073.2	Protein Homology	CDS	43866	44117	.	+	0	ID=cds-WP_011055173.1;Parent=gene-HKK26_RS00230;Dbxref=Genbank:WP_011055173.1;Name=WP_011055173.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_018413132.1;locus_tag=HKK26_RS00230;product=BrnA antitoxin family protein;protein_id=WP_011055173.1;transl_table=11
+NC_004073.2	RefSeq	gene	44375	45211	.	-	.	ID=gene-HKK26_RS00235;Name=HKK26_RS00235;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00235;old_locus_tag=anL58
+NC_004073.2	Protein Homology	CDS	44375	45211	.	-	0	ID=cds-WP_011055175.1;Parent=gene-HKK26_RS00235;Dbxref=Genbank:WP_011055175.1;Name=WP_011055175.1;gbkey=CDS;inference=COORDINATES: similar to AA sequence:RefSeq:WP_007154505.1;locus_tag=HKK26_RS00235;product=DUF4062 domain-containing protein;protein_id=WP_011055175.1;transl_table=11
+NC_004073.2	RefSeq	gene	45309	45860	.	-	.	ID=gene-HKK26_RS00240;Name=HKK26_RS00240;gbkey=Gene;gene_biotype=protein_coding;locus_tag=HKK26_RS00240;old_locus_tag=anL59
+NC_004073.2	Protein Homology	CDS	45309	45860	.	-	0	ID=cds-WP_011377392.1;Parent=gene-HKK26_RS00240;Dbxref=Genbank:WP_011377392.1;Name=WP_011377392.1;gbkey=CDS;inference=COORDINATES: protein motif:HMM:NF025030.1;locus_tag=HKK26_RS00240;product=HEAT repeat domain-containing protein;protein_id=WP_011377392.1;transl_table=11
 
